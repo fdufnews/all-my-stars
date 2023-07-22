@@ -225,6 +225,7 @@
 
 ## others 
 
+- [peterkovesi/PerceptualColourMaps.jl](https://github.com/peterkovesi/PerceptualColourMaps.jl) - Perceptually Uniform Colour Maps for Julia
 - [cecio/USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
 - [ripred/Smooth](https://github.com/ripred/Smooth) - Keep smooth running averages without using arrays! Uses exponential moving averages and only 8-bytes no matter how many samples! No looping! No Arrays! Constant Compute Time! The sample size is adjust
 - [madhephaestus/ESP32Encoder](https://github.com/madhephaestus/ESP32Encoder) - A Quadrature and half quadrature PCNT peripheral driven encoder library supporting 8 encoders
