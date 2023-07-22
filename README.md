@@ -16,6 +16,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
+- [Julia](#julia)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -180,6 +181,10 @@
 - [sidoh/epaper_templates](https://github.com/sidoh/epaper_templates) - Template-oriented driver for e-paper displays
 - [josecurras/Arduinolyzer.js](https://github.com/josecurras/Arduinolyzer.js) - A logic analyzer for the Arduino, implemented in Node.js and HTML5
 - [wavedrom/wavedrom.github.io](https://github.com/wavedrom/wavedrom.github.io) - Digital timing diagram editor
+
+## Julia 
+
+- [peterkovesi/PerceptualColourMaps.jl](https://github.com/peterkovesi/PerceptualColourMaps.jl) - Perceptually Uniform Colour Maps for Julia
 
 ## OCaml 
 
