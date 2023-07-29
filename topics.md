@@ -225,6 +225,7 @@
 
 ## others 
 
+- [joshuanunn/micropython_mlx90621](https://github.com/joshuanunn/micropython_mlx90621) - Micropython module to communicate with Melexis MLX90621 16 x 4 Pixel Thermal Imager
 - [peterkovesi/PerceptualColourMaps.jl](https://github.com/peterkovesi/PerceptualColourMaps.jl) - Perceptually Uniform Colour Maps for Julia
 - [cecio/USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
 - [ripred/Smooth](https://github.com/ripred/Smooth) - Keep smooth running averages without using arrays! Uses exponential moving averages and only 8-bytes no matter how many samples! No looping! No Arrays! Constant Compute Time! The sample size is adjust
