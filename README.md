@@ -210,6 +210,7 @@
 
 ## Python 
 
+- [joshuanunn/micropython_mlx90621](https://github.com/joshuanunn/micropython_mlx90621) - Micropython module to communicate with Melexis MLX90621 16 x 4 Pixel Thermal Imager
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [Supreeeme/gedit-source-code-browser](https://github.com/Supreeeme/gedit-source-code-browser) - A source code class and function browser plugin for Gedit 40.
