@@ -225,6 +225,9 @@
 
 ## others 
 
+- [peterhinch/micropython-monitor](https://github.com/peterhinch/micropython-monitor) - Display the behaviour of a realtime program with a scope or logic analyser.
+- [phoreglad/micropython-async](https://github.com/phoreglad/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code.
+- [phoreglad/pico-MP-modules](https://github.com/phoreglad/pico-MP-modules) - Collection of modules for Raspberry Pi Pico written in MicroPython. Most should work with other boards running MP.
 - [ropg/ezTime](https://github.com/ropg/ezTime) - ezTime — pronounced "Easy Time" — is a very easy to use Arduino time and date library that provides NTP network time lookups, extensive timezone support, formatted time and date strings, user events, 
 - [joshuanunn/micropython_mlx90621](https://github.com/joshuanunn/micropython_mlx90621) - Micropython module to communicate with Melexis MLX90621 16 x 4 Pixel Thermal Imager
 - [peterkovesi/PerceptualColourMaps.jl](https://github.com/peterkovesi/PerceptualColourMaps.jl) - Perceptually Uniform Colour Maps for Julia
