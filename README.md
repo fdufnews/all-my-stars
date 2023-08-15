@@ -211,6 +211,7 @@
 
 ## Python 
 
+- [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [peterhinch/micropython-monitor](https://github.com/peterhinch/micropython-monitor) - Display the behaviour of a realtime program with a scope or logic analyser.
 - [phoreglad/micropython-async](https://github.com/phoreglad/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code.
 - [phoreglad/pico-MP-modules](https://github.com/phoreglad/pico-MP-modules) - Collection of modules for Raspberry Pi Pico written in MicroPython. Most should work with other boards running MP.
