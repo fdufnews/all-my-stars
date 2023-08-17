@@ -225,6 +225,7 @@
 
 ## others 
 
+- [Researchnix/micropython-button](https://github.com/Researchnix/micropython-button) - This is a micropython module to software debounce the input signal of a button. It moreover adds the functionality of appending listeners to a button to distinguish between a short, long and continuou
 - [peterhinch/micropython-monitor](https://github.com/peterhinch/micropython-monitor) - Display the behaviour of a realtime program with a scope or logic analyser.
 - [phoreglad/micropython-async](https://github.com/phoreglad/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code.
 - [phoreglad/pico-MP-modules](https://github.com/phoreglad/pico-MP-modules) - Collection of modules for Raspberry Pi Pico written in MicroPython. Most should work with other boards running MP.
