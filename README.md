@@ -211,6 +211,7 @@
 
 ## Python 
 
+- [qwertpas/SerpentSerialTool](https://github.com/qwertpas/SerpentSerialTool) - App to display and plot serial data
 - [Researchnix/micropython-button](https://github.com/Researchnix/micropython-button) - This is a micropython module to software debounce the input signal of a button. It moreover adds the functionality of appending listeners to a button to distinguish between a short, long and continuou
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [peterhinch/micropython-monitor](https://github.com/peterhinch/micropython-monitor) - Display the behaviour of a realtime program with a scope or logic analyser.
