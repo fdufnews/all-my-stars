@@ -225,6 +225,7 @@
 
 ## others 
 
+- [leoheck/kiri](https://github.com/leoheck/kiri) - Kiri is a visual tool designed for reviewing schematics and layouts of KiCad projects that are version-controlled with Git.
 - [qwertpas/SerpentSerialTool](https://github.com/qwertpas/SerpentSerialTool) - App to display and plot serial data
 - [Researchnix/micropython-button](https://github.com/Researchnix/micropython-button) - This is a micropython module to software debounce the input signal of a button. It moreover adds the functionality of appending listeners to a button to distinguish between a short, long and continuou
 - [peterhinch/micropython-monitor](https://github.com/peterhinch/micropython-monitor) - Display the behaviour of a realtime program with a scope or logic analyser.
