@@ -262,6 +262,7 @@
 
 ## Shell 
 
+- [leoheck/kiri](https://github.com/leoheck/kiri) - Kiri is a visual tool designed for reviewing schematics and layouts of KiCad projects that are version-controlled with Git.
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
