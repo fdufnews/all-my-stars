@@ -211,6 +211,7 @@
 
 ## Python 
 
+- [elschopi/TI_INA226_micropython](https://github.com/elschopi/TI_INA226_micropython) - Micropython driver for Texas Instruments INA226 power measuring IC
 - [jbentham/picofreq](https://github.com/jbentham/picofreq) - Accurate frequency measurement using a Pi Pico RP2040
 - [qwertpas/SerpentSerialTool](https://github.com/qwertpas/SerpentSerialTool) - App to display and plot serial data
 - [Researchnix/micropython-button](https://github.com/Researchnix/micropython-button) - This is a micropython module to software debounce the input signal of a button. It moreover adds the functionality of appending listeners to a button to distinguish between a short, long and continuou
