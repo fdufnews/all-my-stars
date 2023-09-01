@@ -225,6 +225,7 @@
 
 ## others 
 
+- [elschopi/TI_INA226_micropython](https://github.com/elschopi/TI_INA226_micropython) - Micropython driver for Texas Instruments INA226 power measuring IC
 - [jbentham/picofreq](https://github.com/jbentham/picofreq) - Accurate frequency measurement using a Pi Pico RP2040
 - [leoheck/kiri](https://github.com/leoheck/kiri) - Kiri is a visual tool designed for reviewing schematics and layouts of KiCad projects that are version-controlled with Git.
 - [qwertpas/SerpentSerialTool](https://github.com/qwertpas/SerpentSerialTool) - App to display and plot serial data
