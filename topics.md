@@ -225,6 +225,7 @@
 
 ## others 
 
+- [trustMeIAmANinja/pi-world-radio](https://github.com/trustMeIAmANinja/pi-world-radio) - A retro radio to tune-in to streaming stations from around the world.
 - [plugowski/micropython-utils](https://github.com/plugowski/micropython-utils) - Some utils and libraries for MicroPython
 - [plugowski/umenu](https://github.com/plugowski/umenu) - Menu generator for MicroPython
 - [elschopi/TI_INA226_micropython](https://github.com/elschopi/TI_INA226_micropython) - Micropython driver for Texas Instruments INA226 power measuring IC
