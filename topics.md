@@ -361,6 +361,7 @@
 
 ## python 
 
+- [mathoudebine/turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python) - Unofficial Python system monitor and library for 3.5" and 5" IPS USB-C displays like Turing Smart Screen or XuanFang
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [bellingeri/localPTZtime](https://github.com/bellingeri/localPTZtime) - Simple TimeZone and DST support for MicroPython
 - [jczic/ESP32-MPY-Jama](https://github.com/jczic/ESP32-MPY-Jama) - v1.2 - UI tool for manage Espressif ESP32 microcontrollers with embedded MicroPython for MacOS, Windows and Linux: mini IDE, files manager, REPL, real time dashboards (sys/net), advanced features (gpi
