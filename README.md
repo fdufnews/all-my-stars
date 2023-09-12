@@ -212,6 +212,7 @@
 
 ## Python 
 
+- [mathoudebine/turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python) - Unofficial Python system monitor and library for 3.5" and 5" IPS USB-C displays like Turing Smart Screen or XuanFang
 - [plugowski/micropython-utils](https://github.com/plugowski/micropython-utils) - Some utils and libraries for MicroPython
 - [plugowski/umenu](https://github.com/plugowski/umenu) - Menu generator for MicroPython
 - [elschopi/TI_INA226_micropython](https://github.com/elschopi/TI_INA226_micropython) - Micropython driver for Texas Instruments INA226 power measuring IC
