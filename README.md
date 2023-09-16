@@ -39,6 +39,7 @@
 
 ## C 
 
+- [greiman/SSD1306Ascii](https://github.com/greiman/SSD1306Ascii) - Text only Arduino Library for SSD1306 OLED displays
 - [cecio/USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
 - [s00500/ESPUI](https://github.com/s00500/ESPUI) - A simple web user interface library for ESP32 and ESP8266
 - [slviajero/tinybasic](https://github.com/slviajero/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
