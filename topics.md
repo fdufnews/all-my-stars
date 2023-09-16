@@ -225,6 +225,7 @@
 
 ## others 
 
+- [greiman/SSD1306Ascii](https://github.com/greiman/SSD1306Ascii) - Text only Arduino Library for SSD1306 OLED displays
 - [trustMeIAmANinja/pi-world-radio](https://github.com/trustMeIAmANinja/pi-world-radio) - A retro radio to tune-in to streaming stations from around the world.
 - [plugowski/micropython-utils](https://github.com/plugowski/micropython-utils) - Some utils and libraries for MicroPython
 - [plugowski/umenu](https://github.com/plugowski/umenu) - Menu generator for MicroPython
