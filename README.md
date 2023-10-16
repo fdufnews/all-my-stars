@@ -17,6 +17,7 @@
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Julia](#julia)
+- [Lua](#lua)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -25,6 +26,7 @@
 - [Ruby](#ruby)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+- [Vim Script](#vim-script)
 
 ## Arduino 
 
@@ -189,6 +191,10 @@
 
 - [peterkovesi/PerceptualColourMaps.jl](https://github.com/peterkovesi/PerceptualColourMaps.jl) - Perceptually Uniform Colour Maps for Julia
 
+## Lua 
+
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
+
 ## OCaml 
 
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
@@ -281,6 +287,10 @@
 ## TypeScript 
 
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+
+## Vim Script 
+
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 
 ## License
