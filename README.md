@@ -88,6 +88,8 @@
 
 ## C++ 
 
+- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - Packet Monitor, WiFi Analyzer, Beacon Spam, Deauth Detector
+- [cifertech/WiFiBox](https://github.com/cifertech/WiFiBox) - Packet Monitor with Waterfall Plot using ESP32
 - [ropg/ezTime](https://github.com/ropg/ezTime) - ezTime — pronounced "Easy Time" — is a very easy to use Arduino time and date library that provides NTP network time lookups, extensive timezone support, formatted time and date strings, user events, 
 - [ripred/Smooth](https://github.com/ripred/Smooth) - Keep smooth running averages without using arrays! Uses exponential moving averages and only 8-bytes no matter how many samples! No looping! No Arrays! Constant Compute Time! The sample size is adjust
 - [madhephaestus/ESP32Encoder](https://github.com/madhephaestus/ESP32Encoder) - A Quadrature and half quadrature PCNT peripheral driven encoder library supporting 8 encoders
@@ -219,6 +221,7 @@
 
 ## Python 
 
+- [jeffmer/micropython-ili9341](https://github.com/jeffmer/micropython-ili9341) - Micropython Driver for ILI9341 display
 - [mathoudebine/turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python) - Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen or XuanFang
 - [plugowski/micropython-utils](https://github.com/plugowski/micropython-utils) - Some utils and libraries for MicroPython
 - [plugowski/umenu](https://github.com/plugowski/umenu) - Menu generator for MicroPython
