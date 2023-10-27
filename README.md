@@ -24,6 +24,7 @@
 - [Pascal](#pascal)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -275,6 +276,10 @@
 ## Ruby 
 
 - [ttscoff/mdless](https://github.com/ttscoff/mdless) - 
+
+## Rust 
+
+- [kriomant/ch57x-keyboard-tool](https://github.com/kriomant/ch57x-keyboard-tool) - Utility for programming ch57x small keyboard
 
 ## Shell 
 
