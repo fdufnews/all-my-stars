@@ -244,6 +244,8 @@
 
 ## others 
 
+- [mattybrad/drumkid](https://github.com/mattybrad/drumkid) - 
+- [bitbank2/AnimatedGIF](https://github.com/bitbank2/AnimatedGIF) - A lightweight Arduino GIF decoder for playing animated files from memory or files on SD cards
 - [sb-ocr/ocreeb-12](https://github.com/sb-ocr/ocreeb-12) - A 12 key macropad running KMK
 - [nevyn-hira/macrokeyboard](https://github.com/nevyn-hira/macrokeyboard) - 
 - [kriomant/ch57x-keyboard-tool](https://github.com/kriomant/ch57x-keyboard-tool) - Utility for programming ch57x small keyboard
@@ -404,6 +406,7 @@
 
 ## raspberry-pi 
 
+- [Guitarman9119/Raspberry-Pi-Pico-](https://github.com/Guitarman9119/Raspberry-Pi-Pico-) - Tutorials / Projects and Devlog - Course Related to the Raspberry Pi Pico
 - [MattGrayYes/epic](https://github.com/MattGrayYes/epic) - DSCOVR:EPIC image viewer for Raspberry Pi with Pimoroni 2.1" Hyperpixel Round display.
 - [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
 - [veebch/heat-o-matic](https://github.com/veebch/heat-o-matic) - Proportional Integral Derivative controller using pi pico
