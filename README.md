@@ -42,6 +42,7 @@
 
 ## C 
 
+- [bitbank2/AnimatedGIF](https://github.com/bitbank2/AnimatedGIF) - A lightweight Arduino GIF decoder for playing animated files from memory or files on SD cards
 - [greiman/SSD1306Ascii](https://github.com/greiman/SSD1306Ascii) - Text only Arduino Library for SSD1306 OLED displays
 - [cecio/USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
 - [slviajero/tinybasic](https://github.com/slviajero/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
@@ -173,6 +174,7 @@
 
 ## HTML 
 
+- [mattybrad/drumkid](https://github.com/mattybrad/drumkid) - 
 - [vdeschwb/esp32-signal-generator](https://github.com/vdeschwb/esp32-signal-generator) - Open-Source Signal Generator using the ESP32 uC
 - [uPesy/awesome-micropython](https://github.com/uPesy/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources.
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
@@ -222,6 +224,7 @@
 
 ## Python 
 
+- [Guitarman9119/Raspberry-Pi-Pico-](https://github.com/Guitarman9119/Raspberry-Pi-Pico-) - Tutorials / Projects and Devlog - Course Related to the Raspberry Pi Pico
 - [sb-ocr/ocreeb-12](https://github.com/sb-ocr/ocreeb-12) - A 12 key macropad running KMK
 - [nevyn-hira/macrokeyboard](https://github.com/nevyn-hira/macrokeyboard) - 
 - [jeffmer/micropython-ili9341](https://github.com/jeffmer/micropython-ili9341) - Micropython Driver for ILI9341 display
