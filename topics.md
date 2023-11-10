@@ -244,6 +244,7 @@
 
 ## others 
 
+- [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
 - [mattybrad/drumkid](https://github.com/mattybrad/drumkid) - 
 - [bitbank2/AnimatedGIF](https://github.com/bitbank2/AnimatedGIF) - A lightweight Arduino GIF decoder for playing animated files from memory or files on SD cards
 - [sb-ocr/ocreeb-12](https://github.com/sb-ocr/ocreeb-12) - A 12 key macropad running KMK
