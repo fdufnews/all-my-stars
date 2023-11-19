@@ -225,6 +225,10 @@
 
 ## Python 
 
+- [jaysongiroux/pico-macro-pad](https://github.com/jaysongiroux/pico-macro-pad) - Make a macro-pad using a Raspberry pi pico and circuit python
+- [QuentinWehkamp/Pi-Pico-Macropad](https://github.com/QuentinWehkamp/Pi-Pico-Macropad) - A Macropad using the Raspberry Pi Pico, programmed with CircuitPython.
+- [dottxado/pico-macro-pad](https://github.com/dottxado/pico-macro-pad) - CircuitPython script to use a Raspberry Pi Pico as a macro pad
+- [kbjunky/MacroPact](https://github.com/kbjunky/MacroPact) - rPico KMK powered macropad with IPS screen
 - [Guitarman9119/Raspberry-Pi-Pico-](https://github.com/Guitarman9119/Raspberry-Pi-Pico-) - Tutorials / Projects and Devlog - Course Related to the Raspberry Pi Pico
 - [sb-ocr/ocreeb-12](https://github.com/sb-ocr/ocreeb-12) - A 12 key macropad running KMK
 - [nevyn-hira/macrokeyboard](https://github.com/nevyn-hira/macrokeyboard) - 
