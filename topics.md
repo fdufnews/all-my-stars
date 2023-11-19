@@ -244,6 +244,10 @@
 
 ## others 
 
+- [jaysongiroux/pico-macro-pad](https://github.com/jaysongiroux/pico-macro-pad) - Make a macro-pad using a Raspberry pi pico and circuit python
+- [QuentinWehkamp/Pi-Pico-Macropad](https://github.com/QuentinWehkamp/Pi-Pico-Macropad) - A Macropad using the Raspberry Pi Pico, programmed with CircuitPython.
+- [dottxado/pico-macro-pad](https://github.com/dottxado/pico-macro-pad) - CircuitPython script to use a Raspberry Pi Pico as a macro pad
+- [kbjunky/MacroPact](https://github.com/kbjunky/MacroPact) - rPico KMK powered macropad with IPS screen
 - [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
 - [mattybrad/drumkid](https://github.com/mattybrad/drumkid) - 
 - [bitbank2/AnimatedGIF](https://github.com/bitbank2/AnimatedGIF) - A lightweight Arduino GIF decoder for playing animated files from memory or files on SD cards
