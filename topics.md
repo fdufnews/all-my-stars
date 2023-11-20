@@ -244,6 +244,8 @@
 
 ## others 
 
+- [aarnas/pico-circuit-python](https://github.com/aarnas/pico-circuit-python) - Raspberry Pi Pico CircuitPython projects: Single purpose tasks, DuckyScripts, Raspberry Pi Pico MacroPad, Instagram likes, payloads... Will be updated for more
+- [Neradoc/Circuitpython_Keyboard_Layouts](https://github.com/Neradoc/Circuitpython_Keyboard_Layouts) - A repository of keyboard layouts for Circuitpython, for HID keyboards over USB or BLE.
 - [jaysongiroux/pico-macro-pad](https://github.com/jaysongiroux/pico-macro-pad) - Make a macro-pad using a Raspberry pi pico and circuit python
 - [QuentinWehkamp/Pi-Pico-Macropad](https://github.com/QuentinWehkamp/Pi-Pico-Macropad) - A Macropad using the Raspberry Pi Pico, programmed with CircuitPython.
 - [dottxado/pico-macro-pad](https://github.com/dottxado/pico-macro-pad) - CircuitPython script to use a Raspberry Pi Pico as a macro pad
