@@ -124,6 +124,7 @@
 
 ## education 
 
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## emoji 
@@ -162,6 +163,7 @@
 
 ## hacktoberfest 
 
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## homebrew 
@@ -214,6 +216,7 @@
 
 ## markdown 
 
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [maoschanz/gedit-plugin-markdown_preview](https://github.com/maoschanz/gedit-plugin-markdown_preview) - A gedit plugin previewing markdown (.md) documents
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -244,6 +247,7 @@
 
 ## others 
 
+- [SverrirValgeirsson/Todour](https://github.com/SverrirValgeirsson/Todour) - The todo.txt application Todour
 - [aarnas/pico-circuit-python](https://github.com/aarnas/pico-circuit-python) - Raspberry Pi Pico CircuitPython projects: Single purpose tasks, DuckyScripts, Raspberry Pi Pico MacroPad, Instagram likes, payloads... Will be updated for more
 - [Neradoc/Circuitpython_Keyboard_Layouts](https://github.com/Neradoc/Circuitpython_Keyboard_Layouts) - A repository of keyboard layouts for Circuitpython, for HID keyboards over USB or BLE.
 - [jaysongiroux/pico-macro-pad](https://github.com/jaysongiroux/pico-macro-pad) - Make a macro-pad using a Raspberry pi pico and circuit python
