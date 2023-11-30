@@ -231,6 +231,7 @@
 
 ## Python 
 
+- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [aarnas/pico-circuit-python](https://github.com/aarnas/pico-circuit-python) - Raspberry Pi Pico CircuitPython projects: Single purpose tasks, DuckyScripts, Raspberry Pi Pico MacroPad, Instagram likes, payloads... Will be updated for more
 - [Neradoc/Circuitpython_Keyboard_Layouts](https://github.com/Neradoc/Circuitpython_Keyboard_Layouts) - A repository of keyboard layouts for Circuitpython, for HID keyboards over USB or BLE.
 - [jaysongiroux/pico-macro-pad](https://github.com/jaysongiroux/pico-macro-pad) - Make a macro-pad using a Raspberry pi pico and circuit python
