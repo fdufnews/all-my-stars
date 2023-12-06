@@ -192,6 +192,7 @@
 
 ## JavaScript 
 
+- [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
 - [trustMeIAmANinja/pi-world-radio](https://github.com/trustMeIAmANinja/pi-world-radio) - A retro radio to tune-in to streaming stations from around the world.
 - [LingDong-/nonflowers](https://github.com/LingDong-/nonflowers) - Procedurally generated paintings of nonexistent flowers.
 - [IdreesInc/LED-Matrix-Editor](https://github.com/IdreesInc/LED-Matrix-Editor) - 
