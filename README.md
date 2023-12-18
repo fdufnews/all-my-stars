@@ -92,6 +92,7 @@
 
 ## C++ 
 
+- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [SverrirValgeirsson/Todour](https://github.com/SverrirValgeirsson/Todour) - The todo.txt application Todour
 - [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
 - [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - Packet Monitor, WiFi Analyzer, Beacon Spam, Deauth Detector
@@ -174,6 +175,7 @@
 
 ## Go 
 
+- [tenox7/stc](https://github.com/tenox7/stc) - Syncthing CLI Tool
 - [GoldenBees/svfs](https://github.com/GoldenBees/svfs) - The Swift Virtual File System
 
 ## HTML 
@@ -219,6 +221,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [wagiminator/Power-Boards](https://github.com/wagiminator/Power-Boards) - Collection of DC/DC Converters, Battery Chargers and Power Supplies
 - [r0oland/ESP32_mini_KiCad_Library](https://github.com/r0oland/ESP32_mini_KiCad_Library) - KiCad symbol and footprint for the ESP32 Mini, the ESP32 clone of the Wemos D1 mini with more pins and more power!
 - [VernonGrant/gnu-c-language-manual](https://github.com/VernonGrant/gnu-c-language-manual) - This is a mirror of Richard Stallman's GNU C Language Intro and Reference, available in Markdown and PDF.
@@ -302,6 +305,7 @@
 
 ## Rust 
 
+- [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [kriomant/ch57x-keyboard-tool](https://github.com/kriomant/ch57x-keyboard-tool) - Utility for programming ch57x small keyboard
 
 ## Shell 
