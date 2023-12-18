@@ -45,6 +45,7 @@
 - [python3](#python3)
 - [raspberry-pi](#raspberry-pi)
 - [reverse-engineering](#reverse-engineering)
+- [rust](#rust)
 - [shell](#shell)
 - [terminal](#terminal)
 - [vim](#vim)
@@ -109,6 +110,8 @@
 
 ## cli 
 
+- [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
+- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
@@ -250,6 +253,8 @@
 
 ## others 
 
+- [tenox7/stc](https://github.com/tenox7/stc) - Syncthing CLI Tool
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [wagiminator/Power-Boards](https://github.com/wagiminator/Power-Boards) - Collection of DC/DC Converters, Battery Chargers and Power Supplies
 - [SverrirValgeirsson/Todour](https://github.com/SverrirValgeirsson/Todour) - The todo.txt application Todour
 - [aarnas/pico-circuit-python](https://github.com/aarnas/pico-circuit-python) - Raspberry Pi Pico CircuitPython projects: Single purpose tasks, DuckyScripts, Raspberry Pi Pico MacroPad, Instagram likes, payloads... Will be updated for more
@@ -436,6 +441,10 @@
 ## reverse-engineering 
 
 - [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
+
+## rust 
+
+- [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 
 ## shell 
 
