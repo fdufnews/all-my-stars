@@ -315,6 +315,7 @@
 
 ## Shell 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [leoheck/kiri](https://github.com/leoheck/kiri) - Kiri is a visual tool designed for reviewing schematics and layouts of KiCad projects that are version-controlled with Git.
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
