@@ -15,6 +15,7 @@
 - [G-code](#g-code)
 - [Go](#go)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -189,6 +190,10 @@
 - [upsidedownlabs/BioAmp-EXG-Pill](https://github.com/upsidedownlabs/BioAmp-EXG-Pill) - BioAmp EXG Pill is a small and elegant Analog Front End (AFE) board for BioPotential signal acquisition.
 - [sensorium/Mozzi](https://github.com/sensorium/Mozzi) - sound synthesis library for Arduino
 - [zynthian/zynthian-hw](https://github.com/zynthian/zynthian-hw) - Zynthian hardware stuff: PCBs, schemes, parts specifications, pin assignment, ...
+
+## Haskell 
+
+- [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 
 ## Java 
 
