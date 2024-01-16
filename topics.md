@@ -118,6 +118,7 @@
 
 ## cli 
 
+- [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [Kikobeats/awesome-cli](https://github.com/Kikobeats/awesome-cli) - A curated list of awesome resources for building immersive CLI experiences.
@@ -448,6 +449,7 @@
 
 ## python3 
 
+- [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 ## raspberry-pi 
