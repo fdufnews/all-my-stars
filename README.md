@@ -244,6 +244,7 @@
 
 ## Python 
 
+- [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
