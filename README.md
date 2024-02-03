@@ -44,6 +44,8 @@
 
 ## C 
 
+- [akshaybaweja/component-tester](https://github.com/akshaybaweja/component-tester) - GUI for Component Tester
+- [akshaybaweja/component-tester-oled](https://github.com/akshaybaweja/component-tester-oled) - Component Tester in a Keychain
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [bitbank2/AnimatedGIF](https://github.com/bitbank2/AnimatedGIF) - A lightweight Arduino GIF decoder for playing animated files from memory or files on SD cards
@@ -94,6 +96,7 @@
 
 ## C++ 
 
+- [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [SverrirValgeirsson/Todour](https://github.com/SverrirValgeirsson/Todour) - The todo.txt application Todour
 - [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
