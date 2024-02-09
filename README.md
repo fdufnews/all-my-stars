@@ -83,7 +83,6 @@
 - [jeelabs/esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer
 - [olikraus/U8g2_Arduino](https://github.com/olikraus/U8g2_Arduino) - U8glib V2 library for Arduino
 - [gfcwfzkm/SMARTREXE_displayDriver](https://github.com/gfcwfzkm/SMARTREXE_displayDriver) - Display Driver for the ST7586 Controller used in the Smart Response XE
-- [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [connor-brooks/ecosim](https://github.com/connor-brooks/ecosim) - An interactive ecosystem and evolution simulator written in C and OpenGL, for GNU/Linux.
 - [lexus2k/ssd1306](https://github.com/lexus2k/ssd1306) - Driver for SSD1306, SSD1331, SSD1351, IL9163, ILI9341, ST7735, PCD8544, Nokia 5110 displays running on Arduino/ESP32/Linux (Rasperry) platforms
 - [GeoSn0w/micrOS](https://github.com/GeoSn0w/micrOS) - An Arduino Mega Operating System With TFT TouchScreen Support, pretty GUI and other mumbo-jumbo I may come up with
@@ -239,6 +238,7 @@
 - [ncarandini/KiCad-RP-Pico](https://github.com/ncarandini/KiCad-RP-Pico) - A simple repository of files needed to add a 3D footprint of the Raspberry Pi Pico board to KiCad.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [lasselukkari/SerialChiller](https://github.com/lasselukkari/SerialChiller) - A wireless RS232 adapter for the Internet of old things.
+- [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [bdring/midTbot_esp32](https://github.com/bdring/midTbot_esp32) - A Small and Simple Pen Plotter
 
 ## Pascal 
