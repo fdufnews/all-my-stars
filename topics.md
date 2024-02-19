@@ -292,6 +292,8 @@
 
 ## others 
 
+- [BlockThor/TM1628](https://github.com/BlockThor/TM1628) - Control the dvd's LED display with IC TM1628 by Arduino
+- [saper-2/TM1628-AVR-Driver](https://github.com/saper-2/TM1628-AVR-Driver) - TM1628 driver & test code for AVR
 - [tenox7/stc](https://github.com/tenox7/stc) - Syncthing CLI Tool
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [wagiminator/Power-Boards](https://github.com/wagiminator/Power-Boards) - Collection of DC/DC Converters, Battery Chargers and Power Supplies
