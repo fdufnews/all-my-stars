@@ -292,6 +292,7 @@
 
 ## others 
 
+- [russhughes/st7789py_mpy](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240, 135x240 and 128x128 ST7789 displays written in MicroPython
 - [BlockThor/TM1628](https://github.com/BlockThor/TM1628) - Control the dvd's LED display with IC TM1628 by Arduino
 - [saper-2/TM1628-AVR-Driver](https://github.com/saper-2/TM1628-AVR-Driver) - TM1628 driver & test code for AVR
 - [tenox7/stc](https://github.com/tenox7/stc) - Syncthing CLI Tool
