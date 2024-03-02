@@ -307,7 +307,7 @@
 - [kbjunky/MacroPact](https://github.com/kbjunky/MacroPact) - rPico KMK powered macropad with IPS screen
 - [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
 - [mattybrad/drumkid](https://github.com/mattybrad/drumkid) - 
-- [bitbank2/AnimatedGIF](https://github.com/bitbank2/AnimatedGIF) - A lightweight Arduino GIF decoder for playing animated files from memory or files on SD cards
+- [bitbank2/AnimatedGIF](https://github.com/bitbank2/AnimatedGIF) - An optimized GIF decoder suitable for microcontrollers and PCs
 - [sb-ocr/ocreeb-12](https://github.com/sb-ocr/ocreeb-12) - A 12 key macropad running KMK
 - [nevyn-hira/macrokeyboard](https://github.com/nevyn-hira/macrokeyboard) - 
 - [kriomant/ch57x-keyboard-tool](https://github.com/kriomant/ch57x-keyboard-tool) - Utility for programming ch57x small keyboard
