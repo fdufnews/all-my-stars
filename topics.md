@@ -292,6 +292,7 @@
 
 ## others 
 
+- [PaulAccisano/piodebug](https://github.com/PaulAccisano/piodebug) - RP2040 PIO Debugger Extension for Micropython
 - [gamblor21/rp2040-logic-analyzer](https://github.com/gamblor21/rp2040-logic-analyzer) - Using a RP2040 Pico as a basic logic analyzer, exporting CSV data to read in sigrok / Pulseview
 - [russhughes/st7789py_mpy](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240, 135x240 and 128x128 ST7789 displays written in MicroPython
 - [BlockThor/TM1628](https://github.com/BlockThor/TM1628) - Control the dvd's LED display with IC TM1628 by Arduino
