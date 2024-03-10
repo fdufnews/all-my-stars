@@ -44,6 +44,7 @@
 
 ## C 
 
+- [PaulAccisano/piodebug](https://github.com/PaulAccisano/piodebug) - RP2040 PIO Debugger Extension for Micropython
 - [gamblor21/rp2040-logic-analyzer](https://github.com/gamblor21/rp2040-logic-analyzer) - Using a RP2040 Pico as a basic logic analyzer, exporting CSV data to read in sigrok / Pulseview
 - [saper-2/TM1628-AVR-Driver](https://github.com/saper-2/TM1628-AVR-Driver) - TM1628 driver & test code for AVR
 - [akshaybaweja/component-tester](https://github.com/akshaybaweja/component-tester) - GUI for Component Tester
