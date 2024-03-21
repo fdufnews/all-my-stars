@@ -292,6 +292,7 @@
 
 ## others 
 
+- [miketeachman/micropython-rotary](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
 - [wolfen351/public-micropython-iot-platform](https://github.com/wolfen351/public-micropython-iot-platform) - Micropython code to control relays, temp sensors, buttons, touchscreen, gps etc. Has web ui, mqtt, home assistant and thingsboard support
 - [PaulAccisano/piodebug](https://github.com/PaulAccisano/piodebug) - RP2040 PIO Debugger Extension for Micropython
 - [gamblor21/rp2040-logic-analyzer](https://github.com/gamblor21/rp2040-logic-analyzer) - Using a RP2040 Pico as a basic logic analyzer, exporting CSV data to read in sigrok / Pulseview
