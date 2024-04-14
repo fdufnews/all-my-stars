@@ -63,7 +63,7 @@
 - [atomic14/diy-esp32-epub-reader](https://github.com/atomic14/diy-esp32-epub-reader) - An ESP32 e-reader
 - [tuupola/hagl](https://github.com/tuupola/hagl) - Hardware Agnostic Graphics Library for embedded
 - [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico, with Vi and C compiler
-- [tio/tio](https://github.com/tio/tio) - A simple serial device I/O tool
+- [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [gfcwfzkm/PIF-Image-Format](https://github.com/gfcwfzkm/PIF-Image-Format) - Image format, tools & librares for limited embedded systems
 - [mkschreder/avr-vt100](https://github.com/mkschreder/avr-vt100) - AVR ATMega Terminal Emulator
 - [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040).
