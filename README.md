@@ -44,6 +44,7 @@
 
 ## C 
 
+- [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino AVR Devices (Uno, Leonardo, Mega, etc)
 - [wolfen351/public-micropython-iot-platform](https://github.com/wolfen351/public-micropython-iot-platform) - Micropython code to control relays, temp sensors, buttons, touchscreen, gps etc. Has web ui, mqtt, home assistant and thingsboard support
 - [PaulAccisano/piodebug](https://github.com/PaulAccisano/piodebug) - RP2040 PIO Debugger Extension for Micropython
 - [gamblor21/rp2040-logic-analyzer](https://github.com/gamblor21/rp2040-logic-analyzer) - Using a RP2040 Pico as a basic logic analyzer, exporting CSV data to read in sigrok / Pulseview
@@ -99,6 +100,7 @@
 
 ## C++ 
 
+- [Makuna/Rtc](https://github.com/Makuna/Rtc) - Arduino Library for RTCs, Ds1302, Ds1307, Ds3231, Ds3232, Ds3234 and Pcf8563/BM8563 with deep support. Please refer to the Wiki for more details.  Please use the Github Discussions to ask questions as
 - [BlockThor/TM1628](https://github.com/BlockThor/TM1628) - Control the dvd's LED display with IC TM1628 by Arduino
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
