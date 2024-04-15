@@ -7,6 +7,7 @@
 
 - [api](#api)
 - [arduino](#arduino)
+- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
@@ -62,6 +63,7 @@
 
 ## arduino 
 
+- [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino AVR Devices (Uno, Leonardo, Mega, etc)
 - [akshaybaweja/component-tester](https://github.com/akshaybaweja/component-tester) - GUI for Component Tester
 - [akshaybaweja/component-tester-oled](https://github.com/akshaybaweja/component-tester-oled) - Component Tester in a Keychain
 - [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - Packet Monitor, WiFi Analyzer, Beacon Spam, Deauth Detector
@@ -91,6 +93,10 @@
 - [lexus2k/ssd1306](https://github.com/lexus2k/ssd1306) - Driver for SSD1306, SSD1331, SSD1351, IL9163, ILI9341, ST7735, PCD8544, Nokia 5110 displays running on Arduino/ESP32/Linux (Rasperry) platforms
 - [technoblogy/lisp-badge](https://github.com/technoblogy/lisp-badge) - A handheld computer programmed in Lisp with a self-contained keyboard and display.
 - [GeoSn0w/micrOS](https://github.com/GeoSn0w/micrOS) - An Arduino Mega Operating System With TFT TouchScreen Support, pretty GUI and other mumbo-jumbo I may come up with
+
+## automation 
+
+- [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 
 ## awesome 
 
@@ -244,6 +250,7 @@
 ## lua 
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+- [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 
 ## mac 
 
@@ -292,6 +299,7 @@
 
 ## others 
 
+- [Makuna/Rtc](https://github.com/Makuna/Rtc) - Arduino Library for RTCs, Ds1302, Ds1307, Ds3231, Ds3232, Ds3234 and Pcf8563/BM8563 with deep support. Please refer to the Wiki for more details.  Please use the Github Discussions to ask questions as
 - [miketeachman/micropython-rotary](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
 - [wolfen351/public-micropython-iot-platform](https://github.com/wolfen351/public-micropython-iot-platform) - Micropython code to control relays, temp sensors, buttons, touchscreen, gps etc. Has web ui, mqtt, home assistant and thingsboard support
 - [PaulAccisano/piodebug](https://github.com/PaulAccisano/piodebug) - RP2040 PIO Debugger Extension for Micropython
