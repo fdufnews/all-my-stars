@@ -299,6 +299,7 @@
 
 ## others 
 
+- [YouMakeTech/PicoRetroGamingSystem](https://github.com/YouMakeTech/PicoRetroGamingSystem) - Code and games for Raspberry Pi Pico RetroGaming System
 - [Makuna/Rtc](https://github.com/Makuna/Rtc) - Arduino Library for RTCs, Ds1302, Ds1307, Ds3231, Ds3232, Ds3234 and Pcf8563/BM8563 with deep support. Please refer to the Wiki for more details.  Please use the Github Discussions to ask questions as
 - [miketeachman/micropython-rotary](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
 - [wolfen351/public-micropython-iot-platform](https://github.com/wolfen351/public-micropython-iot-platform) - Micropython code to control relays, temp sensors, buttons, touchscreen, gps etc. Has web ui, mqtt, home assistant and thingsboard support
