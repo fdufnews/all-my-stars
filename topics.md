@@ -299,6 +299,7 @@
 
 ## others 
 
+- [MakerM0/tulipcc](https://github.com/MakerM0/tulipcc) - The Tulip Creative Computer - a portable Python device for music, graphics and writing
 - [YouMakeTech/PicoRetroGamingSystem](https://github.com/YouMakeTech/PicoRetroGamingSystem) - Code and games for Raspberry Pi Pico RetroGaming System
 - [Makuna/Rtc](https://github.com/Makuna/Rtc) - Arduino Library for RTCs, Ds1302, Ds1307, Ds3231, Ds3232, Ds3234 and Pcf8563/BM8563 with deep support. Please refer to the Wiki for more details.  Please use the Github Discussions to ask questions as
 - [miketeachman/micropython-rotary](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
