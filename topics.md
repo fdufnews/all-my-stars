@@ -63,7 +63,7 @@
 
 ## arduino 
 
-- [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino AVR Devices (Uno, Leonardo, Mega, etc)
+- [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino ATmega Devices (Uno, Leonardo, Mega, etc).
 - [akshaybaweja/component-tester](https://github.com/akshaybaweja/component-tester) - GUI for Component Tester
 - [akshaybaweja/component-tester-oled](https://github.com/akshaybaweja/component-tester-oled) - Component Tester in a Keychain
 - [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - Packet Monitor, WiFi Analyzer, Beacon Spam, Deauth Detector
