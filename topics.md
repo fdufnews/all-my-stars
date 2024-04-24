@@ -17,6 +17,7 @@
 - [cpp](#cpp)
 - [documentation](#documentation)
 - [education](#education)
+- [embedded](#embedded)
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [flask](#flask)
@@ -63,7 +64,7 @@
 
 ## arduino 
 
-- [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino ATmega Devices (Uno, Leonardo, Mega, etc).
+- [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino ATmega Devices (Uno R3, Leonardo, Mega, etc).
 - [akshaybaweja/component-tester](https://github.com/akshaybaweja/component-tester) - GUI for Component Tester
 - [akshaybaweja/component-tester-oled](https://github.com/akshaybaweja/component-tester-oled) - Component Tester in a Keychain
 - [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - Packet Monitor, WiFi Analyzer, Beacon Spam, Deauth Detector
@@ -158,6 +159,18 @@
 
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+## embedded 
+
+- [slviajero/tinybasic](https://github.com/slviajero/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
+- [LennartHennigs/ESPRotary](https://github.com/LennartHennigs/ESPRotary) - Arduino/ESP library to simplify reading rotary encoder data.
+- [LennartHennigs/SimpleFSM](https://github.com/LennartHennigs/SimpleFSM) - Arduino/ESP library to simplify setting up and running a state machine.
+- [heliosproj/HeliOS](https://github.com/heliosproj/HeliOS) - A community delivered, open source embedded operating system project.
+- [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
+- [LennartHennigs/Button2](https://github.com/LennartHennigs/Button2) - Arduino/ESP button library that provides callback functions to track single, double, triple and long clicks. It also takes care of debouncing.
+- [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
+- [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code.
+- [ayoy/fontedit](https://github.com/ayoy/fontedit) - A desktop app to import, edit and export fonts as byte arrays for use in embedded systems
 
 ## emoji 
 
@@ -407,7 +420,6 @@
 - [achimdoebler/UGUI](https://github.com/achimdoebler/UGUI) - µGUI - Open Source GUI module for embedded systems
 - [terminal-basic-team/terminalbasic-arduino](https://github.com/terminal-basic-team/terminalbasic-arduino) - Terminal-BASIC Arduino sketch
 - [boochow/MicroPython-ST7735](https://github.com/boochow/MicroPython-ST7735) - ST7735 TFT LCD driver for MicroPython
-- [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code.
 - [peterhinch/micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf class
 - [markbirss/9.7-E-Paper-Calendar-software](https://github.com/markbirss/9.7-E-Paper-Calendar-software) - An adaptation of the E-Paper-Calendar-with-iCal-sync-and-live-weather specifically for the 9.7" E-Paper
 - [raspberrypi/pico-examples](https://github.com/raspberrypi/pico-examples) - 
