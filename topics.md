@@ -312,6 +312,7 @@
 
 ## others 
 
+- [shariltumin/esp32-cam-micropython-2022](https://github.com/shariltumin/esp32-cam-micropython-2022) - MicroPython esp32-cam firmware with camera support compiled with esp-idf-4.4.0. Python script files for live streaming
 - [Hack-a-Day/Vectorscope](https://github.com/Hack-a-Day/Vectorscope) - Vectorscope badge for the 2023 Hackaday Supercon and beyond!
 - [MakerM0/tulipcc](https://github.com/MakerM0/tulipcc) - The Tulip Creative Computer - a portable Python device for music, graphics and writing
 - [YouMakeTech/PicoRetroGamingSystem](https://github.com/YouMakeTech/PicoRetroGamingSystem) - Code and games for Raspberry Pi Pico RetroGaming System
