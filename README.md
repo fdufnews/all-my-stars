@@ -44,6 +44,7 @@
 
 ## C 
 
+- [lemariva/micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) - add camera support to MicroPython
 - [MakerM0/tulipcc](https://github.com/MakerM0/tulipcc) - The Tulip Creative Computer - a portable Python device for music, graphics and writing
 - [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino ATmega Devices (Uno R3, Leonardo, Mega, etc).
 - [wolfen351/public-micropython-iot-platform](https://github.com/wolfen351/public-micropython-iot-platform) - Micropython code to control relays, temp sensors, buttons, touchscreen, gps etc. Has web ui, mqtt, home assistant and thingsboard support
