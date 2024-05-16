@@ -312,6 +312,7 @@
 
 ## others 
 
+- [lemariva/micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) - add camera support to MicroPython
 - [shariltumin/esp32-cam-micropython-2022](https://github.com/shariltumin/esp32-cam-micropython-2022) - MicroPython esp32-cam firmware with camera support compiled with esp-idf-4.4.0. Python script files for live streaming
 - [Hack-a-Day/Vectorscope](https://github.com/Hack-a-Day/Vectorscope) - Vectorscope badge for the 2023 Hackaday Supercon and beyond!
 - [MakerM0/tulipcc](https://github.com/MakerM0/tulipcc) - The Tulip Creative Computer - a portable Python device for music, graphics and writing
