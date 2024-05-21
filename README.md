@@ -44,6 +44,7 @@
 
 ## C 
 
+- [cifertech/ESPCAM-Microscope](https://github.com/cifertech/ESPCAM-Microscope) - using a ESP32-CAM as a microscope with the help of softAp.
 - [lemariva/micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) - add camera support to MicroPython
 - [MakerM0/tulipcc](https://github.com/MakerM0/tulipcc) - The Tulip Creative Computer - a portable Python device for music, graphics and writing
 - [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino ATmega Devices (Uno R3, Leonardo, Mega, etc).
