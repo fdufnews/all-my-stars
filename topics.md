@@ -313,6 +313,7 @@
 
 ## others 
 
+- [jameszah/ESP32-CAM-Video-Recorder-junior](https://github.com/jameszah/ESP32-CAM-Video-Recorder-junior) - Simple fast version of ESP32-CAM-Video-Recorder
 - [cp4k/PyLander](https://github.com/cp4k/PyLander) - A Python Lunar Lander game.
 - [cifertech/ESPCAM-Microscope](https://github.com/cifertech/ESPCAM-Microscope) - using a ESP32-CAM as a microscope with the help of softAp.
 - [lemariva/micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) - add camera support to MicroPython
