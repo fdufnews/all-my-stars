@@ -61,7 +61,6 @@
 - [greiman/SSD1306Ascii](https://github.com/greiman/SSD1306Ascii) - Text only Arduino Library for SSD1306 OLED displays
 - [cecio/USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
 - [slviajero/tinybasic](https://github.com/slviajero/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
-- [midilab/aciduino](https://github.com/midilab/aciduino) - Affordable and DIY, Roland TB-303 and TR-808 step sequencer clone and midi controller. Packed with additional features, specifically designed for musicians and DJs to use on live performances or strea
 - [jerry20091103/Teensy_Grovebox](https://github.com/jerry20091103/Teensy_Grovebox) - A portable synth and music multi-tool made with Teensy 4.1
 - [costonisp/ESP8266-I2C-OLED](https://github.com/costonisp/ESP8266-I2C-OLED) - A I2C screen to show messages received from a client-browser.
 - [heliosproj/HeliOS](https://github.com/heliosproj/HeliOS) - A community delivered, open source embedded operating system project.
@@ -120,6 +119,7 @@
 - [RuiSantosdotme/Random-Nerd-Tutorials](https://github.com/RuiSantosdotme/Random-Nerd-Tutorials) - Random Nerd Tutorials Blog with Project Instructions »
 - [wollewald/INA226_WE](https://github.com/wollewald/INA226_WE) - An Arduino library for the INA226 current and power sensor module.
 - [Spirik/GEM](https://github.com/Spirik/GEM) - Good Enough Menu for Arduino
+- [midilab/aciduino](https://github.com/midilab/aciduino) - Affordable and DIY, Roland TB-303 and TR-808 step sequencer clone and midi controller. Packed with additional features, specifically designed for musicians and DJs to use on live performances or strea
 - [diyelectromusic/sdemp](https://github.com/diyelectromusic/sdemp) - Simple DIY Electronic Music Projects
 - [albnys/TeensyPoly6](https://github.com/albnys/TeensyPoly6) - 
 - [LennartHennigs/ESPRotary](https://github.com/LennartHennigs/ESPRotary) - Arduino/ESP library to simplify reading rotary encoder data.
@@ -259,6 +259,7 @@
 
 ## Python 
 
+- [easytarget/microPyEZfonts](https://github.com/easytarget/microPyEZfonts) - A font writer plus a collection of MicroPython fonts for small Mono displays and devices
 - [cp4k/PyLander](https://github.com/cp4k/PyLander) - A Python Lunar Lander game.
 - [shariltumin/esp32-cam-micropython-2022](https://github.com/shariltumin/esp32-cam-micropython-2022) - MicroPython esp32-cam firmware with camera support compiled with esp-idf-4.4.0. Python script files for live streaming
 - [Hack-a-Day/Vectorscope](https://github.com/Hack-a-Day/Vectorscope) - Vectorscope badge for the 2023 Hackaday Supercon and beyond!
