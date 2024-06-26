@@ -241,6 +241,7 @@
 
 ## Others 
 
+- [Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display](https://github.com/Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display) - 
 - [Kikobeats/awesome-cli](https://github.com/Kikobeats/awesome-cli) - A curated list of awesome resources for building immersive CLI experiences.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [wagiminator/Power-Boards](https://github.com/wagiminator/Power-Boards) - Collection of DC/DC Converters, Battery Chargers and Power Supplies
@@ -259,6 +260,7 @@
 
 ## Python 
 
+- [YouMakeTech/Pi-Pico-Game-Boy](https://github.com/YouMakeTech/Pi-Pico-Game-Boy) - Code for the Raspberry Pi Pico Game Boy
 - [easytarget/microPyEZfonts](https://github.com/easytarget/microPyEZfonts) - A font writer plus a collection of MicroPython fonts for small Mono displays and devices
 - [cp4k/PyLander](https://github.com/cp4k/PyLander) - A Python Lunar Lander game.
 - [shariltumin/esp32-cam-micropython-2022](https://github.com/shariltumin/esp32-cam-micropython-2022) - MicroPython esp32-cam firmware with camera support compiled with esp-idf-4.4.0. Python script files for live streaming
