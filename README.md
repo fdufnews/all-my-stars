@@ -44,6 +44,7 @@
 
 ## C 
 
+- [tonyp7/esp32-wifi-manager](https://github.com/tonyp7/esp32-wifi-manager) - Captive Portal for ESP32 that can connect to a saved wireless network or start an access point where you can connect to existing wifis.
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
 - [cifertech/ESPCAM-Microscope](https://github.com/cifertech/ESPCAM-Microscope) - using a ESP32-CAM as a microscope with the help of softAp.
 - [lemariva/micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) - add camera support to MicroPython
