@@ -197,6 +197,7 @@
 
 ## HTML 
 
+- [mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources.
 - [mattybrad/drumkid](https://github.com/mattybrad/drumkid) - 
 - [vdeschwb/esp32-signal-generator](https://github.com/vdeschwb/esp32-signal-generator) - Open-Source Signal Generator using the ESP32 uC
 - [uPesy/awesome-micropython](https://github.com/uPesy/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources.
