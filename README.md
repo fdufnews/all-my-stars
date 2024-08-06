@@ -193,6 +193,7 @@
 
 ## Go 
 
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
 - [tenox7/stc](https://github.com/tenox7/stc) - Syncthing CLI Tool
 - [GoldenBees/svfs](https://github.com/GoldenBees/svfs) - The Swift Virtual File System
 
