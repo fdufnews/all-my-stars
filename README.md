@@ -44,6 +44,7 @@
 
 ## C 
 
+- [trevorwslee/Arduino-DumbDisplay](https://github.com/trevorwslee/Arduino-DumbDisplay) - DumbDisplay Ardunio Library enables you to utilize your Android phone as virtual output gadgets (as well as some very simple inputting means) for your Arduino framework (including ESP8266 / ESP32 / Ra
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [tonyp7/esp32-wifi-manager](https://github.com/tonyp7/esp32-wifi-manager) - Captive Portal for ESP32 that can connect to a saved wireless network or start an access point where you can connect to existing wifis.
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
