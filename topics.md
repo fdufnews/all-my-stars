@@ -12,6 +12,7 @@
 - [awesome-list](#awesome-list)
 - [bash](#bash)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [cli](#cli)
 - [compiler](#compiler)
 - [cpp](#cpp)
@@ -133,6 +134,11 @@
 - [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico, with Vi and C compiler
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
 - [piconomix/px-fwlib](https://github.com/piconomix/px-fwlib) - open source bare-metal C firmware and documentation for microcontrollers
+
+## c-plus-plus 
+
+- [LennartHennigs/ESPRotary](https://github.com/LennartHennigs/ESPRotary) - Arduino/ESP library to simplify reading rotary encoder data.
+- [LennartHennigs/Button2](https://github.com/LennartHennigs/Button2) - Arduino/ESP button library that provides callback functions to track single, double, triple and long clicks. It also takes care of debouncing.
 
 ## cli 
 
@@ -326,6 +332,7 @@
 
 ## others 
 
+- [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [tonyp7/esp32-wifi-manager](https://github.com/tonyp7/esp32-wifi-manager) - Captive Portal for ESP32 that can connect to a saved wireless network or start an access point where you can connect to existing wifis.
 - [YouMakeTech/Pi-Pico-Game-Boy](https://github.com/YouMakeTech/Pi-Pico-Game-Boy) - Code for the Raspberry Pi Pico Game Boy
 - [Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display](https://github.com/Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display) - 
