@@ -265,6 +265,7 @@
 
 ## Python 
 
+- [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [YouMakeTech/Pi-Pico-Game-Boy](https://github.com/YouMakeTech/Pi-Pico-Game-Boy) - Code for the Raspberry Pi Pico Game Boy
 - [easytarget/microPyEZfonts](https://github.com/easytarget/microPyEZfonts) - A font writer plus a collection of MicroPython fonts for small Mono displays and devices
 - [cp4k/PyLander](https://github.com/cp4k/PyLander) - A Python Lunar Lander game.
