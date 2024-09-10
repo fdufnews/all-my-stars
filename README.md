@@ -69,7 +69,7 @@
 - [heliosproj/HeliOS](https://github.com/heliosproj/HeliOS) - A community delivered, open source embedded operating system project.
 - [atomic14/diy-esp32-epub-reader](https://github.com/atomic14/diy-esp32-epub-reader) - An ESP32 e-reader
 - [tuupola/hagl](https://github.com/tuupola/hagl) - Hardware Agnostic Graphics Library for embedded
-- [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico, with Vi and C compiler
+- [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico and Pico2, with file system, Vi and C compiler
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [gfcwfzkm/PIF-Image-Format](https://github.com/gfcwfzkm/PIF-Image-Format) - Image format, tools & librares for limited embedded systems
 - [mkschreder/avr-vt100](https://github.com/mkschreder/avr-vt100) - AVR ATMega Terminal Emulator
