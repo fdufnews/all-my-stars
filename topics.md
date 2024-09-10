@@ -131,7 +131,7 @@
 - [slviajero/tinybasic](https://github.com/slviajero/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
 - [midilab/aciduino](https://github.com/midilab/aciduino) - Affordable and DIY, Roland TB-303 and TR-808 step sequencer clone and midi controller. Packed with additional features, specifically designed for musicians and DJs to use on live performances or strea
 - [VernonGrant/gnu-c-language-manual](https://github.com/VernonGrant/gnu-c-language-manual) - This is a mirror of Richard Stallman's GNU C Language Intro and Reference, available in Markdown and PDF.
-- [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico, with Vi and C compiler
+- [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico and Pico2, with file system, Vi and C compiler
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
 - [piconomix/px-fwlib](https://github.com/piconomix/px-fwlib) - open source bare-metal C firmware and documentation for microcontrollers
 
@@ -158,7 +158,7 @@
 
 ## compiler 
 
-- [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico, with Vi and C compiler
+- [lurk101/pshell](https://github.com/lurk101/pshell) - A tiny shell for Pico and Pico2, with file system, Vi and C compiler
 
 ## cpp 
 
