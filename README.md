@@ -265,6 +265,7 @@
 
 ## Python 
 
+- [AncientJames/jtouch](https://github.com/AncientJames/jtouch) - PIO based capacitive touch for the RP2040
 - [rpavlik/cros-chameleon](https://github.com/rpavlik/cros-chameleon) - EDID tools originally from ChromiumOS "chameleon" tools
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [YouMakeTech/Pi-Pico-Game-Boy](https://github.com/YouMakeTech/Pi-Pico-Game-Boy) - Code for the Raspberry Pi Pico Game Boy
