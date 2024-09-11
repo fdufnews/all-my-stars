@@ -333,6 +333,7 @@
 
 ## others 
 
+- [AncientJames/jtouch](https://github.com/AncientJames/jtouch) - PIO based capacitive touch for the RP2040
 - [rpavlik/cros-chameleon](https://github.com/rpavlik/cros-chameleon) - EDID tools originally from ChromiumOS "chameleon" tools
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [tonyp7/esp32-wifi-manager](https://github.com/tonyp7/esp32-wifi-manager) - Captive Portal for ESP32 that can connect to a saved wireless network or start an access point where you can connect to existing wifis.
