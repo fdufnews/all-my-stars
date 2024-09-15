@@ -51,6 +51,7 @@
 - [others](#others)
 - [python](#python)
 - [python3](#python3)
+- [qt](#qt)
 - [raspberry-pi](#raspberry-pi)
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
@@ -272,6 +273,7 @@
 
 ## linux 
 
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [rvp-nl/vs10xx-linux](https://github.com/rvp-nl/vs10xx-linux) - Linux driver for VS1053 and VS1063 audio codecs
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
@@ -292,6 +294,7 @@
 
 ## macos 
 
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [jczic/ESP32-MPY-Jama](https://github.com/jczic/ESP32-MPY-Jama) - v1.2 - UI tool for manage Espressif ESP32 microcontrollers with embedded MicroPython for MacOS, Windows and Linux: mini IDE, files manager, REPL, real time dashboards (sys/net), advanced features (gpi
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [angela-d/wifi-network-testing](https://github.com/angela-d/wifi-network-testing) - Scan your wifi network and obtain troubleshooting details, with extreme granularity - using a colorful command-line tool.
@@ -531,6 +534,10 @@
 
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+
+## qt 
+
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 
 ## raspberry-pi 
 
