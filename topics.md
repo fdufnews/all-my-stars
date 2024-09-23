@@ -178,6 +178,7 @@
 
 ## embedded 
 
+- [peterhinch/micropython-samples](https://github.com/peterhinch/micropython-samples) - Assorted code ideas, unofficial MP FAQ, plus index to my other repositories.
 - [slviajero/tinybasic](https://github.com/slviajero/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
 - [LennartHennigs/ESPRotary](https://github.com/LennartHennigs/ESPRotary) - Arduino/ESP library to simplify reading rotary encoder data.
 - [LennartHennigs/SimpleFSM](https://github.com/LennartHennigs/SimpleFSM) - Arduino/ESP library to simplify setting up and running a state machine.
