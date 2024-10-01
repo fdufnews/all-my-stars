@@ -202,6 +202,7 @@
 
 ## HTML 
 
+- [tchapi/Adafruit-GFX-Font-Customiser](https://github.com/tchapi/Adafruit-GFX-Font-Customiser) - A little utility to customise pixel fonts for the Adafruit GFX library
 - [mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources.
 - [mattybrad/drumkid](https://github.com/mattybrad/drumkid) - 
 - [vdeschwb/esp32-signal-generator](https://github.com/vdeschwb/esp32-signal-generator) - Open-Source Signal Generator using the ESP32 uC
