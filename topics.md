@@ -340,6 +340,7 @@
 
 ## others 
 
+- [lux4rd0/homeassistant](https://github.com/lux4rd0/homeassistant) - 
 - [AncientJames/jtouch](https://github.com/AncientJames/jtouch) - PIO based capacitive touch for the RP2040
 - [rpavlik/cros-chameleon](https://github.com/rpavlik/cros-chameleon) - EDID tools originally from ChromiumOS "chameleon" tools
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
