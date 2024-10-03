@@ -223,6 +223,7 @@
 
 ## JavaScript 
 
+- [mathew-kurian/CharacterMap](https://github.com/mathew-kurian/CharacterMap) - :tada: Online Character Map / Glyph / Icon / Font Viewer
 - [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
 - [trustMeIAmANinja/pi-world-radio](https://github.com/trustMeIAmANinja/pi-world-radio) - A retro radio to tune-in to streaming stations from around the world.
 - [LingDong-/nonflowers](https://github.com/LingDong-/nonflowers) - Procedurally generated paintings of nonexistent flowers.
