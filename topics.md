@@ -340,6 +340,7 @@
 
 ## others 
 
+- [mathew-kurian/CharacterMap](https://github.com/mathew-kurian/CharacterMap) - :tada: Online Character Map / Glyph / Icon / Font Viewer
 - [lux4rd0/homeassistant](https://github.com/lux4rd0/homeassistant) - 
 - [AncientJames/jtouch](https://github.com/AncientJames/jtouch) - PIO based capacitive touch for the RP2040
 - [rpavlik/cros-chameleon](https://github.com/rpavlik/cros-chameleon) - EDID tools originally from ChromiumOS "chameleon" tools
