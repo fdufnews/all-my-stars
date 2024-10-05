@@ -37,6 +37,7 @@
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
+- [latex](#latex)
 - [learning](#learning)
 - [linux](#linux)
 - [lua](#lua)
@@ -49,6 +50,7 @@
 - [open-source](#open-source)
 - [operating-system](#operating-system)
 - [others](#others)
+- [project-management](#project-management)
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
@@ -262,11 +264,16 @@
 
 ## java 
 
+- [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 
 ## javascript 
 
 - [s00500/ESPUI](https://github.com/s00500/ESPUI) - A simple web user interface library for ESP32 and ESP8266
+
+## latex 
+
+- [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 
 ## learning 
 
@@ -303,6 +310,7 @@
 
 ## markdown 
 
+- [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -516,6 +524,10 @@
 - [borgel/bolton_buttons](https://github.com/borgel/bolton_buttons) - Small devices to add keys to devices that have too few
 - [technoblogy/tiny-lisp-computer](https://github.com/technoblogy/tiny-lisp-computer) - A self-contained computer with its own display and keyboard, based on an ATmega328 or ATmega1284, that you can program in Lisp.
 - [loboris/MicroPython_ESP32_psRAM_LoBo](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo) - MicroPython for ESP32 with psRAM support
+
+## project-management 
+
+- [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 
 ## python 
 
