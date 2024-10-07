@@ -270,6 +270,7 @@
 
 ## Python 
 
+- [troublegum/micropyserver](https://github.com/troublegum/micropyserver) - MicroPyServer is a simple HTTP server for MicroPython projects.
 - [peterhinch/micropython-samples](https://github.com/peterhinch/micropython-samples) - Assorted code ideas, unofficial MP FAQ, plus index to my other repositories.
 - [AncientJames/jtouch](https://github.com/AncientJames/jtouch) - PIO based capacitive touch for the RP2040
 - [rpavlik/cros-chameleon](https://github.com/rpavlik/cros-chameleon) - EDID tools originally from ChromiumOS "chameleon" tools
