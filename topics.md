@@ -348,6 +348,8 @@
 
 ## others 
 
+- [mmMikeKn/ESP32-WiFi-tool](https://github.com/mmMikeKn/ESP32-WiFi-tool) - ESP32 WiFi tool (router, sniffer, deauther)
+- [2dom/PxMatrix](https://github.com/2dom/PxMatrix) - Adafruit GFX compatible graphics driver for LED matrix panels
 - [troublegum/micropyserver](https://github.com/troublegum/micropyserver) - MicroPyServer is a simple HTTP server for MicroPython projects.
 - [mathew-kurian/CharacterMap](https://github.com/mathew-kurian/CharacterMap) - :tada: Online Character Map / Glyph / Icon / Font Viewer
 - [lux4rd0/homeassistant](https://github.com/lux4rd0/homeassistant) - 
