@@ -44,6 +44,7 @@
 
 ## C 
 
+- [Spooks4576/Ghost_ESP](https://github.com/Spooks4576/Ghost_ESP) - Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect
 - [mmMikeKn/ESP32-WiFi-tool](https://github.com/mmMikeKn/ESP32-WiFi-tool) - ESP32 WiFi tool (router, sniffer, deauther)
 - [rvp-nl/vs10xx-linux](https://github.com/rvp-nl/vs10xx-linux) - Linux driver for VS1053 and VS1063 audio codecs
 - [trevorwslee/Arduino-DumbDisplay](https://github.com/trevorwslee/Arduino-DumbDisplay) - DumbDisplay Ardunio Library enables you to utilize your Android phone as virtual output gadgets (as well as some very simple inputting means) for your Arduino framework (including ESP8266 / ESP32 / Ra
