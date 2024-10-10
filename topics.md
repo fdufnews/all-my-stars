@@ -95,7 +95,7 @@
 - [upsidedownlabs/BioAmp-EXG-Pill](https://github.com/upsidedownlabs/BioAmp-EXG-Pill) - BioAmp EXG Pill is a small and elegant Analog Front End (AFE) board for BioPotential signal acquisition.
 - [nottwo/BasicTerm](https://github.com/nottwo/BasicTerm) - Arduino library for basic ANSI/VT220 terminal control
 - [moononournation/Arduino_GFX](https://github.com/moononournation/Arduino_GFX) - Arduino GFX developing for various color displays and various data bus interfaces
-- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of "Little Electronic Art Projects", most involving electronics or an Arduino in one way or another!
+- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of "Little Electronic & Arduino Projects", most involving electronics or an Arduino in one way or another!
 - [olikraus/U8g2_Arduino](https://github.com/olikraus/U8g2_Arduino) - U8glib V2 library for Arduino
 - [etherkit/Si5351Arduino](https://github.com/etherkit/Si5351Arduino) - Library for the Si5351 clock generator IC in the Arduino environment
 - [innovationgarage/TTyGO](https://github.com/innovationgarage/TTyGO) - VT220 serial terminal for Arduino
