@@ -159,7 +159,7 @@
 - [nottwo/BasicTerm](https://github.com/nottwo/BasicTerm) - Arduino library for basic ANSI/VT220 terminal control
 - [ayoy/fontedit](https://github.com/ayoy/fontedit) - A desktop app to import, edit and export fonts as byte arrays for use in embedded systems
 - [gabonator/DS203](https://github.com/gabonator/DS203) - DS203 quad oscilloscope firmware compatible with gcc
-- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of "Little Electronic Art Projects", most involving electronics or an Arduino in one way or another!
+- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of "Little Electronic & Arduino Projects", most involving electronics or an Arduino in one way or another!
 - [Defragster/RGB-matrix-Panel](https://github.com/Defragster/RGB-matrix-Panel) - Arduino library and example code for the 16x32 RGB matrix panels in the shop
 - [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
 - [EliteWorm/Tachometer](https://github.com/EliteWorm/Tachometer) - 
