@@ -348,6 +348,7 @@
 
 ## others 
 
+- [hideakitai/ESP32DMASPI](https://github.com/hideakitai/ESP32DMASPI) - SPI library for ESP32 which use DMA buffer to send/receive transactions
 - [Spooks4576/Ghost_ESP](https://github.com/Spooks4576/Ghost_ESP) - Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect
 - [mmMikeKn/ESP32-WiFi-tool](https://github.com/mmMikeKn/ESP32-WiFi-tool) - ESP32 WiFi tool (router, sniffer, deauther)
 - [2dom/PxMatrix](https://github.com/2dom/PxMatrix) - Adafruit GFX compatible graphics driver for LED matrix panels
