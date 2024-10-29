@@ -290,7 +290,7 @@
 - [miketeachman/micropython-rotary](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
 - [russhughes/st7789py_mpy](https://github.com/russhughes/st7789py_mpy) - Driver for 320x240, 240x240, 135x240 and 128x128 ST7789 displays written in MicroPython
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
-- [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
+- [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [aarnas/pico-circuit-python](https://github.com/aarnas/pico-circuit-python) - Raspberry Pi Pico CircuitPython projects: Single purpose tasks, DuckyScripts, Raspberry Pi Pico MacroPad, Instagram likes, payloads... Will be updated for more
