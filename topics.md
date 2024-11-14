@@ -348,6 +348,7 @@
 
 ## others 
 
+- [micropython/micropython-esp32-ulp](https://github.com/micropython/micropython-esp32-ulp) - ESP32 ULP Co-Processor toolchain implemented in MicroPython
 - [peterbalch/Curve-Tracer](https://github.com/peterbalch/Curve-Tracer) - Source code for the Curve Tracer Instructable
 - [peterbalch/Solver](https://github.com/peterbalch/Solver) - ESP32 Equation Solving Calculator
 - [hideakitai/ESP32DMASPI](https://github.com/hideakitai/ESP32DMASPI) - SPI library for ESP32 which use DMA buffer to send/receive transactions
