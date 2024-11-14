@@ -276,6 +276,7 @@
 
 ## Python 
 
+- [micropython/micropython-esp32-ulp](https://github.com/micropython/micropython-esp32-ulp) - ESP32 ULP Co-Processor toolchain implemented in MicroPython
 - [troublegum/micropyserver](https://github.com/troublegum/micropyserver) - MicroPyServer is a simple HTTP server for MicroPython projects.
 - [peterhinch/micropython-samples](https://github.com/peterhinch/micropython-samples) - Assorted code ideas, unofficial MP FAQ, plus index to my other repositories.
 - [AncientJames/jtouch](https://github.com/AncientJames/jtouch) - PIO based capacitive touch for the RP2040
