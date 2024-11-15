@@ -276,6 +276,7 @@
 
 ## Python 
 
+- [dhylands/upy-examples](https://github.com/dhylands/upy-examples) - MicroPython example code
 - [micropython/micropython-esp32-ulp](https://github.com/micropython/micropython-esp32-ulp) - ESP32 ULP Co-Processor toolchain implemented in MicroPython
 - [troublegum/micropyserver](https://github.com/troublegum/micropyserver) - MicroPyServer is a simple HTTP server for MicroPython projects.
 - [peterhinch/micropython-samples](https://github.com/peterhinch/micropython-samples) - Assorted code ideas, unofficial MP FAQ, plus index to my other repositories.
