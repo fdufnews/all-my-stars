@@ -348,6 +348,7 @@
 
 ## others 
 
+- [dhylands/upy-examples](https://github.com/dhylands/upy-examples) - MicroPython example code
 - [micropython/micropython-esp32-ulp](https://github.com/micropython/micropython-esp32-ulp) - ESP32 ULP Co-Processor toolchain implemented in MicroPython
 - [peterbalch/Curve-Tracer](https://github.com/peterbalch/Curve-Tracer) - Source code for the Curve Tracer Instructable
 - [peterbalch/Solver](https://github.com/peterbalch/Solver) - ESP32 Equation Solving Calculator
