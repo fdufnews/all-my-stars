@@ -109,6 +109,7 @@
 
 ## C++ 
 
+- [eloquentarduino/EloquentEsp32cam](https://github.com/eloquentarduino/EloquentEsp32cam) - Use your Esp32-cam like an expert
 - [hideakitai/ESP32DMASPI](https://github.com/hideakitai/ESP32DMASPI) - SPI library for ESP32 which use DMA buffer to send/receive transactions
 - [2dom/PxMatrix](https://github.com/2dom/PxMatrix) - Adafruit GFX compatible graphics driver for LED matrix panels
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
