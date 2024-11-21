@@ -215,6 +215,7 @@
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz) - Raspberry Pi Pico Pinout Page
 - [upsidedownlabs/BioAmp-EXG-Pill](https://github.com/upsidedownlabs/BioAmp-EXG-Pill) - BioAmp EXG Pill is a small and elegant Analog Front End (AFE) board for BioPotential signal acquisition.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [sensorium/Mozzi](https://github.com/sensorium/Mozzi) - sound synthesis library for Arduino
 - [zynthian/zynthian-hw](https://github.com/zynthian/zynthian-hw) - Zynthian hardware stuff: PCBs, schemes, parts specifications, pin assignment, ...
 
@@ -266,7 +267,6 @@
 - [VernonGrant/gnu-c-language-manual](https://github.com/VernonGrant/gnu-c-language-manual) - This is a mirror of Richard Stallman's GNU C Language Intro and Reference, available in Markdown and PDF.
 - [volzotan/gpxpy](https://github.com/volzotan/gpxpy) - gpx-py is a python GPX parser. GPX (GPS eXchange Format) is a XML based file format for GPS track logs.
 - [ncarandini/KiCad-RP-Pico](https://github.com/ncarandini/KiCad-RP-Pico) - A simple repository of files needed to add a 3D footprint of the Raspberry Pi Pico board to KiCad.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [lasselukkari/SerialChiller](https://github.com/lasselukkari/SerialChiller) - A wireless RS232 adapter for the Internet of old things.
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [bdring/midTbot_esp32](https://github.com/bdring/midTbot_esp32) - A Small and Simple Pen Plotter
