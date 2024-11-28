@@ -201,6 +201,7 @@
 
 ## Go 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when 
 - [tenox7/stc](https://github.com/tenox7/stc) - Syncthing CLI Tool
 - [GoldenBees/svfs](https://github.com/GoldenBees/svfs) - The Swift Virtual File System
@@ -372,6 +373,7 @@
 
 ## Shell 
 
+- [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
 - [lux4rd0/homeassistant](https://github.com/lux4rd0/homeassistant) - 
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
