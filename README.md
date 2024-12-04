@@ -278,6 +278,7 @@
 
 ## Python 
 
+- [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
 - [dhylands/upy-examples](https://github.com/dhylands/upy-examples) - MicroPython example code
 - [micropython/micropython-esp32-ulp](https://github.com/micropython/micropython-esp32-ulp) - ESP32 ULP Co-Processor toolchain implemented in MicroPython
