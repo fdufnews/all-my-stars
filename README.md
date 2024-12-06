@@ -278,6 +278,7 @@
 
 ## Python 
 
+- [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
 - [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
 - [dhylands/upy-examples](https://github.com/dhylands/upy-examples) - MicroPython example code
