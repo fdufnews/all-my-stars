@@ -44,6 +44,7 @@
 
 ## C 
 
+- [BusPirate/Bus_Pirate](https://github.com/BusPirate/Bus_Pirate) - Community driven firmware and hardware for Bus Pirate version 3 and 4
 - [Spooks4576/Ghost_ESP](https://github.com/Spooks4576/Ghost_ESP) - Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect
 - [mmMikeKn/ESP32-WiFi-tool](https://github.com/mmMikeKn/ESP32-WiFi-tool) - ESP32 WiFi tool (router, sniffer, deauther)
 - [rvp-nl/vs10xx-linux](https://github.com/rvp-nl/vs10xx-linux) - Linux driver for VS1053 and VS1063 audio codecs
