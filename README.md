@@ -93,6 +93,7 @@
 - [thanks4opensource/buck50](https://github.com/thanks4opensource/buck50) - STM32F103 logic analyzer and more
 - [Winkelkatze/ledmatrix](https://github.com/Winkelkatze/ledmatrix) - Efficient ESP32 micropython driver for LED matrix panels
 - [moononournation/Arduino_GFX](https://github.com/moononournation/Arduino_GFX) - Arduino GFX developing for various color displays and various data bus interfaces
+- [sensorium/Mozzi](https://github.com/sensorium/Mozzi) - sound synthesis library for Arduino
 - [PetteriAimonen/QuadPawn](https://github.com/PetteriAimonen/QuadPawn) - Pawn scripting language for the DSO Quad pocket oscilloscope.
 - [piconomix/px-fwlib](https://github.com/piconomix/px-fwlib) - open source bare-metal C firmware and documentation for microcontrollers
 - [gfcwfzkm/SMRTXE_Project](https://github.com/gfcwfzkm/SMRTXE_Project) - Here is my main project folder where I work on new functions and test existing code. Contains graphics and ST7586 library.
@@ -219,7 +220,6 @@
 - [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz) - Raspberry Pi Pico Pinout Page
 - [upsidedownlabs/BioAmp-EXG-Pill](https://github.com/upsidedownlabs/BioAmp-EXG-Pill) - BioAmp EXG Pill is a small and elegant Analog Front End (AFE) board for BioPotential signal acquisition.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [sensorium/Mozzi](https://github.com/sensorium/Mozzi) - sound synthesis library for Arduino
 - [zynthian/zynthian-hw](https://github.com/zynthian/zynthian-hw) - Zynthian hardware stuff: PCBs, schemes, parts specifications, pin assignment, ...
 
 ## Haskell 
