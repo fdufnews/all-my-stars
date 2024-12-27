@@ -57,6 +57,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
+- [security-tools](#security-tools)
 - [shell](#shell)
 - [terminal](#terminal)
 - [vim](#vim)
@@ -598,6 +599,10 @@
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [void-rs/void](https://github.com/void-rs/void) - terminal-based personal organizer
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
+
+## security-tools 
+
+- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - Packet Monitor, WiFi Analyzer, Beacon Spam, Deauth Detector
 
 ## shell 
 
