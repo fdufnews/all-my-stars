@@ -28,6 +28,7 @@
 - [git](#git)
 - [github](#github)
 - [go](#go)
+- [golang](#golang)
 - [google](#google)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -215,7 +216,6 @@
 
 ## game 
 
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when 
 - [connor-brooks/ecosim](https://github.com/connor-brooks/ecosim) - An interactive ecosystem and evolution simulator written in C and OpenGL, for GNU/Linux.
 
 ## game-engine 
@@ -231,6 +231,10 @@
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 
 ## go 
+
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when 
+
+## golang 
 
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when 
 
