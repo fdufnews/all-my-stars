@@ -357,6 +357,7 @@
 
 ## others 
 
+- [dgpokl/json-viz](https://github.com/dgpokl/json-viz) - Simple, easy to use, and attractive JSON visualization tool, originally created by Chris Nielsen
 - [VolosR/watchESP](https://github.com/VolosR/watchESP) - 
 - [BusPirate/Bus_Pirate](https://github.com/BusPirate/Bus_Pirate) - Community driven firmware and hardware for Bus Pirate version 3 and 4
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
