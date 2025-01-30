@@ -25,6 +25,7 @@
 - [Others](#others)
 - [Pascal](#pascal)
 - [Python](#python)
+- [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -313,7 +314,6 @@
 - [sb-ocr/ocreeb-12](https://github.com/sb-ocr/ocreeb-12) - A 12 key macropad running KMK
 - [nevyn-hira/macrokeyboard](https://github.com/nevyn-hira/macrokeyboard) - 
 - [jeffmer/micropython-ili9341](https://github.com/jeffmer/micropython-ili9341) - Micropython Driver for ILI9341 display
-- [mathoudebine/turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python) - Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen or XuanFang
 - [plugowski/micropython-utils](https://github.com/plugowski/micropython-utils) - Some utils and libraries for MicroPython
 - [plugowski/umenu](https://github.com/plugowski/umenu) - Menu generator for MicroPython
 - [elschopi/TI_INA226_micropython](https://github.com/elschopi/TI_INA226_micropython) - Micropython driver for Texas Instruments INA226 power measuring IC
@@ -362,6 +362,10 @@
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [jaspernbrouwer/powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) - A Powerline segment for showing the status of a Git working copy
+
+## Rich Text Format 
+
+- [mathoudebine/turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python) - Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen or XuanFang
 
 ## Ruby 
 
