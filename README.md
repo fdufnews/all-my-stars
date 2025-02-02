@@ -108,7 +108,6 @@
 
 ## C# # 
 
-- [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 - [CoretechR/Keybon](https://github.com/CoretechR/Keybon) - Adaptive Macro Keyboard
 
 ## C++ 
@@ -340,6 +339,7 @@
 - [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 - [micropython/micropython-lib](https://github.com/micropython/micropython-lib) - Core Python libraries ported to MicroPython
+- [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 - [bpwagner/GamerGorl](https://github.com/bpwagner/GamerGorl) - GamerGorl video game system and code
 - [jrullan/micropython_neotimer](https://github.com/jrullan/micropython_neotimer) - Neotimer implementation for Micropython
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
