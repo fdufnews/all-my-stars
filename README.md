@@ -281,6 +281,7 @@
 
 ## Python 
 
+- [mendenm/rp2_micropython_tricks](https://github.com/mendenm/rp2_micropython_tricks) - Various modules in micropython for rp2040 (and successors), mostly using PIOs for high-speed data transfer
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
 - [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
