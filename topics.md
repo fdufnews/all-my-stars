@@ -71,6 +71,7 @@
 
 ## arduino 
 
+- [lexus2k/lcdgfx](https://github.com/lexus2k/lcdgfx) - Driver for LCD displays running on Arduino/Avr/ESP32/Linux (including Rasperry) platforms
 - [tchapi/Adafruit-GFX-Font-Customiser](https://github.com/tchapi/Adafruit-GFX-Font-Customiser) - A little utility to customise pixel fonts for the Adafruit GFX library
 - [trevorwslee/Arduino-DumbDisplay](https://github.com/trevorwslee/Arduino-DumbDisplay) - DumbDisplay Ardunio Library enables you to utilize your Android phone as virtual output gadgets (as well as some very simple inputting means) for your Arduino framework (including ESP8266 / ESP32 / Ra
 - [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino ATmega Devices (Uno R3, Leonardo, Mega, etc).
@@ -583,6 +584,7 @@
 
 ## raspberry-pi 
 
+- [lexus2k/lcdgfx](https://github.com/lexus2k/lcdgfx) - Driver for LCD displays running on Arduino/Avr/ESP32/Linux (including Rasperry) platforms
 - [Guitarman9119/Raspberry-Pi-Pico-](https://github.com/Guitarman9119/Raspberry-Pi-Pico-) - Tutorials / Projects and Devlog - Course Related to the Raspberry Pi Pico
 - [MattGrayYes/epic](https://github.com/MattGrayYes/epic) - DSCOVR:EPIC image viewer for Raspberry Pi with Pimoroni 2.1" Hyperpixel Round display.
 - [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
