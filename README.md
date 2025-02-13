@@ -112,6 +112,7 @@
 
 ## C++ 
 
+- [lexus2k/lcdgfx](https://github.com/lexus2k/lcdgfx) - Driver for LCD displays running on Arduino/Avr/ESP32/Linux (including Rasperry) platforms
 - [eloquentarduino/EloquentEsp32cam](https://github.com/eloquentarduino/EloquentEsp32cam) - Use your Esp32-cam like an expert
 - [hideakitai/ESP32DMASPI](https://github.com/hideakitai/ESP32DMASPI) - SPI library for ESP32 which use DMA buffer to send/receive transactions
 - [2dom/PxMatrix](https://github.com/2dom/PxMatrix) - Adafruit GFX compatible graphics driver for LED matrix panels
