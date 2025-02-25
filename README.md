@@ -206,7 +206,7 @@
 ## Go 
 
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when 
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Snappy and configuration-free little text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compil
 - [tenox7/stc](https://github.com/tenox7/stc) - Syncthing CLI Tool
 - [GoldenBees/svfs](https://github.com/GoldenBees/svfs) - The Swift Virtual File System
 
