@@ -264,7 +264,6 @@
 
 - [peterbalch/Curve-Tracer](https://github.com/peterbalch/Curve-Tracer) - Source code for the Curve Tracer Instructable
 - [peterbalch/Solver](https://github.com/peterbalch/Solver) - ESP32 Equation Solving Calculator
-- [Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display](https://github.com/Arielhh/ESP32-Radio-Internet-With-TouchScreen-Display) - 
 - [Kikobeats/awesome-cli](https://github.com/Kikobeats/awesome-cli) - A curated list of awesome resources for building immersive CLI experiences.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [wagiminator/Power-Boards](https://github.com/wagiminator/Power-Boards) - Collection of DC/DC Converters, Battery Chargers, and Power Supplies
