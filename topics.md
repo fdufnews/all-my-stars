@@ -359,6 +359,7 @@
 
 ## others 
 
+- [tahnok/colmi_r02_client](https://github.com/tahnok/colmi_r02_client) - A python client + documentation for the Colmi R02 smart ring
 - [mendenm/rp2_micropython_tricks](https://github.com/mendenm/rp2_micropython_tricks) - Various modules in micropython for rp2040 (and successors), mostly using PIOs for high-speed data transfer
 - [dgpokl/json-viz](https://github.com/dgpokl/json-viz) - Simple, easy to use, and attractive JSON visualization tool, originally created by Chris Nielsen
 - [VolosR/watchESP](https://github.com/VolosR/watchESP) - 
