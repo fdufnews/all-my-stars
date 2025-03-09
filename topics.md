@@ -40,6 +40,7 @@
 - [javascript](#javascript)
 - [latex](#latex)
 - [learning](#learning)
+- [library](#library)
 - [linux](#linux)
 - [lua](#lua)
 - [mac](#mac)
@@ -289,6 +290,10 @@
 
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [VernonGrant/gnu-c-language-manual](https://github.com/VernonGrant/gnu-c-language-manual) - This is a mirror of Richard Stallman's GNU C Language Intro and Reference, available in Markdown and PDF.
+
+## library 
+
+- [Heerkog/MicroPythonBLEHID](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
 
 ## linux 
 
@@ -581,6 +586,7 @@
 
 ## qt 
 
+- [hyOzd/serialplot](https://github.com/hyOzd/serialplot) - Small and simple software for plotting data from serial port in realtime.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 
 ## raspberry-pi 
