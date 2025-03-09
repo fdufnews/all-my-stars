@@ -112,6 +112,7 @@
 
 ## C++ 
 
+- [hyOzd/serialplot](https://github.com/hyOzd/serialplot) - Small and simple software for plotting data from serial port in realtime.
 - [lexus2k/lcdgfx](https://github.com/lexus2k/lcdgfx) - Driver for LCD displays running on Arduino/Avr/ESP32/Linux (including Rasperry) platforms
 - [eloquentarduino/EloquentEsp32cam](https://github.com/eloquentarduino/EloquentEsp32cam) - Use your Esp32-cam like an expert
 - [hideakitai/ESP32DMASPI](https://github.com/hideakitai/ESP32DMASPI) - SPI library for ESP32 which use DMA buffer to send/receive transactions
@@ -281,6 +282,7 @@
 
 ## Python 
 
+- [Heerkog/MicroPythonBLEHID](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
 - [tahnok/colmi_r02_client](https://github.com/tahnok/colmi_r02_client) - A python client + documentation for the Colmi R02 smart ring
 - [mendenm/rp2_micropython_tricks](https://github.com/mendenm/rp2_micropython_tricks) - Various modules in micropython for rp2040 (and successors), mostly using PIOs for high-speed data transfer
 - [mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - MicroPython driver for TM1637 quad 7-segment LED modules
