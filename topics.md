@@ -364,6 +364,7 @@
 
 ## others 
 
+- [cnadler86/micropython-camera-API](https://github.com/cnadler86/micropython-camera-API) - Camera API for micropython as user module, with precompiled FW, starting with the esp32 port.
 - [cotestatnt/async-esp-fs-webserver](https://github.com/cotestatnt/async-esp-fs-webserver) - ESP32/ESP8266 WebServer, WiFi manager and ACE web editor Arduino library. Based on ESPAsyncWebServer
 - [tahnok/colmi_r02_client](https://github.com/tahnok/colmi_r02_client) - A python client + documentation for the Colmi R02 smart ring
 - [mendenm/rp2_micropython_tricks](https://github.com/mendenm/rp2_micropython_tricks) - Various modules in micropython for rp2040 (and successors), mostly using PIOs for high-speed data transfer
