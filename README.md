@@ -284,6 +284,7 @@
 
 ## Python 
 
+- [YakrooThai/RaspberryPiZERO](https://github.com/YakrooThai/RaspberryPiZERO) - 
 - [Heerkog/MicroPythonBLEHID](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
 - [tahnok/colmi_r02_client](https://github.com/tahnok/colmi_r02_client) - A python client + documentation for the Colmi R02 smart ring
 - [mendenm/rp2_micropython_tricks](https://github.com/mendenm/rp2_micropython_tricks) - Various modules in micropython for rp2040 (and successors), mostly using PIOs for high-speed data transfer
