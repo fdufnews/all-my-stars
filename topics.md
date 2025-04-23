@@ -437,7 +437,7 @@
 - [Researchnix/micropython-button](https://github.com/Researchnix/micropython-button) - This is a micropython module to software debounce the input signal of a button. It moreover adds the functionality of appending listeners to a button to distinguish between a short, long and continuou
 - [peterhinch/micropython-monitor](https://github.com/peterhinch/micropython-monitor) - Display the behaviour of a realtime program with a scope or logic analyser.
 - [phoreglad/micropython-async](https://github.com/phoreglad/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code.
-- [phoreglad/pico-MP-modules](https://github.com/phoreglad/pico-MP-modules) - Collection of modules for Raspberry Pi Pico written in MicroPython. Most should work with other boards running MP.
+- [phoreglad/pico-MP-modules](https://github.com/phoreglad/pico-MP-modules) - Collection of modules for Raspberry Pi Pico/Pico 2 written in MicroPython.
 - [ropg/ezTime](https://github.com/ropg/ezTime) - ezTime — pronounced "Easy Time" — is a very easy to use Arduino time and date library that provides NTP network time lookups, extensive timezone support, formatted time and date strings, user events, 
 - [joshuanunn/micropython_mlx90621](https://github.com/joshuanunn/micropython_mlx90621) - Micropython module to communicate with Melexis MLX90621 16 x 4 Pixel Thermal Imager
 - [peterkovesi/PerceptualColourMaps.jl](https://github.com/peterkovesi/PerceptualColourMaps.jl) - Perceptually Uniform Colour Maps for Julia
