@@ -98,6 +98,7 @@
 - [moononournation/Arduino_GFX](https://github.com/moononournation/Arduino_GFX) - Arduino GFX developing for various color displays and various data bus interfaces
 - [sensorium/Mozzi](https://github.com/sensorium/Mozzi) - sound synthesis library for Arduino
 - [PetteriAimonen/QuadPawn](https://github.com/PetteriAimonen/QuadPawn) - Pawn scripting language for the DSO Quad pocket oscilloscope.
+- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of "Little Electronic & Arduino Projects", most involving electronics or an Arduino in one way or another!
 - [piconomix/px-fwlib](https://github.com/piconomix/px-fwlib) - open source bare-metal C firmware and documentation for microcontrollers
 - [gfcwfzkm/SMRTXE_Project](https://github.com/gfcwfzkm/SMRTXE_Project) - Here is my main project folder where I work on new functions and test existing code. Contains graphics and ST7586 library.
 - [jeelabs/esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer
@@ -168,7 +169,6 @@
 - [nottwo/BasicTerm](https://github.com/nottwo/BasicTerm) - Arduino library for basic ANSI/VT220 terminal control
 - [ayoy/fontedit](https://github.com/ayoy/fontedit) - A desktop app to import, edit and export fonts as byte arrays for use in embedded systems
 - [gabonator/DS203](https://github.com/gabonator/DS203) - DS203 quad oscilloscope firmware compatible with gcc
-- [tardate/LittleArduinoProjects](https://github.com/tardate/LittleArduinoProjects) - a collection of "Little Electronic & Arduino Projects", most involving electronics or an Arduino in one way or another!
 - [Defragster/RGB-matrix-Panel](https://github.com/Defragster/RGB-matrix-Panel) - Arduino library and example code for the 16x32 RGB matrix panels in the shop
 - [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
 - [EliteWorm/Tachometer](https://github.com/EliteWorm/Tachometer) - 
