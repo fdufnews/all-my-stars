@@ -81,7 +81,7 @@
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [gfcwfzkm/PIF-Image-Format](https://github.com/gfcwfzkm/PIF-Image-Format) - Image format, tools & librares for limited embedded systems
 - [mkschreder/avr-vt100](https://github.com/mkschreder/avr-vt100) - AVR ATMega Terminal Emulator
-- [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040).
+- [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040/RP2350).
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
 - [uoaerg/wavemon](https://github.com/uoaerg/wavemon) - wavemon is an ncurses-based monitoring application for wireless network devices on Linux.
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
