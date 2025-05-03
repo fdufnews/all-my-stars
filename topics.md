@@ -477,7 +477,7 @@
 - [volzotan/gpxpy](https://github.com/volzotan/gpxpy) - gpx-py is a python GPX parser. GPX (GPS eXchange Format) is a XML based file format for GPS track logs.
 - [khoih-prog/ESP32TimerInterrupt](https://github.com/khoih-prog/ESP32TimerInterrupt) - This library enables you to use Interrupt from Hardware Timers on an ESP32-based board. It now supports 16 ISR-based timers, while consuming only 1 hardware Timer. Timers' interval is very long (ulong
 - [bpwagner/GamerGorl](https://github.com/bpwagner/GamerGorl) - GamerGorl video game system and code
-- [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040).
+- [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040/RP2350).
 - [jrullan/StateMachine](https://github.com/jrullan/StateMachine) - State machine library for Arduino
 - [jrullan/micropython_neotimer](https://github.com/jrullan/micropython_neotimer) - Neotimer implementation for Micropython
 - [VolosR/EsPaint32](https://github.com/VolosR/EsPaint32) - 
