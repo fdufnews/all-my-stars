@@ -364,6 +364,7 @@
 
 ## others 
 
+- [moononournation/IoT-Emoji-Sign](https://github.com/moononournation/IoT-Emoji-Sign) - 
 - [YakrooThai/RaspberryPiZERO](https://github.com/YakrooThai/RaspberryPiZERO) - 
 - [cnadler86/micropython-camera-API](https://github.com/cnadler86/micropython-camera-API) - Camera API for micropython as user module, with precompiled FW, starting with the esp32 port.
 - [cotestatnt/async-esp-fs-webserver](https://github.com/cotestatnt/async-esp-fs-webserver) - ESP32/ESP8266 WebServer, WiFi manager and ACE web editor Arduino library. Based on ESPAsyncWebServer
