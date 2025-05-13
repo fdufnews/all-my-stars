@@ -62,6 +62,7 @@
 - [security-tools](#security-tools)
 - [shell](#shell)
 - [terminal](#terminal)
+- [ui](#ui)
 - [vim](#vim)
 - [webapp](#webapp)
 - [windows](#windows)
@@ -651,6 +652,10 @@
 - [fdivitto/FabGL](https://github.com/fdivitto/FabGL) - ESP32 Display Controller (VGA, PAL/NTSC Color Composite, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal
 - [nottwo/BasicTerm](https://github.com/nottwo/BasicTerm) - Arduino library for basic ANSI/VT220 terminal control
 - [innovationgarage/TTyGO](https://github.com/innovationgarage/TTyGO) - VT220 serial terminal for Arduino
+
+## ui 
+
+- [s00500/ESPUI](https://github.com/s00500/ESPUI) - A simple web user interface library for ESP32 and ESP8266
 
 ## vim 
 
