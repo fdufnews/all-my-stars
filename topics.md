@@ -396,7 +396,6 @@
 - [easytarget/microPyEZfonts](https://github.com/easytarget/microPyEZfonts) - A font writer plus a collection of MicroPython fonts for small Mono displays and devices
 - [jameszah/ESP32-CAM-Video-Recorder-junior](https://github.com/jameszah/ESP32-CAM-Video-Recorder-junior) - Simple fast version of ESP32-CAM-Video-Recorder
 - [cp4k/PyLander](https://github.com/cp4k/PyLander) - A Python Lunar Lander game.
-- [cifertech/ESPCAM-Microscope](https://github.com/cifertech/ESPCAM-Microscope) - using a ESP32-CAM as a microscope with the help of softAp.
 - [lemariva/micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) - add camera support to MicroPython
 - [shariltumin/esp32-cam-micropython-2022](https://github.com/shariltumin/esp32-cam-micropython-2022) - MicroPython esp32-cam firmware with camera support compiled with esp-idf-4.4.0. Python script files for live streaming
 - [Hack-a-Day/Vectorscope](https://github.com/Hack-a-Day/Vectorscope) - Vectorscope badge for the 2023 Hackaday Supercon and beyond!
