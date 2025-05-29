@@ -223,7 +223,6 @@
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz) - Raspberry Pi Pico Pinout Page
 - [upsidedownlabs/BioAmp-EXG-Pill](https://github.com/upsidedownlabs/BioAmp-EXG-Pill) - BioAmp EXG Pill is a small and elegant Analog Front End (AFE) board for BioPotential signal acquisition.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [zynthian/zynthian-hw](https://github.com/zynthian/zynthian-hw) - Zynthian hardware stuff: PCBs, schemes, parts specifications, pin assignment, ...
 
 ## Haskell 
@@ -361,6 +360,7 @@
 - [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code.
 - [james1236/buzzer_music](https://github.com/james1236/buzzer_music) - RPI Pico / Micropython library to play music through one or more buzzers, can automatically replace chords with fast arpeggios to simulate polyphony with a single buzzer. Music can be easily taken fro
 - [peterhinch/micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf class
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [PowerBroker2/pySerialTransfer](https://github.com/PowerBroker2/pySerialTransfer) - Python package to transfer data in a fast, reliable, and packetized form
 - [linker3000/shukran](https://github.com/linker3000/shukran) - Baseboard for the CJMCU FT232H module
 - [linker3000/shikra-programmer](https://github.com/linker3000/shikra-programmer) - Shikra (http://int3.cc/products/the-shikra) programming utility
