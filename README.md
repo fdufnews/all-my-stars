@@ -45,6 +45,7 @@
 
 ## C 
 
+- [panjanek/esp-rgb-matrix](https://github.com/panjanek/esp-rgb-matrix) - Led matrix with REST API and UDP streaming based on ESP8266
 - [cnadler86/micropython-camera-API](https://github.com/cnadler86/micropython-camera-API) - Camera API for micropython as user module, with precompiled FW, starting with the esp32 port.
 - [cotestatnt/async-esp-fs-webserver](https://github.com/cotestatnt/async-esp-fs-webserver) - ESP32/ESP8266 WebServer, WiFi manager and ACE web editor Arduino library. Based on ESPAsyncWebServer
 - [VolosR/watchESP](https://github.com/VolosR/watchESP) - 
