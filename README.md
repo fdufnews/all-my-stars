@@ -45,6 +45,7 @@
 
 ## C 
 
+- [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [panjanek/esp-rgb-matrix](https://github.com/panjanek/esp-rgb-matrix) - Led matrix with REST API and UDP streaming based on ESP8266
 - [cnadler86/micropython-camera-API](https://github.com/cnadler86/micropython-camera-API) - Camera API for micropython as user module, with precompiled FW, starting with the esp32 port.
 - [cotestatnt/async-esp-fs-webserver](https://github.com/cotestatnt/async-esp-fs-webserver) - ESP32/ESP8266 WebServer, WiFi manager and ACE web editor Arduino library. Based on ESPAsyncWebServer
@@ -216,6 +217,7 @@
 
 ## HTML 
 
+- [sqfmi/watchy-docs](https://github.com/sqfmi/watchy-docs) - Watchy Documentation Website
 - [tchapi/Adafruit-GFX-Font-Customiser](https://github.com/tchapi/Adafruit-GFX-Font-Customiser) - A little utility to customise pixel fonts for the Adafruit GFX library
 - [mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources.
 - [mattybrad/drumkid](https://github.com/mattybrad/drumkid) - 
@@ -265,6 +267,7 @@
 
 ## Others 
 
+- [sqfmi/watchy-hardware](https://github.com/sqfmi/watchy-hardware) - Watchy Hardware CAD Files
 - [peterbalch/Curve-Tracer](https://github.com/peterbalch/Curve-Tracer) - Source code for the Curve Tracer Instructable
 - [peterbalch/Solver](https://github.com/peterbalch/Solver) - ESP32 Equation Solving Calculator
 - [Kikobeats/awesome-cli](https://github.com/Kikobeats/awesome-cli) - A curated list of awesome resources for building immersive CLI experiences.
