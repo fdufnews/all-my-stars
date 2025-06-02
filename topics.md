@@ -73,6 +73,7 @@
 
 ## arduino 
 
+- [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [lexus2k/lcdgfx](https://github.com/lexus2k/lcdgfx) - Driver for LCD displays running on Arduino/Avr/ESP32/Linux (including Rasperry) platforms
 - [tchapi/Adafruit-GFX-Font-Customiser](https://github.com/tchapi/Adafruit-GFX-Font-Customiser) - A little utility to customise pixel fonts for the Adafruit GFX library
 - [trevorwslee/Arduino-DumbDisplay](https://github.com/trevorwslee/Arduino-DumbDisplay) - DumbDisplay Ardunio Library enables you to utilize your Android phone as virtual output gadgets (as well as some very simple inputting means) for your Arduino framework (including ESP8266 / ESP32 / Ra
@@ -269,6 +270,7 @@
 
 ## iot 
 
+- [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [s00500/ESPUI](https://github.com/s00500/ESPUI) - A simple web user interface library for ESP32 and ESP8266
 - [slviajero/tinybasic](https://github.com/slviajero/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
@@ -364,6 +366,8 @@
 
 ## others 
 
+- [sqfmi/watchy-docs](https://github.com/sqfmi/watchy-docs) - Watchy Documentation Website
+- [sqfmi/watchy-hardware](https://github.com/sqfmi/watchy-hardware) - Watchy Hardware CAD Files
 - [panjanek/esp-rgb-matrix](https://github.com/panjanek/esp-rgb-matrix) - Led matrix with REST API and UDP streaming based on ESP8266
 - [moononournation/IoT-Emoji-Sign](https://github.com/moononournation/IoT-Emoji-Sign) - 
 - [YakrooThai/RaspberryPiZERO](https://github.com/YakrooThai/RaspberryPiZERO) - 
