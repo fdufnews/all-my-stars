@@ -45,6 +45,7 @@
 
 ## C 
 
+- [robjen/GFX_fonts](https://github.com/robjen/GFX_fonts) - A collection of fonts compatible with Adafruit GFX library mostly small many fixed format
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [panjanek/esp-rgb-matrix](https://github.com/panjanek/esp-rgb-matrix) - Led matrix with REST API and UDP streaming based on ESP8266
 - [cnadler86/micropython-camera-API](https://github.com/cnadler86/micropython-camera-API) - Camera API for micropython as user module, with precompiled FW, starting with the esp32 port.
