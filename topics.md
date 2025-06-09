@@ -366,6 +366,7 @@
 
 ## others 
 
+- [robjen/GFX_fonts](https://github.com/robjen/GFX_fonts) - A collection of fonts compatible with Adafruit GFX library mostly small many fixed format
 - [sqfmi/watchy-docs](https://github.com/sqfmi/watchy-docs) - Watchy Documentation Website
 - [sqfmi/watchy-hardware](https://github.com/sqfmi/watchy-hardware) - Watchy Hardware CAD Files
 - [panjanek/esp-rgb-matrix](https://github.com/panjanek/esp-rgb-matrix) - Led matrix with REST API and UDP streaming based on ESP8266
