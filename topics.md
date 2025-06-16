@@ -52,6 +52,7 @@
 - [open-source](#open-source)
 - [operating-system](#operating-system)
 - [others](#others)
+- [productivity](#productivity)
 - [project-management](#project-management)
 - [python](#python)
 - [python3](#python3)
@@ -566,6 +567,12 @@
 - [borgel/bolton_buttons](https://github.com/borgel/bolton_buttons) - Small devices to add keys to devices that have too few
 - [technoblogy/tiny-lisp-computer](https://github.com/technoblogy/tiny-lisp-computer) - A self-contained computer with its own display and keyboard, based on an ATmega328 or ATmega1284, that you can program in Lisp.
 - [loboris/MicroPython_ESP32_psRAM_LoBo](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo) - MicroPython for ESP32 with psRAM support
+
+## productivity 
+
+- [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 
 ## project-management 
 
