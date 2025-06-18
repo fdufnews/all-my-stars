@@ -74,6 +74,7 @@
 
 ## arduino 
 
+- [JChristensen/Timezone](https://github.com/JChristensen/Timezone) - Arduino library to facilitate time zone conversions and automatic daylight saving (summer) time adjustments.
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [lexus2k/lcdgfx](https://github.com/lexus2k/lcdgfx) - Driver for LCD displays running on Arduino/Avr/ESP32/Linux (including Rasperry) platforms
 - [tchapi/Adafruit-GFX-Font-Customiser](https://github.com/tchapi/Adafruit-GFX-Font-Customiser) - A little utility to customise pixel fonts for the Adafruit GFX library
