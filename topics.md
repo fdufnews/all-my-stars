@@ -368,6 +368,7 @@
 
 ## others 
 
+- [tve/esp32-backtrace](https://github.com/tve/esp32-backtrace) - Simple bash script to annotate an ESP32 exception backtrace with source code info
 - [robjen/GFX_fonts](https://github.com/robjen/GFX_fonts) - A collection of fonts compatible with Adafruit GFX library mostly small many fixed format
 - [sqfmi/watchy-docs](https://github.com/sqfmi/watchy-docs) - Watchy Documentation Website
 - [sqfmi/watchy-hardware](https://github.com/sqfmi/watchy-hardware) - Watchy Hardware CAD Files
