@@ -176,7 +176,7 @@
 - [Defragster/RGB-matrix-Panel](https://github.com/Defragster/RGB-matrix-Panel) - Arduino library and example code for the 16x32 RGB matrix panels in the shop
 - [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
 - [EliteWorm/Tachometer](https://github.com/EliteWorm/Tachometer) - 
-- [PowerBroker2/SerialTransfer](https://github.com/PowerBroker2/SerialTransfer) - Arduino library to transfer dynamic, packetized data fast and reliably via Serial, I2C, or SPI
+- [PowerBroker2/SerialTransfer](https://github.com/PowerBroker2/SerialTransfer) - Arduino library to transfer dynamic, packetized data fast and reliably via Serial, I2C, etc.
 - [NaoNaoMe/ESP8266-WiFi-UART-transparent-bridge](https://github.com/NaoNaoMe/ESP8266-WiFi-UART-transparent-bridge) - Transparent serial communication sketch in Arduino IDE
 - [AlphaLima/ESP32-Serial-Bridge](https://github.com/AlphaLima/ESP32-Serial-Bridge) - Wifi to 3x Serial bridge based on a ESP32
 - [Marzogh/ATmega128RFA1](https://github.com/Marzogh/ATmega128RFA1) - A bunch of libraries for the ATmega128RFA1 (Work in Progress)
