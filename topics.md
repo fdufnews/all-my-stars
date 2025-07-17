@@ -543,7 +543,7 @@
 - [Defragster/RGB-matrix-Panel](https://github.com/Defragster/RGB-matrix-Panel) - Arduino library and example code for the 16x32 RGB matrix panels in the shop
 - [hwreverse/OpenChatpad360](https://github.com/hwreverse/OpenChatpad360) - OpenKeyboard031 sources for the Xbox360 Chatpad MCU (PIC16F883)
 - [EliteWorm/Tachometer](https://github.com/EliteWorm/Tachometer) - 
-- [PowerBroker2/SerialTransfer](https://github.com/PowerBroker2/SerialTransfer) - Arduino library to transfer dynamic, packetized data fast and reliably via Serial, I2C, or SPI
+- [PowerBroker2/SerialTransfer](https://github.com/PowerBroker2/SerialTransfer) - Arduino library to transfer dynamic, packetized data fast and reliably via Serial, I2C, etc.
 - [gfcwfzkm/SMRTXE_Project](https://github.com/gfcwfzkm/SMRTXE_Project) - Here is my main project folder where I work on new functions and test existing code. Contains graphics and ST7586 library.
 - [linker3000/shukran](https://github.com/linker3000/shukran) - Baseboard for the CJMCU FT232H module
 - [linker3000/shikra-programmer](https://github.com/linker3000/shikra-programmer) - Shikra (http://int3.cc/products/the-shikra) programming utility
