@@ -590,7 +590,7 @@
 - [Neutree/COMTool](https://github.com/Neutree/COMTool) - Cross platform communicate assistant(Serial/network/terminal tool)（ 跨平台 串口调试助手 网络调试助手 终端工具 linux windows mac Raspberry Pi ）支持插件和二次开发
 - [bellingeri/localPTZtime](https://github.com/bellingeri/localPTZtime) - Simple TimeZone and DST support for MicroPython
 - [jczic/ESP32-MPY-Jama](https://github.com/jczic/ESP32-MPY-Jama) - v1.2 - UI tool for manage Espressif ESP32 microcontrollers with embedded MicroPython for MacOS, Windows and Linux: mini IDE, files manager, REPL, real time dashboards (sys/net), advanced features (gpi
-- [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
+- [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+ support, as well as offline maps and navigation functions.
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [PowerBroker2/pySerialTransfer](https://github.com/PowerBroker2/pySerialTransfer) - Python package to transfer data in a fast, reliable, and packetized form
@@ -614,7 +614,7 @@
 - [lexus2k/lcdgfx](https://github.com/lexus2k/lcdgfx) - Driver for LCD displays running on Arduino/Avr/ESP32/Linux (including Rasperry) platforms
 - [Guitarman9119/Raspberry-Pi-Pico-](https://github.com/Guitarman9119/Raspberry-Pi-Pico-) - Tutorials / Projects and Devlog - Course Related to the Raspberry Pi Pico
 - [MattGrayYes/epic](https://github.com/MattGrayYes/epic) - DSCOVR:EPIC image viewer for Raspberry Pi with Pimoroni 2.1" Hyperpixel Round display.
-- [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
+- [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+ support, as well as offline maps and navigation functions.
 - [veebch/heat-o-matic](https://github.com/veebch/heat-o-matic) - Proportional Integral Derivative controller using pi pico
 - [james1236/buzzer_music](https://github.com/james1236/buzzer_music) - RPI Pico / Micropython library to play music through one or more buzzers, can automatically replace chords with fast arpeggios to simulate polyphony with a single buzzer. Music can be easily taken fro
 - [ayoy/fontedit](https://github.com/ayoy/fontedit) - A desktop app to import, edit and export fonts as byte arrays for use in embedded systems
