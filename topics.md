@@ -67,6 +67,7 @@
 - [vim](#vim)
 - [webapp](#webapp)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## api 
 
@@ -686,6 +687,11 @@
 ## windows 
 
 - [jczic/ESP32-MPY-Jama](https://github.com/jczic/ESP32-MPY-Jama) - v1.2 - UI tool for manage Espressif ESP32 microcontrollers with embedded MicroPython for MacOS, Windows and Linux: mini IDE, files manager, REPL, real time dashboards (sys/net), advanced features (gpi
+
+## zsh 
+
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
 
 
 ## License
