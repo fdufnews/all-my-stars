@@ -499,7 +499,7 @@
 - [thagrol/Guides](https://github.com/thagrol/Guides) - 
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [davidrmiller/biosim4](https://github.com/davidrmiller/biosim4) - Biological evolution simulator
-- [tayfunulu/WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython
+- [tayfunulu/WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - Raspberry Pi Pico - micropython
 - [DesignSparkRS/RadioGlobe](https://github.com/DesignSparkRS/RadioGlobe) - 
 - [Makerfabs/Project_Touch-Screen-Camera](https://github.com/Makerfabs/Project_Touch-Screen-Camera) - 
 - [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz) - Raspberry Pi Pico Pinout Page
