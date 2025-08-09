@@ -358,7 +358,7 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [veebch/heat-o-matic](https://github.com/veebch/heat-o-matic) - Proportional Integral Derivative controller using pi pico
 - [benevpi/PicoPythonHub75](https://github.com/benevpi/PicoPythonHub75) - 
-- [tayfunulu/WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - micropython
+- [tayfunulu/WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - Raspberry Pi Pico - micropython
 - [DesignSparkRS/RadioGlobe](https://github.com/DesignSparkRS/RadioGlobe) - 
 - [robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for PyBoard and Raspberry Pi PICO
 - [robert-hh/RP2040-Examples](https://github.com/robert-hh/RP2040-Examples) - Example code for the RP2040 using MicroPython
