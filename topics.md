@@ -68,6 +68,7 @@
 - [vim](#vim)
 - [webapp](#webapp)
 - [windows](#windows)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## api 
@@ -692,6 +693,10 @@
 ## windows 
 
 - [jczic/ESP32-MPY-Jama](https://github.com/jczic/ESP32-MPY-Jama) - v1.2 - UI tool for manage Espressif ESP32 microcontrollers with embedded MicroPython for MacOS, Windows and Linux: mini IDE, files manager, REPL, real time dashboards (sys/net), advanced features (gpi
+
+## youtube 
+
+- [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 
 ## zsh 
 
