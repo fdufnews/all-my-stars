@@ -371,6 +371,8 @@
 
 ## others 
 
+- [sivar2311/ESP32-PlatformIO-Flash-and-PSRAM-configurations](https://github.com/sivar2311/ESP32-PlatformIO-Flash-and-PSRAM-configurations) - ESP32-S3 PlatformIO Flash and PSRAM configurations
+- [sivar2311/platformio_boards](https://github.com/sivar2311/platformio_boards) - Collection of various PlatformIO board definitions
 - [javl/image2cpp](https://github.com/javl/image2cpp) - 
 - [tve/esp32-backtrace](https://github.com/tve/esp32-backtrace) - Simple bash script to annotate an ESP32 exception backtrace with source code info
 - [robjen/GFX_fonts](https://github.com/robjen/GFX_fonts) - A collection of fonts compatible with Adafruit GFX library mostly small many fixed format
