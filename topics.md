@@ -439,7 +439,7 @@
 - [bitbank2/AnimatedGIF](https://github.com/bitbank2/AnimatedGIF) - An optimized GIF decoder suitable for microcontrollers and PCs
 - [sb-ocr/ocreeb-12](https://github.com/sb-ocr/ocreeb-12) - A 12 key macropad running KMK
 - [nevyn-hira/macrokeyboard](https://github.com/nevyn-hira/macrokeyboard) - 
-- [kriomant/ch57x-keyboard-tool](https://github.com/kriomant/ch57x-keyboard-tool) - Utility for programming ch57x small keyboard
+- [kriomant/ch57x-keyboard-tool](https://github.com/kriomant/ch57x-keyboard-tool) - Utility for programming small ch57x keyboards (1189:8890, 1189:8840, 1189:8842)
 - [jeffmer/micropython-ili9341](https://github.com/jeffmer/micropython-ili9341) - Micropython Driver for ILI9341 display
 - [cifertech/WiFiBox](https://github.com/cifertech/WiFiBox) - Packet Monitor with Waterfall Plot using ESP32
 - [greiman/SSD1306Ascii](https://github.com/greiman/SSD1306Ascii) - Text only Arduino Library for SSD1306 OLED displays
