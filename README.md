@@ -271,6 +271,7 @@
 
 ## Others 
 
+- [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [sivar2311/ESP32-PlatformIO-Flash-and-PSRAM-configurations](https://github.com/sivar2311/ESP32-PlatformIO-Flash-and-PSRAM-configurations) - ESP32-S3 PlatformIO Flash and PSRAM configurations
 - [sivar2311/platformio_boards](https://github.com/sivar2311/platformio_boards) - Collection of various PlatformIO board definitions
 - [sqfmi/watchy-hardware](https://github.com/sqfmi/watchy-hardware) - Watchy Hardware CAD Files
