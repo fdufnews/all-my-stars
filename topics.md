@@ -69,6 +69,7 @@
 - [webapp](#webapp)
 - [windows](#windows)
 - [youtube](#youtube)
+- [zig](#zig)
 - [zsh](#zsh)
 
 ## api 
@@ -700,6 +701,10 @@
 ## youtube 
 
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
+
+## zig 
+
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Snappy and configuration-free little text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compil
 
 ## zsh 
 
