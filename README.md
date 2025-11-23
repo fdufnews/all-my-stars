@@ -118,6 +118,7 @@
 
 ## C++ 
 
+- [atomic14/micropython-i2s-esp32-test](https://github.com/atomic14/micropython-i2s-esp32-test) - A simple example showing how to use MicroPython with I2S on the ESP32
 - [JChristensen/Timezone](https://github.com/JChristensen/Timezone) - Arduino library to facilitate time zone conversions and automatic daylight saving (summer) time adjustments.
 - [moononournation/IoT-Emoji-Sign](https://github.com/moononournation/IoT-Emoji-Sign) - 
 - [hyOzd/serialplot](https://github.com/hyOzd/serialplot) - Small and simple software for plotting data from serial port in realtime.
