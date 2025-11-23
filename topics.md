@@ -372,6 +372,7 @@
 
 ## others 
 
+- [atomic14/micropython-i2s-esp32-test](https://github.com/atomic14/micropython-i2s-esp32-test) - A simple example showing how to use MicroPython with I2S on the ESP32
 - [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [sivar2311/ESP32-PlatformIO-Flash-and-PSRAM-configurations](https://github.com/sivar2311/ESP32-PlatformIO-Flash-and-PSRAM-configurations) - ESP32-S3 PlatformIO Flash and PSRAM configurations
 - [sivar2311/platformio_boards](https://github.com/sivar2311/platformio_boards) - Collection of various PlatformIO board definitions
