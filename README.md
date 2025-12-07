@@ -285,6 +285,7 @@
 - [VernonGrant/gnu-c-language-manual](https://github.com/VernonGrant/gnu-c-language-manual) - This is a mirror of Richard Stallman's GNU C Language Intro and Reference, available in Markdown and PDF.
 - [volzotan/gpxpy](https://github.com/volzotan/gpxpy) - gpx-py is a python GPX parser. GPX (GPS eXchange Format) is a XML based file format for GPS track logs.
 - [ncarandini/KiCad-RP-Pico](https://github.com/ncarandini/KiCad-RP-Pico) - A simple repository of files needed to add a 3D footprint of the Raspberry Pi Pico board to KiCad.
+- [linker3000/shukran](https://github.com/linker3000/shukran) - Baseboard for the CJMCU FT232H module
 - [lasselukkari/SerialChiller](https://github.com/lasselukkari/SerialChiller) - A wireless RS232 adapter for the Internet of old things.
 - [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [bdring/midTbot_esp32](https://github.com/bdring/midTbot_esp32) - A Small and Simple Pen Plotter
@@ -374,7 +375,6 @@
 - [peterhinch/micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf class
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [PowerBroker2/pySerialTransfer](https://github.com/PowerBroker2/pySerialTransfer) - Python package to transfer data in a fast, reliable, and packetized form
-- [linker3000/shukran](https://github.com/linker3000/shukran) - Baseboard for the CJMCU FT232H module
 - [linker3000/shikra-programmer](https://github.com/linker3000/shikra-programmer) - Shikra (http://int3.cc/products/the-shikra) programming utility
 - [luka1199/geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
 - [rm-hull/luma.oled](https://github.com/rm-hull/luma.oled) - Python module to drive a SSD1306 / SSD1309 / SSD1322 / SSD1325 / SSD1327 / SSD1331 / SSD1351 / SH1106 OLED
