@@ -54,6 +54,7 @@
 - [open-source](#open-source)
 - [operating-system](#operating-system)
 - [others](#others)
+- [php](#php)
 - [productivity](#productivity)
 - [programming-language](#programming-language)
 - [project-management](#project-management)
@@ -290,6 +291,7 @@
 
 ## html 
 
+- [diddy-boy/mini-pi-media-server](https://github.com/diddy-boy/mini-pi-media-server) - Mini Pi media server for a Raspberry pi.
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 
 ## http 
@@ -328,6 +330,7 @@
 
 ## linux 
 
+- [diddy-boy/mini-pi-media-server](https://github.com/diddy-boy/mini-pi-media-server) - Mini Pi media server for a Raspberry pi.
 - [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [rvp-nl/vs10xx-linux](https://github.com/rvp-nl/vs10xx-linux) - Linux driver for VS1053 and VS1063 audio codecs
@@ -600,6 +603,10 @@
 - [borgel/bolton_buttons](https://github.com/borgel/bolton_buttons) - Small devices to add keys to devices that have too few
 - [technoblogy/tiny-lisp-computer](https://github.com/technoblogy/tiny-lisp-computer) - A self-contained computer with its own display and keyboard, based on an ATmega328 or ATmega1284, that you can program in Lisp.
 - [loboris/MicroPython_ESP32_psRAM_LoBo](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo) - MicroPython for ESP32 with psRAM support
+
+## php 
+
+- [diddy-boy/mini-pi-media-server](https://github.com/diddy-boy/mini-pi-media-server) - Mini Pi media server for a Raspberry pi.
 
 ## productivity 
 
