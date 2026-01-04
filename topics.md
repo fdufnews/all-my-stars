@@ -36,6 +36,7 @@
 - [haskell](#haskell)
 - [homebrew](#homebrew)
 - [html](#html)
+- [html-css-javascript](#html-css-javascript)
 - [http](#http)
 - [iot](#iot)
 - [java](#java)
@@ -294,6 +295,10 @@
 - [diddy-boy/mini-pi-media-server](https://github.com/diddy-boy/mini-pi-media-server) - Mini Pi media server for a Raspberry pi.
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 
+## html-css-javascript 
+
+- [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) - Markdown Viewer is a fast, GitHub-style Markdown editor and previewer. It features syntax highlighting, LaTeX math, Mermaid diagrams, a dark mode, and supports file import/export (MD/HTML/PDF), emoji 
+
 ## http 
 
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
@@ -317,6 +322,7 @@
 
 ## latex 
 
+- [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) - Markdown Viewer is a fast, GitHub-style Markdown editor and previewer. It features syntax highlighting, LaTeX math, Mermaid diagrams, a dark mode, and supports file import/export (MD/HTML/PDF), emoji 
 - [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 
 ## learning 
@@ -360,6 +366,7 @@
 
 ## markdown 
 
+- [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) - Markdown Viewer is a fast, GitHub-style Markdown editor and previewer. It features syntax highlighting, LaTeX math, Mermaid diagrams, a dark mode, and supports file import/export (MD/HTML/PDF), emoji 
 - [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
