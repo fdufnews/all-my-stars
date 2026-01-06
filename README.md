@@ -134,7 +134,7 @@
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [SverrirValgeirsson/Todour](https://github.com/SverrirValgeirsson/Todour) - The todo.txt application Todour
 - [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
-- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a dual-purpose wireless testing toolkit powered by an ESP32
+- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless testing toolkit powered by an ESP32
 - [cifertech/WiFiBox](https://github.com/cifertech/WiFiBox) - Packet Monitor with Waterfall Plot using ESP32
 - [ropg/ezTime](https://github.com/ropg/ezTime) - ezTime — pronounced "Easy Time" — is a very easy to use Arduino time and date library that provides NTP network time lookups, extensive timezone support, formatted time and date strings, user events, 
 - [ripred/Smooth](https://github.com/ripred/Smooth) - Keep smooth running averages without using arrays! Uses exponential moving averages and only 8-bytes no matter how many samples! No looping! No Arrays! Constant Compute Time! The sample size is adjust
