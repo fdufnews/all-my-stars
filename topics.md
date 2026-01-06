@@ -92,7 +92,7 @@
 - [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino ATmega Devices (Uno R3, Leonardo, Mega, etc).
 - [akshaybaweja/component-tester](https://github.com/akshaybaweja/component-tester) - GUI for Component Tester
 - [akshaybaweja/component-tester-oled](https://github.com/akshaybaweja/component-tester-oled) - Component Tester in a Keychain
-- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a dual-purpose wireless testing toolkit powered by an ESP32
+- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless testing toolkit powered by an ESP32
 - [s00500/ESPUI](https://github.com/s00500/ESPUI) - A simple web user interface library for ESP32 and ESP8266
 - [Spirik/GEM](https://github.com/Spirik/GEM) - Good Enough Menu for Arduino
 - [slviajero/tinybasic](https://github.com/slviajero/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
@@ -685,7 +685,7 @@
 
 ## security-tools 
 
-- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a dual-purpose wireless testing toolkit powered by an ESP32
+- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless testing toolkit powered by an ESP32
 
 ## shell 
 
