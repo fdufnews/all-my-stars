@@ -45,6 +45,7 @@
 
 ## C 
 
+- [AbundanceOfPotentialApplications/Smart-Response-XE-word-processor](https://github.com/AbundanceOfPotentialApplications/Smart-Response-XE-word-processor) - Text editor for the Smart Response XE pocket computer.
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [robjen/GFX_fonts](https://github.com/robjen/GFX_fonts) - A collection of fonts compatible with Adafruit GFX library mostly small many fixed format
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
