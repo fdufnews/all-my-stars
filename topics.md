@@ -409,6 +409,8 @@
 
 ## others 
 
+- [abbodi1406/ConsumerESU](https://github.com/abbodi1406/ConsumerESU) - Windows 10 Consumer ESU Enrollment
+- [AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition](https://github.com/AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition) - The TFT_eSPI is the de-facto-standard when using TFT displays connected to a microcontroller of the ESP32 family. Unfortunately this library looks like abandoned as errors were not fixed by the author
 - [KoStard/ESP32S3-USB-Keyboard-To-BLE](https://github.com/KoStard/ESP32S3-USB-Keyboard-To-BLE) - Add BLE to your USB Keyboard
 - [AbundanceOfPotentialApplications/Smart-Response-XE-word-processor](https://github.com/AbundanceOfPotentialApplications/Smart-Response-XE-word-processor) - Text editor for the Smart Response XE pocket computer.
 - [atomic14/micropython-i2s-esp32-test](https://github.com/atomic14/micropython-i2s-esp32-test) - A simple example showing how to use MicroPython with I2S on the ESP32
