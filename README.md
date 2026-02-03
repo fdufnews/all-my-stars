@@ -24,6 +24,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [Pascal](#pascal)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
@@ -45,6 +46,7 @@
 
 ## C 
 
+- [AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition](https://github.com/AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition) - The TFT_eSPI is the de-facto-standard when using TFT displays connected to a microcontroller of the ESP32 family. Unfortunately this library looks like abandoned as errors were not fixed by the author
 - [AbundanceOfPotentialApplications/Smart-Response-XE-word-processor](https://github.com/AbundanceOfPotentialApplications/Smart-Response-XE-word-processor) - Text editor for the Smart Response XE pocket computer.
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [robjen/GFX_fonts](https://github.com/robjen/GFX_fonts) - A collection of fonts compatible with Adafruit GFX library mostly small many fixed format
@@ -297,6 +299,10 @@
 ## Pascal 
 
 - [robhagemans/hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts) - turns out I like bitmap fonts
+
+## PowerShell 
+
+- [abbodi1406/ConsumerESU](https://github.com/abbodi1406/ConsumerESU) - Windows 10 Consumer ESU Enrollment
 
 ## Python 
 
