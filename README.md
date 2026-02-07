@@ -46,6 +46,9 @@
 
 ## C 
 
+- [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
+- [valdanylchuk/breezydemo](https://github.com/valdanylchuk/breezydemo) - BreezyBox shell demo for esp32s3
+- [valdanylchuk/breezyapps](https://github.com/valdanylchuk/breezyapps) - ESP32 ELF apps for BreezyBox
 - [AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition](https://github.com/AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition) - The TFT_eSPI is the de-facto-standard when using TFT displays connected to a microcontroller of the ESP32 family. Unfortunately this library looks like abandoned as errors were not fixed by the author
 - [AbundanceOfPotentialApplications/Smart-Response-XE-word-processor](https://github.com/AbundanceOfPotentialApplications/Smart-Response-XE-word-processor) - Text editor for the Smart Response XE pocket computer.
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
