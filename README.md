@@ -280,7 +280,6 @@
 
 ## Others 
 
-- [diddy-boy/mini-pi-media-server](https://github.com/diddy-boy/mini-pi-media-server) - Mini Pi media server for a Raspberry pi.
 - [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [sivar2311/ESP32-PlatformIO-Flash-and-PSRAM-configurations](https://github.com/sivar2311/ESP32-PlatformIO-Flash-and-PSRAM-configurations) - ESP32-S3 PlatformIO Flash and PSRAM configurations
 - [sivar2311/platformio_boards](https://github.com/sivar2311/platformio_boards) - Collection of various PlatformIO board definitions
@@ -415,6 +414,7 @@
 
 ## Shell 
 
+- [diddy-boy/mini-pi-media-server](https://github.com/diddy-boy/mini-pi-media-server) - Mini Pi media server for a Raspberry pi.
 - [tve/esp32-backtrace](https://github.com/tve/esp32-backtrace) - Simple bash script to annotate an ESP32 exception backtrace with source code info
 - [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
 - [lux4rd0/homeassistant](https://github.com/lux4rd0/homeassistant) - 
