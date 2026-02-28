@@ -308,6 +308,7 @@
 
 ## Python 
 
+- [st739/WiFind-pico](https://github.com/st739/WiFind-pico) - Utility code to connect a pico to a WiFi network
 - [YakrooThai/RaspberryPiZERO](https://github.com/YakrooThai/RaspberryPiZERO) - 
 - [Heerkog/MicroPythonBLEHID](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
 - [tahnok/colmi_r02_client](https://github.com/tahnok/colmi_r02_client) - A python client + documentation for the Colmi R02 smart ring
@@ -382,7 +383,7 @@
 - [robert-hh/RP2040-Examples](https://github.com/robert-hh/RP2040-Examples) - Example code for the RP2040 using MicroPython
 - [OneMadGypsy/simple-cli](https://github.com/OneMadGypsy/simple-cli) - A simple command line interface in micropython
 - [boochow/MicroPython-ST7735](https://github.com/boochow/MicroPython-ST7735) - ST7735 TFT LCD driver for MicroPython
-- [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code.
+- [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of asyncio to hardware interfaces. Tutorial and code.
 - [james1236/buzzer_music](https://github.com/james1236/buzzer_music) - RPI Pico / Micropython library to play music through one or more buzzers, can automatically replace chords with fast arpeggios to simulate polyphony with a single buzzer. Music can be easily taken fro
 - [peterhinch/micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - A lightweight MicroPython GUI library for display drivers based on framebuf class
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
