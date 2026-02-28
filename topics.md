@@ -223,7 +223,7 @@
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [LennartHennigs/Button2](https://github.com/LennartHennigs/Button2) - Arduino/ESP button library that provides callback functions to track single, double, triple and long clicks. It also takes care of debouncing.
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
-- [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code.
+- [peterhinch/micropython-async](https://github.com/peterhinch/micropython-async) - Application of asyncio to hardware interfaces. Tutorial and code.
 - [ayoy/fontedit](https://github.com/ayoy/fontedit) - A desktop app to import, edit and export fonts as byte arrays for use in embedded systems
 
 ## emoji 
@@ -409,6 +409,7 @@
 
 ## others 
 
+- [st739/WiFind-pico](https://github.com/st739/WiFind-pico) - Utility code to connect a pico to a WiFi network
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
 - [valdanylchuk/breezydemo](https://github.com/valdanylchuk/breezydemo) - BreezyBox shell demo for esp32s3
 - [valdanylchuk/breezyapps](https://github.com/valdanylchuk/breezyapps) - ESP32 ELF apps for BreezyBox
