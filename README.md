@@ -308,6 +308,7 @@
 
 ## Python 
 
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [st739/WiFind-pico](https://github.com/st739/WiFind-pico) - Utility code to connect a pico to a WiFi network
 - [YakrooThai/RaspberryPiZERO](https://github.com/YakrooThai/RaspberryPiZERO) - 
 - [Heerkog/MicroPythonBLEHID](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
@@ -356,7 +357,7 @@
 - [phoreglad/micropython-async](https://github.com/phoreglad/micropython-async) - Application of uasyncio to hardware interfaces. Tutorial and code.
 - [phoreglad/pico-MP-modules](https://github.com/phoreglad/pico-MP-modules) - Collection of modules for Raspberry Pi Pico/Pico 2 written in MicroPython.
 - [joshuanunn/micropython_mlx90621](https://github.com/joshuanunn/micropython_mlx90621) - Micropython module to communicate with Melexis MLX90621 16 x 4 Pixel Thermal Imager
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [Supreeeme/gedit-source-code-browser](https://github.com/Supreeeme/gedit-source-code-browser) - A source code class and function browser plugin for Gedit 40.
 - [maoschanz/gedit-plugin-markdown_preview](https://github.com/maoschanz/gedit-plugin-markdown_preview) - A gedit plugin previewing markdown (.md) documents
