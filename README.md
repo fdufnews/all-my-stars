@@ -123,6 +123,7 @@
 
 ## C++ 
 
+- [cpetrich/counterfeit_DS18B20](https://github.com/cpetrich/counterfeit_DS18B20) - How to tell original from fake DS18B20 temperature sensors.
 - [KoStard/ESP32S3-USB-Keyboard-To-BLE](https://github.com/KoStard/ESP32S3-USB-Keyboard-To-BLE) - Add BLE to your USB Keyboard
 - [atomic14/micropython-i2s-esp32-test](https://github.com/atomic14/micropython-i2s-esp32-test) - A simple example showing how to use MicroPython with I2S on the ESP32
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
