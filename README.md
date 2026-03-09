@@ -123,6 +123,7 @@
 
 ## C++ 
 
+- [lukeswitz/CYD_wifi_monitor](https://github.com/lukeswitz/CYD_wifi_monitor) - Wi-Fi 2,4ghz Monitor for the CYD (ESP32 + TFT). Scans 2.4 GHz networks and shows channel congestion as bar graphs or SSID lists. Touchscreen lets you switch views instantly.
 - [cpetrich/counterfeit_DS18B20](https://github.com/cpetrich/counterfeit_DS18B20) - How to tell original from fake DS18B20 temperature sensors.
 - [KoStard/ESP32S3-USB-Keyboard-To-BLE](https://github.com/KoStard/ESP32S3-USB-Keyboard-To-BLE) - Add BLE to your USB Keyboard
 - [atomic14/micropython-i2s-esp32-test](https://github.com/atomic14/micropython-i2s-esp32-test) - A simple example showing how to use MicroPython with I2S on the ESP32
