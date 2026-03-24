@@ -123,6 +123,8 @@
 
 ## C++ 
 
+- [lonesoulsurfer/Game_of_Life_Colour_Handheld](https://github.com/lonesoulsurfer/Game_of_Life_Colour_Handheld) - Conways Gamne of Life in a Handheld version
+- [victoire2049/esp32cam-rtsp](https://github.com/victoire2049/esp32cam-rtsp) - Simple RTSP (streaming image) server for the ESP32CAM. Easy configuration and monitoring through the web interface.
 - [lukeswitz/CYD_wifi_monitor](https://github.com/lukeswitz/CYD_wifi_monitor) - Wi-Fi 2,4ghz Monitor for the CYD (ESP32 + TFT). Scans 2.4 GHz networks and shows channel congestion as bar graphs or SSID lists. Touchscreen lets you switch views instantly.
 - [cpetrich/counterfeit_DS18B20](https://github.com/cpetrich/counterfeit_DS18B20) - How to tell original from fake DS18B20 temperature sensors.
 - [KoStard/ESP32S3-USB-Keyboard-To-BLE](https://github.com/KoStard/ESP32S3-USB-Keyboard-To-BLE) - Add BLE to your USB Keyboard
