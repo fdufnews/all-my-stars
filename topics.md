@@ -409,6 +409,7 @@
 
 ## others 
 
+- [El-EnderJ/NeoCalculator](https://github.com/El-EnderJ/NeoCalculator) - This project is a Graphing Scientific Calculator based on the ESP32 microcontroller, designed to compete with commercial models (Casio fx-991EX, TI-84) by means of a color TFT screen, natural display 
 - [lonesoulsurfer/Game_of_Life_Colour_Handheld](https://github.com/lonesoulsurfer/Game_of_Life_Colour_Handheld) - Conways Gamne of Life in a Handheld version
 - [victoire2049/esp32cam-rtsp](https://github.com/victoire2049/esp32cam-rtsp) - Simple RTSP (streaming image) server for the ESP32CAM. Easy configuration and monitoring through the web interface.
 - [lukeswitz/CYD_wifi_monitor](https://github.com/lukeswitz/CYD_wifi_monitor) - Wi-Fi 2,4ghz Monitor for the CYD (ESP32 + TFT). Scans 2.4 GHz networks and shows channel congestion as bar graphs or SSID lists. Touchscreen lets you switch views instantly.
