@@ -409,6 +409,7 @@
 
 ## others 
 
+- [Yutani140x/saturnix-camera](https://github.com/Yutani140x/saturnix-camera) - Retro-futuristic open-source camera with custom hardware and film-like rendering
 - [El-EnderJ/NeoCalculator](https://github.com/El-EnderJ/NeoCalculator) - This project is a Graphing Scientific Calculator based on the ESP32 microcontroller, designed to compete with commercial models (Casio fx-991EX, TI-84) by means of a color TFT screen, natural display 
 - [lonesoulsurfer/Game_of_Life_Colour_Handheld](https://github.com/lonesoulsurfer/Game_of_Life_Colour_Handheld) - Conways Gamne of Life in a Handheld version
 - [victoire2049/esp32cam-rtsp](https://github.com/victoire2049/esp32cam-rtsp) - Simple RTSP (streaming image) server for the ESP32CAM. Easy configuration and monitoring through the web interface.
