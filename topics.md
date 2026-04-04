@@ -22,6 +22,7 @@
 - [embedded](#embedded)
 - [emoji](#emoji)
 - [emulator](#emulator)
+- [esp32](#esp32)
 - [flask](#flask)
 - [font](#font)
 - [game](#game)
@@ -234,6 +235,45 @@
 
 - [fdivitto/FabGL](https://github.com/fdivitto/FabGL) - ESP32 Display Controller (VGA, PAL/NTSC Color Composite, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal
 
+## esp32 
+
+- [AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition](https://github.com/AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition) - The TFT_eSPI is the de-facto-standard when using TFT displays connected to a microcontroller of the ESP32 family. Unfortunately this library looks like abandoned as errors were not fixed by the author
+- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+- [tve/esp32-backtrace](https://github.com/tve/esp32-backtrace) - Simple bash script to annotate an ESP32 exception backtrace with source code info
+- [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
+- [lexus2k/lcdgfx](https://github.com/lexus2k/lcdgfx) - Driver for LCD displays running on Arduino/Avr/ESP32/Linux (including Rasperry) platforms
+- [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
+- [micropython/micropython-esp32-ulp](https://github.com/micropython/micropython-esp32-ulp) - ESP32 ULP Co-Processor toolchain implemented in MicroPython
+- [Spooks4576/Ghost_ESP](https://github.com/Spooks4576/Ghost_ESP) - Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect
+- [troublegum/micropyserver](https://github.com/troublegum/micropyserver) - MicroPyServer is a simple HTTP server for MicroPython projects.
+- [peterhinch/micropython-samples](https://github.com/peterhinch/micropython-samples) - Assorted code ideas, unofficial MP FAQ, plus index to my other repositories.
+- [trevorwslee/Arduino-DumbDisplay](https://github.com/trevorwslee/Arduino-DumbDisplay) - DumbDisplay Ardunio Library enables you to utilize your Android phone as virtual output gadgets (as well as some very simple inputting means) for your Arduino framework (including ESP8266 / ESP32 / Ra
+- [tonyp7/esp32-wifi-manager](https://github.com/tonyp7/esp32-wifi-manager) - Captive Portal for ESP32 that can connect to a saved wireless network or start an access point where you can connect to existing wifis.
+- [jameszah/ESP32-CAM-Video-Recorder-junior](https://github.com/jameszah/ESP32-CAM-Video-Recorder-junior) - Simple fast version of ESP32-CAM-Video-Recorder
+- [lemariva/micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) - add camera support to MicroPython
+- [miketeachman/micropython-rotary](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
+- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless testing toolkit powered by an ESP32
+- [cifertech/WiFiBox](https://github.com/cifertech/WiFiBox) - Packet Monitor with Waterfall Plot using ESP32
+- [madhephaestus/ESP32Encoder](https://github.com/madhephaestus/ESP32Encoder) - A Quadrature and half quadrature PCNT peripheral driven encoder library supporting 8 encoders
+- [s00500/ESPUI](https://github.com/s00500/ESPUI) - A simple web user interface library for ESP32 and ESP8266
+- [slviajero/tinybasic](https://github.com/slviajero/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
+- [jczic/ESP32-MPY-Jama](https://github.com/jczic/ESP32-MPY-Jama) - v1.2 - UI tool for manage Espressif ESP32 microcontrollers with embedded MicroPython for MacOS, Windows and Linux: mini IDE, files manager, REPL, real time dashboards (sys/net), advanced features (gpi
+- [LennartHennigs/ESPRotary](https://github.com/LennartHennigs/ESPRotary) - Arduino/ESP library to simplify reading rotary encoder data.
+- [LennartHennigs/ESPTelnet](https://github.com/LennartHennigs/ESPTelnet) - ESP library that allows you to setup a telnet server for debugging.
+- [LennartHennigs/SimpleFSM](https://github.com/LennartHennigs/SimpleFSM) - Arduino/ESP library to simplify setting up and running a state machine.
+- [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
+- [tuupola/hagl](https://github.com/tuupola/hagl) - Hardware Agnostic Graphics Library for embedded
+- [LennartHennigs/Button2](https://github.com/LennartHennigs/Button2) - Arduino/ESP button library that provides callback functions to track single, double, triple and long clicks. It also takes care of debouncing.
+- [khoih-prog/ESP32TimerInterrupt](https://github.com/khoih-prog/ESP32TimerInterrupt) - This library enables you to use Interrupt from Hardware Timers on an ESP32-based board. It now supports 16 ISR-based timers, while consuming only 1 hardware Timer. Timers' interval is very long (ulong
+- [fdivitto/FabGL](https://github.com/fdivitto/FabGL) - ESP32 Display Controller (VGA, PAL/NTSC Color Composite, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal
+- [tayfunulu/WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - Raspberry Pi Pico - micropython
+- [khoih-prog/ESP_WiFiManager](https://github.com/khoih-prog/ESP_WiFiManager) - This is an ESP32 / ESP8266 WiFi Connection Manager with fallback web configuration portal. Use this library for configuring ESP32 (including ESP32-S2 and ESP32-C3), ESP8266 modules' WiFi, etc. Credent
+- [Hieromon/AutoConnect](https://github.com/Hieromon/AutoConnect) - An Arduino library for ESP8266/ESP32 WLAN configuration at runtime with the Web interface
+- [moononournation/Arduino_GFX](https://github.com/moononournation/Arduino_GFX) - Arduino GFX developing for various color displays and various data bus interfaces
+- [lasselukkari/SerialChiller](https://github.com/lasselukkari/SerialChiller) - A wireless RS232 adapter for the Internet of old things.
+- [lexus2k/ssd1306](https://github.com/lexus2k/ssd1306) - Driver for SSD1306, SSD1331, SSD1351, IL9163, ILI9341, ST7735, PCD8544, Nokia 5110 displays running on Arduino/ESP32/Linux (Rasperry) platforms
+- [loboris/MicroPython_ESP32_psRAM_LoBo](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo) - MicroPython for ESP32 with psRAM support
+
 ## flask 
 
 - [rupin/PiZeroMagicMirror](https://github.com/rupin/PiZeroMagicMirror) - A Pi Zero Magic Mirror Application
@@ -419,7 +459,6 @@
 - [valdanylchuk/breezydemo](https://github.com/valdanylchuk/breezydemo) - BreezyBox shell demo for esp32s3
 - [valdanylchuk/breezyapps](https://github.com/valdanylchuk/breezyapps) - ESP32 ELF apps for BreezyBox
 - [abbodi1406/ConsumerESU](https://github.com/abbodi1406/ConsumerESU) - Windows 10 Consumer ESU Enrollment
-- [AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition](https://github.com/AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition) - The TFT_eSPI is the de-facto-standard when using TFT displays connected to a microcontroller of the ESP32 family. Unfortunately this library looks like abandoned as errors were not fixed by the author
 - [KoStard/ESP32S3-USB-Keyboard-To-BLE](https://github.com/KoStard/ESP32S3-USB-Keyboard-To-BLE) - Add BLE to your USB Keyboard
 - [AbundanceOfPotentialApplications/Smart-Response-XE-word-processor](https://github.com/AbundanceOfPotentialApplications/Smart-Response-XE-word-processor) - Text editor for the Smart Response XE pocket computer.
 - [atomic14/micropython-i2s-esp32-test](https://github.com/atomic14/micropython-i2s-esp32-test) - A simple example showing how to use MicroPython with I2S on the ESP32
@@ -427,7 +466,6 @@
 - [sivar2311/ESP32-PlatformIO-Flash-and-PSRAM-configurations](https://github.com/sivar2311/ESP32-PlatformIO-Flash-and-PSRAM-configurations) - ESP32-S3 PlatformIO Flash and PSRAM configurations
 - [sivar2311/platformio_boards](https://github.com/sivar2311/platformio_boards) - Collection of various PlatformIO board definitions
 - [javl/image2cpp](https://github.com/javl/image2cpp) - 
-- [tve/esp32-backtrace](https://github.com/tve/esp32-backtrace) - Simple bash script to annotate an ESP32 exception backtrace with source code info
 - [robjen/GFX_fonts](https://github.com/robjen/GFX_fonts) - A collection of fonts compatible with Adafruit GFX library mostly small many fixed format
 - [sqfmi/watchy-docs](https://github.com/sqfmi/watchy-docs) - Watchy Documentation Website
 - [sqfmi/watchy-hardware](https://github.com/sqfmi/watchy-hardware) - Watchy Hardware CAD Files
@@ -445,31 +483,24 @@
 - [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [eloquentarduino/EloquentEsp32cam](https://github.com/eloquentarduino/EloquentEsp32cam) - Use your Esp32-cam like an expert
 - [dhylands/upy-examples](https://github.com/dhylands/upy-examples) - MicroPython example code
-- [micropython/micropython-esp32-ulp](https://github.com/micropython/micropython-esp32-ulp) - ESP32 ULP Co-Processor toolchain implemented in MicroPython
 - [peterbalch/Curve-Tracer](https://github.com/peterbalch/Curve-Tracer) - Source code for the Curve Tracer Instructable
 - [peterbalch/Solver](https://github.com/peterbalch/Solver) - ESP32 Equation Solving Calculator
 - [hideakitai/ESP32DMASPI](https://github.com/hideakitai/ESP32DMASPI) - SPI library for ESP32 which use DMA buffer to send/receive transactions
-- [Spooks4576/Ghost_ESP](https://github.com/Spooks4576/Ghost_ESP) - Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect
 - [mmMikeKn/ESP32-WiFi-tool](https://github.com/mmMikeKn/ESP32-WiFi-tool) - ESP32 WiFi tool (router, sniffer, deauther)
 - [2dom/PxMatrix](https://github.com/2dom/PxMatrix) - Adafruit GFX compatible graphics driver for LED matrix panels
-- [troublegum/micropyserver](https://github.com/troublegum/micropyserver) - MicroPyServer is a simple HTTP server for MicroPython projects.
 - [mathew-kurian/CharacterMap](https://github.com/mathew-kurian/CharacterMap) - :tada: Online Character Map / Glyph / Icon / Font Viewer
 - [lux4rd0/homeassistant](https://github.com/lux4rd0/homeassistant) - 
 - [AncientJames/jtouch](https://github.com/AncientJames/jtouch) - PIO based capacitive touch for the RP2040
 - [rpavlik/cros-chameleon](https://github.com/rpavlik/cros-chameleon) - EDID tools originally from ChromiumOS "chameleon" tools
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
-- [tonyp7/esp32-wifi-manager](https://github.com/tonyp7/esp32-wifi-manager) - Captive Portal for ESP32 that can connect to a saved wireless network or start an access point where you can connect to existing wifis.
 - [YouMakeTech/Pi-Pico-Game-Boy](https://github.com/YouMakeTech/Pi-Pico-Game-Boy) - Code for the Raspberry Pi Pico Game Boy
 - [easytarget/microPyEZfonts](https://github.com/easytarget/microPyEZfonts) - A font writer plus a collection of MicroPython fonts for small Mono displays and devices
-- [jameszah/ESP32-CAM-Video-Recorder-junior](https://github.com/jameszah/ESP32-CAM-Video-Recorder-junior) - Simple fast version of ESP32-CAM-Video-Recorder
 - [cp4k/PyLander](https://github.com/cp4k/PyLander) - A Python Lunar Lander game.
-- [lemariva/micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) - add camera support to MicroPython
 - [shariltumin/esp32-cam-micropython-2022](https://github.com/shariltumin/esp32-cam-micropython-2022) - MicroPython esp32-cam firmware with camera support compiled with esp-idf-4.4.0. Python script files for live streaming
 - [Hack-a-Day/Vectorscope](https://github.com/Hack-a-Day/Vectorscope) - Vectorscope badge for the 2023 Hackaday Supercon and beyond!
 - [MakerM0/tulipcc](https://github.com/MakerM0/tulipcc) - The Tulip Creative Computer - a portable Python device for music, graphics and writing
 - [YouMakeTech/PicoRetroGamingSystem](https://github.com/YouMakeTech/PicoRetroGamingSystem) - Code and games for Raspberry Pi Pico RetroGaming System
 - [Makuna/Rtc](https://github.com/Makuna/Rtc) - Arduino Library for RTCs, Ds1302, Ds1307, Ds3231, Ds3232, Ds3234 and Pcf8563/BM8563 with deep support. Please refer to the Wiki for more details.  Please use the Github Discussions to ask questions as
-- [miketeachman/micropython-rotary](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
 - [wolfen351/public-micropython-iot-platform](https://github.com/wolfen351/public-micropython-iot-platform) - Micropython code to control relays, temp sensors, buttons, touchscreen, gps etc. Has web ui, mqtt, home assistant and thingsboard support
 - [PaulAccisano/piodebug](https://github.com/PaulAccisano/piodebug) - RP2040 PIO Debugger Extension for Micropython
 - [gamblor21/rp2040-logic-analyzer](https://github.com/gamblor21/rp2040-logic-analyzer) - Using a RP2040 Pico as a basic logic analyzer, exporting CSV data to read in sigrok / Pulseview
@@ -494,7 +525,6 @@
 - [nevyn-hira/macrokeyboard](https://github.com/nevyn-hira/macrokeyboard) - 
 - [kriomant/ch57x-keyboard-tool](https://github.com/kriomant/ch57x-keyboard-tool) - Utility for programming small ch57x keyboards (1189:8890, 1189:8840, 1189:8842)
 - [jeffmer/micropython-ili9341](https://github.com/jeffmer/micropython-ili9341) - Micropython Driver for ILI9341 display
-- [cifertech/WiFiBox](https://github.com/cifertech/WiFiBox) - Packet Monitor with Waterfall Plot using ESP32
 - [greiman/SSD1306Ascii](https://github.com/greiman/SSD1306Ascii) - Text only Arduino Library for SSD1306 OLED displays
 - [trustMeIAmANinja/pi-world-radio](https://github.com/trustMeIAmANinja/pi-world-radio) - A retro radio to tune-in to streaming stations from around the world.
 - [plugowski/micropython-utils](https://github.com/plugowski/micropython-utils) - Some utils and libraries for MicroPython
@@ -511,7 +541,6 @@
 - [joshuanunn/micropython_mlx90621](https://github.com/joshuanunn/micropython_mlx90621) - Micropython module to communicate with Melexis MLX90621 16 x 4 Pixel Thermal Imager
 - [peterkovesi/PerceptualColourMaps.jl](https://github.com/peterkovesi/PerceptualColourMaps.jl) - Perceptually Uniform Colour Maps for Julia
 - [ripred/Smooth](https://github.com/ripred/Smooth) - Keep smooth running averages without using arrays! Uses exponential moving averages and only 8-bytes no matter how many samples! No looping! No Arrays! Constant Compute Time! The sample size is adjust
-- [madhephaestus/ESP32Encoder](https://github.com/madhephaestus/ESP32Encoder) - A Quadrature and half quadrature PCNT peripheral driven encoder library supporting 8 encoders
 - [Supreeeme/gedit-source-code-browser](https://github.com/Supreeeme/gedit-source-code-browser) - A source code class and function browser plugin for Gedit 40.
 - [r0oland/ESP32_mini_KiCad_Library](https://github.com/r0oland/ESP32_mini_KiCad_Library) - KiCad symbol and footprint for the ESP32 Mini, the ESP32 clone of the Wemos D1 mini with more pins and more power!
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
@@ -536,14 +565,12 @@
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [micropython/micropython-lib](https://github.com/micropython/micropython-lib) - Core Python libraries ported to MicroPython
 - [prampec/IotWebConf](https://github.com/prampec/IotWebConf) - ESP8266/ESP32 non-blocking WiFi/AP web configuration Arduino library
-- [tuupola/hagl](https://github.com/tuupola/hagl) - Hardware Agnostic Graphics Library for embedded
 - [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 - [thegeek82000/openGLCD](https://github.com/thegeek82000/openGLCD) - 
 - [Jetblack31/EcoPV](https://github.com/Jetblack31/EcoPV) - Arduino based energy routing to maximize the use of PV production at home.
 - [gfcwfzkm/PIF-Image-Format](https://github.com/gfcwfzkm/PIF-Image-Format) - Image format, tools & librares for limited embedded systems
 - [mkschreder/avr-vt100](https://github.com/mkschreder/avr-vt100) - AVR ATMega Terminal Emulator
 - [volzotan/gpxpy](https://github.com/volzotan/gpxpy) - gpx-py is a python GPX parser. GPX (GPS eXchange Format) is a XML based file format for GPS track logs.
-- [khoih-prog/ESP32TimerInterrupt](https://github.com/khoih-prog/ESP32TimerInterrupt) - This library enables you to use Interrupt from Hardware Timers on an ESP32-based board. It now supports 16 ISR-based timers, while consuming only 1 hardware Timer. Timers' interval is very long (ulong
 - [bpwagner/GamerGorl](https://github.com/bpwagner/GamerGorl) - GamerGorl video game system and code
 - [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040/RP2350).
 - [jrullan/StateMachine](https://github.com/jrullan/StateMachine) - State machine library for Arduino
@@ -555,12 +582,10 @@
 - [thagrol/Guides](https://github.com/thagrol/Guides) - 
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [davidrmiller/biosim4](https://github.com/davidrmiller/biosim4) - Biological evolution simulator
-- [tayfunulu/WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - Raspberry Pi Pico - micropython
 - [DesignSparkRS/RadioGlobe](https://github.com/DesignSparkRS/RadioGlobe) - 
 - [Makerfabs/Project_Touch-Screen-Camera](https://github.com/Makerfabs/Project_Touch-Screen-Camera) - 
 - [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz) - Raspberry Pi Pico Pinout Page
 - [michaelerule/ILI9341TTY](https://github.com/michaelerule/ILI9341TTY) - USB serial TTY for the Arduino Uno with ILI9341 LCD screen shield
-- [Hieromon/AutoConnect](https://github.com/Hieromon/AutoConnect) - An Arduino library for ESP8266/ESP32 WLAN configuration at runtime with the Web interface
 - [robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for PyBoard and Raspberry Pi PICO
 - [chmod775/SMARTResponseTerminal](https://github.com/chmod775/SMARTResponseTerminal) - Firmare to turn a SMART Response XE into a serial terminal. https://hackaday.io/project/180910-smart-response-xe-linux
 - [ptravnik/Retro_CALC](https://github.com/ptravnik/Retro_CALC) - A powerful RPN calculator, programmable in BASIC
@@ -605,7 +630,6 @@
 - [linker3000/shukran](https://github.com/linker3000/shukran) - Baseboard for the CJMCU FT232H module
 - [linker3000/shikra-programmer](https://github.com/linker3000/shikra-programmer) - Shikra (http://int3.cc/products/the-shikra) programming utility
 - [NaoNaoMe/ESP8266-WiFi-UART-transparent-bridge](https://github.com/NaoNaoMe/ESP8266-WiFi-UART-transparent-bridge) - Transparent serial communication sketch in Arduino IDE
-- [lasselukkari/SerialChiller](https://github.com/lasselukkari/SerialChiller) - A wireless RS232 adapter for the Internet of old things.
 - [AlphaLima/ESP32-Serial-Bridge](https://github.com/AlphaLima/ESP32-Serial-Bridge) - Wifi to 3x Serial bridge based on a ESP32
 - [jeelabs/esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer
 - [Marzogh/ATmega128RFA1](https://github.com/Marzogh/ATmega128RFA1) - A bunch of libraries for the ATmega128RFA1 (Work in Progress)
@@ -626,7 +650,6 @@
 - [AnthonyDiGirolamo/teensy-thumb-keyboard](https://github.com/AnthonyDiGirolamo/teensy-thumb-keyboard) - Handheld tactile switch keyboard for Teensy 3.2 compatible boards.
 - [borgel/bolton_buttons](https://github.com/borgel/bolton_buttons) - Small devices to add keys to devices that have too few
 - [technoblogy/tiny-lisp-computer](https://github.com/technoblogy/tiny-lisp-computer) - A self-contained computer with its own display and keyboard, based on an ATmega328 or ATmega1284, that you can program in Lisp.
-- [loboris/MicroPython_ESP32_psRAM_LoBo](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo) - MicroPython for ESP32 with psRAM support
 
 ## php 
 
