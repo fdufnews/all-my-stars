@@ -237,7 +237,6 @@
 
 ## esp32 
 
-- [AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition](https://github.com/AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition) - The TFT_eSPI is the de-facto-standard when using TFT displays connected to a microcontroller of the ESP32 family. Unfortunately this library looks like abandoned as errors were not fixed by the author
 - [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [tve/esp32-backtrace](https://github.com/tve/esp32-backtrace) - Simple bash script to annotate an ESP32 exception backtrace with source code info
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
@@ -449,6 +448,7 @@
 
 ## others 
 
+- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X4 e-paper display reader
 - [Yutani140x/saturnix-camera](https://github.com/Yutani140x/saturnix-camera) - Retro-futuristic open-source camera with custom hardware and film-like rendering
 - [El-EnderJ/NeoCalculator](https://github.com/El-EnderJ/NeoCalculator) - This project is a Graphing Scientific Calculator based on the ESP32 microcontroller, designed to compete with commercial models (Casio fx-991EX, TI-84) by means of a color TFT screen, natural display 
 - [lonesoulsurfer/Game_of_Life_Colour_Handheld](https://github.com/lonesoulsurfer/Game_of_Life_Colour_Handheld) - Conways Gamne of Life in a Handheld version
