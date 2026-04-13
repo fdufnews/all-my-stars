@@ -46,6 +46,7 @@
 
 ## C 
 
+- [lafar6502/esp_nmea_parser](https://github.com/lafar6502/esp_nmea_parser) - testing the gps module
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X4 e-paper display reader
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
 - [valdanylchuk/breezydemo](https://github.com/valdanylchuk/breezydemo) - BreezyBox shell demo for esp32s3
@@ -123,6 +124,12 @@
 
 ## C++ 
 
+- [Schm1tz1/arduino-ms5xxx](https://github.com/Schm1tz1/arduino-ms5xxx) - Arduino Library with examples for using digital pressure sensors MS5607 (and MS56xx, MS57xx, MS58xx) based on AN520 by manufacturer.
+- [ttlappalainen/NMEA0183](https://github.com/ttlappalainen/NMEA0183) - Library for handling NMEA0183 messages
+- [hmz06967/OZGPS_NMEA](https://github.com/hmz06967/OZGPS_NMEA) - A library that parses NMEA gps record from Uart or any source ``"gps.encode(char c);"`` can parse sequentially with a single character.
+- [MajenkoLibraries/NMEA](https://github.com/MajenkoLibraries/NMEA) - Arduino library for decoding and parsing NMEA GPS messages
+- [PowerBroker2/NMEA_Parser](https://github.com/PowerBroker2/NMEA_Parser) - Arduino library to parse NMEA sentences
+- [Glinnes/NMEAParser](https://github.com/Glinnes/NMEAParser) - A simple and compact NMEA parser for Arduino
 - [UravuLabs/MS5607](https://github.com/UravuLabs/MS5607) - Arduino Library for TE Connectivity Pressure Sensor MS5607
 - [El-EnderJ/NeoCalculator](https://github.com/El-EnderJ/NeoCalculator) - This project is a Graphing Scientific Calculator based on the ESP32 microcontroller, designed to compete with commercial models (Casio fx-991EX, TI-84) by means of a color TFT screen, natural display 
 - [lonesoulsurfer/Game_of_Life_Colour_Handheld](https://github.com/lonesoulsurfer/Game_of_Life_Colour_Handheld) - Conways Gamne of Life in a Handheld version
