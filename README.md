@@ -125,6 +125,7 @@
 
 ## C++ 
 
+- [danilogcrf2-oss/ESP32Synth](https://github.com/danilogcrf2-oss/ESP32Synth) - Polyphonic synthesizer with 80+ voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit).
 - [Schm1tz1/arduino-ms5xxx](https://github.com/Schm1tz1/arduino-ms5xxx) - Arduino Library with examples for using digital pressure sensors MS5607 (and MS56xx, MS57xx, MS58xx) based on AN520 by manufacturer.
 - [ttlappalainen/NMEA0183](https://github.com/ttlappalainen/NMEA0183) - Library for handling NMEA0183 messages
 - [hmz06967/OZGPS_NMEA](https://github.com/hmz06967/OZGPS_NMEA) - A library that parses NMEA gps record from Uart or any source ``"gps.encode(char c);"`` can parse sequentially with a single character.
