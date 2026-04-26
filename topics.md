@@ -457,6 +457,8 @@
 
 ## others 
 
+- [only1thor/x4-bookmaker](https://github.com/only1thor/x4-bookmaker) - a simple markdown editor with epub export focused on an accurate preview for the xteink x4 reader (with crosspoint firmware)
+- [penk/X4Term](https://github.com/penk/X4Term) - Pocket VT100 terminal for Xteink X4
 - [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [ttlappalainen/NMEA0183](https://github.com/ttlappalainen/NMEA0183) - Library for handling NMEA0183 messages
 - [hmz06967/OZGPS_NMEA](https://github.com/hmz06967/OZGPS_NMEA) - A library that parses NMEA gps record from Uart or any source ``"gps.encode(char c);"`` can parse sequentially with a single character.
