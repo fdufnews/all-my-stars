@@ -459,6 +459,7 @@
 
 ## others 
 
+- [povle/spark-synth](https://github.com/povle/spark-synth) - Spark - a portable open-source ESP32-based synth running the AMY synth engine
 - [only1thor/x4-bookmaker](https://github.com/only1thor/x4-bookmaker) - a simple markdown editor with epub export focused on an accurate preview for the xteink x4 reader (with crosspoint firmware)
 - [penk/X4Term](https://github.com/penk/X4Term) - Pocket VT100 terminal for Xteink X4
 - [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
