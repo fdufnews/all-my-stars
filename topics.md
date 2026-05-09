@@ -89,7 +89,7 @@
 - [shachi-lab/nanoBASIC_UNO](https://github.com/shachi-lab/nanoBASIC_UNO) - A minimal BASIC interpreter for Arduino UNO (ATmega328P).
 - [Schm1tz1/arduino-ms5xxx](https://github.com/Schm1tz1/arduino-ms5xxx) - Arduino Library with examples for using digital pressure sensors MS5607 (and MS56xx, MS57xx, MS58xx) based on AN520 by manufacturer.
 - [Glinnes/NMEAParser](https://github.com/Glinnes/NMEAParser) - A simple and compact NMEA parser for Arduino
-- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+- [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [JChristensen/Timezone](https://github.com/JChristensen/Timezone) - Arduino library to facilitate time zone conversions and automatic daylight saving (summer) time adjustments.
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [lexus2k/lcdgfx](https://github.com/lexus2k/lcdgfx) - Driver for LCD displays running on Arduino/Avr/ESP32/Linux (including Rasperry) platforms
@@ -154,6 +154,7 @@
 
 ## c 
 
+- [Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver](https://github.com/Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver) - A micropython driver that runs on an ESP32 and receives data from a NEO-M8 GPS module
 - [rvp-nl/vs10xx-linux](https://github.com/rvp-nl/vs10xx-linux) - Linux driver for VS1053 and VS1063 audio codecs
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
@@ -242,9 +243,10 @@
 
 ## esp32 
 
+- [Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver](https://github.com/Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver) - A micropython driver that runs on an ESP32 and receives data from a NEO-M8 GPS module
 - [danilogcrf2-oss/ESP32Synth](https://github.com/danilogcrf2-oss/ESP32Synth) - Polyphonic synthesizer with 80+ voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit).
 - [AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition](https://github.com/AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition) - The TFT_eSPI is the de-facto-standard when using TFT displays connected to a microcontroller of the ESP32 family. Unfortunately this library looks like abandoned as errors were not fixed by the author
-- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+- [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [tve/esp32-backtrace](https://github.com/tve/esp32-backtrace) - Simple bash script to annotate an ESP32 exception backtrace with source code info
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [lexus2k/lcdgfx](https://github.com/lexus2k/lcdgfx) - Driver for LCD displays running on Arduino/Avr/ESP32/Linux (including Rasperry) platforms
@@ -459,6 +461,8 @@
 
 ## others 
 
+- [hery-torrado/KernelESP](https://github.com/hery-torrado/KernelESP) - ESP8266 UNIX-like control system with serial shell, web UI, automation, mail alerts and diagnostics
+- [boneskull/micropython-nmea](https://github.com/boneskull/micropython-nmea) - MicroPython library for parsing the NMEA 0183 protocol (GPS)
 - [povle/spark-synth](https://github.com/povle/spark-synth) - Spark - a portable open-source ESP32-based synth running the AMY synth engine
 - [only1thor/x4-bookmaker](https://github.com/only1thor/x4-bookmaker) - a simple markdown editor with epub export focused on an accurate preview for the xteink x4 reader (with crosspoint firmware)
 - [penk/X4Term](https://github.com/penk/X4Term) - Pocket VT100 terminal for Xteink X4
@@ -692,6 +696,7 @@
 
 ## python 
 
+- [inmcm/micropyGPS](https://github.com/inmcm/micropyGPS) - A Full Featured GPS NMEA-0183  sentence parser for use with Micropython and the PyBoard embedded platform
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
@@ -709,6 +714,7 @@
 
 ## python3 
 
+- [inmcm/micropyGPS](https://github.com/inmcm/micropyGPS) - A Full Featured GPS NMEA-0183  sentence parser for use with Micropython and the PyBoard embedded platform
 - [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
 - [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
