@@ -46,6 +46,7 @@
 
 ## C 
 
+- [Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver](https://github.com/Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver) - A micropython driver that runs on an ESP32 and receives data from a NEO-M8 GPS module
 - [lafar6502/esp_nmea_parser](https://github.com/lafar6502/esp_nmea_parser) - testing the gps module
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X4 e-paper display reader
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
@@ -124,6 +125,7 @@
 
 ## C++ 
 
+- [hery-torrado/KernelESP](https://github.com/hery-torrado/KernelESP) - ESP8266 UNIX-like control system with serial shell, web UI, automation, mail alerts and diagnostics
 - [povle/spark-synth](https://github.com/povle/spark-synth) - Spark - a portable open-source ESP32-based synth running the AMY synth engine
 - [shachi-lab/nanoBASIC_UNO](https://github.com/shachi-lab/nanoBASIC_UNO) - A minimal BASIC interpreter for Arduino UNO (ATmega328P).
 - [penk/X4Term](https://github.com/penk/X4Term) - Pocket VT100 terminal for Xteink X4
@@ -142,7 +144,7 @@
 - [cpetrich/counterfeit_DS18B20](https://github.com/cpetrich/counterfeit_DS18B20) - How to tell original from fake DS18B20 temperature sensors.
 - [KoStard/ESP32S3-USB-Keyboard-To-BLE](https://github.com/KoStard/ESP32S3-USB-Keyboard-To-BLE) - Add BLE to your USB Keyboard
 - [atomic14/micropython-i2s-esp32-test](https://github.com/atomic14/micropython-i2s-esp32-test) - A simple example showing how to use MicroPython with I2S on the ESP32
-- [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+- [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [JChristensen/Timezone](https://github.com/JChristensen/Timezone) - Arduino library to facilitate time zone conversions and automatic daylight saving (summer) time adjustments.
 - [moononournation/IoT-Emoji-Sign](https://github.com/moononournation/IoT-Emoji-Sign) - 
 - [cotestatnt/async-esp-fs-webserver](https://github.com/cotestatnt/async-esp-fs-webserver) - ESP32/ESP8266 WebServer, WiFi manager and ACE web editor Arduino library. Based on ESPAsyncWebServer
@@ -329,6 +331,8 @@
 
 ## Python 
 
+- [boneskull/micropython-nmea](https://github.com/boneskull/micropython-nmea) - MicroPython library for parsing the NMEA 0183 protocol (GPS)
+- [inmcm/micropyGPS](https://github.com/inmcm/micropyGPS) - A Full Featured GPS NMEA-0183  sentence parser for use with Micropython and the PyBoard embedded platform
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [st739/WiFind-pico](https://github.com/st739/WiFind-pico) - Utility code to connect a pico to a WiFi network
 - [YakrooThai/RaspberryPiZERO](https://github.com/YakrooThai/RaspberryPiZERO) - 
