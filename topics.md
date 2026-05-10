@@ -68,7 +68,6 @@
 - [raspberry-pi](#raspberry-pi)
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
-- [security-tools](#security-tools)
 - [shell](#shell)
 - [terminal](#terminal)
 - [tui](#tui)
@@ -98,7 +97,7 @@
 - [feilipu/Arduino_FreeRTOS_Library](https://github.com/feilipu/Arduino_FreeRTOS_Library) - A FreeRTOS Library for all Arduino ATmega Devices (Uno R3, Leonardo, Mega, etc).
 - [akshaybaweja/component-tester](https://github.com/akshaybaweja/component-tester) - GUI for Component Tester
 - [akshaybaweja/component-tester-oled](https://github.com/akshaybaweja/component-tester-oled) - Component Tester in a Keychain
-- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless testing toolkit powered by an ESP32
+- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
 - [s00500/ESPUI](https://github.com/s00500/ESPUI) - A simple web user interface library for ESP32 and ESP8266
 - [Spirik/GEM](https://github.com/Spirik/GEM) - Good Enough Menu for Arduino
 - [slviajero/tinybasic](https://github.com/slviajero/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
@@ -260,7 +259,7 @@
 - [jameszah/ESP32-CAM-Video-Recorder-junior](https://github.com/jameszah/ESP32-CAM-Video-Recorder-junior) - Simple fast version of ESP32-CAM-Video-Recorder
 - [lemariva/micropython-camera-driver](https://github.com/lemariva/micropython-camera-driver) - add camera support to MicroPython
 - [miketeachman/micropython-rotary](https://github.com/miketeachman/micropython-rotary) - MicroPython module to read a rotary encoder.
-- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless testing toolkit powered by an ESP32
+- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
 - [cifertech/WiFiBox](https://github.com/cifertech/WiFiBox) - Packet Monitor with Waterfall Plot using ESP32
 - [madhephaestus/ESP32Encoder](https://github.com/madhephaestus/ESP32Encoder) - A Quadrature and half quadrature PCNT peripheral driven encoder library supporting 8 encoders
 - [s00500/ESPUI](https://github.com/s00500/ESPUI) - A simple web user interface library for ESP32 and ESP8266
@@ -328,7 +327,7 @@
 
 ## hack 
 
-- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless testing toolkit powered by an ESP32
+- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
 
 ## hacktoberfest 
 
@@ -751,10 +750,6 @@
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [void-rs/void](https://github.com/void-rs/void) - terminal-based personal organizer
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
-
-## security-tools 
-
-- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless testing toolkit powered by an ESP32
 
 ## shell 
 
