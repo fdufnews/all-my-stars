@@ -17,6 +17,7 @@
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [cpp](#cpp)
+- [docker](#docker)
 - [documentation](#documentation)
 - [education](#education)
 - [embedded](#embedded)
@@ -38,7 +39,6 @@
 - [haskell](#haskell)
 - [homebrew](#homebrew)
 - [html](#html)
-- [html-css-javascript](#html-css-javascript)
 - [http](#http)
 - [iot](#iot)
 - [java](#java)
@@ -207,8 +207,13 @@
 
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 
+## docker 
+
+- [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) - A fast, GitHub-style Markdown editor and previewer with live preview, Mermaid diagrams, LaTeX math, syntax highlighting, PDF export, and multi-tab support. Runs in-browser, Docker, or as a desktop app
+
 ## documentation 
 
+- [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) - A fast, GitHub-style Markdown editor and previewer with live preview, Mermaid diagrams, LaTeX math, syntax highlighting, PDF export, and multi-tab support. Runs in-browser, Docker, or as a desktop app
 - [VernonGrant/gnu-c-language-manual](https://github.com/VernonGrant/gnu-c-language-manual) - This is a mirror of Richard Stallman's GNU C Language Intro and Reference, available in Markdown and PDF.
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 
@@ -348,10 +353,6 @@
 - [diddy-boy/mini-pi-media-server](https://github.com/diddy-boy/mini-pi-media-server) - Mini Pi media server for a Raspberry pi.
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 
-## html-css-javascript 
-
-- [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) - Markdown Viewer is a fast, GitHub-style Markdown editor and previewer. It features syntax highlighting, LaTeX math, Mermaid diagrams, a dark mode, and supports file import/export (MD/HTML/PDF), emoji 
-
 ## http 
 
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
@@ -370,11 +371,12 @@
 
 ## javascript 
 
+- [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) - A fast, GitHub-style Markdown editor and previewer with live preview, Mermaid diagrams, LaTeX math, syntax highlighting, PDF export, and multi-tab support. Runs in-browser, Docker, or as a desktop app
 - [s00500/ESPUI](https://github.com/s00500/ESPUI) - A simple web user interface library for ESP32 and ESP8266
 
 ## latex 
 
-- [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) - Markdown Viewer is a fast, GitHub-style Markdown editor and previewer. It features syntax highlighting, LaTeX math, Mermaid diagrams, a dark mode, and supports file import/export (MD/HTML/PDF), emoji 
+- [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) - A fast, GitHub-style Markdown editor and previewer with live preview, Mermaid diagrams, LaTeX math, syntax highlighting, PDF export, and multi-tab support. Runs in-browser, Docker, or as a desktop app
 - [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 
 ## learning 
@@ -422,7 +424,7 @@
 
 ## markdown 
 
-- [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) - Markdown Viewer is a fast, GitHub-style Markdown editor and previewer. It features syntax highlighting, LaTeX math, Mermaid diagrams, a dark mode, and supports file import/export (MD/HTML/PDF), emoji 
+- [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) - A fast, GitHub-style Markdown editor and previewer with live preview, Mermaid diagrams, LaTeX math, syntax highlighting, PDF export, and multi-tab support. Runs in-browser, Docker, or as a desktop app
 - [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
