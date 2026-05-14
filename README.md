@@ -331,6 +331,7 @@
 
 ## Python 
 
+- [elulis/micropython_ST7302](https://github.com/elulis/micropython_ST7302) - MicroPython driver for ST7302/ST7305 2.13/2.9 inch Reflective TFT, viper(faster) and bytecode version provided. No additional memory is required after init.
 - [boneskull/micropython-nmea](https://github.com/boneskull/micropython-nmea) - MicroPython library for parsing the NMEA 0183 protocol (GPS)
 - [inmcm/micropyGPS](https://github.com/inmcm/micropyGPS) - A Full Featured GPS NMEA-0183  sentence parser for use with Micropython and the PyBoard embedded platform
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
