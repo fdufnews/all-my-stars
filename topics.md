@@ -462,6 +462,7 @@
 
 ## others 
 
+- [AndreiVladescu/LibrePLC32](https://github.com/AndreiVladescu/LibrePLC32) - 
 - [elulis/micropython_ST7302](https://github.com/elulis/micropython_ST7302) - MicroPython driver for ST7302/ST7305 2.13/2.9 inch Reflective TFT, viper(faster) and bytecode version provided. No additional memory is required after init.
 - [hery-torrado/KernelESP](https://github.com/hery-torrado/KernelESP) - ESP8266 UNIX-like control system with serial shell, web UI, automation, mail alerts and diagnostics
 - [boneskull/micropython-nmea](https://github.com/boneskull/micropython-nmea) - MicroPython library for parsing the NMEA 0183 protocol (GPS)
