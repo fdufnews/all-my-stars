@@ -164,6 +164,7 @@
 - [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
 - [cifertech/WiFiBox](https://github.com/cifertech/WiFiBox) - Packet Monitor with Waterfall Plot using ESP32
 - [ropg/ezTime](https://github.com/ropg/ezTime) - ezTime — pronounced "Easy Time" — is a very easy to use Arduino time and date library that provides NTP network time lookups, extensive timezone support, formatted time and date strings, user events, 
+- [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [ripred/Smooth](https://github.com/ripred/Smooth) - Keep smooth running averages without using arrays! Uses exponential moving averages and only 8-bytes no matter how many samples! No looping! No Arrays! Constant Compute Time! The sample size is adjust
 - [madhephaestus/ESP32Encoder](https://github.com/madhephaestus/ESP32Encoder) - A Quadrature and half quadrature PCNT peripheral driven encoder library supporting 8 encoders
 - [s00500/ESPUI](https://github.com/s00500/ESPUI) - A simple web user interface library for ESP32 and ESP8266
@@ -385,7 +386,6 @@
 - [phoreglad/pico-MP-modules](https://github.com/phoreglad/pico-MP-modules) - Collection of modules for Raspberry Pi Pico/Pico 2 written in MicroPython.
 - [joshuanunn/micropython_mlx90621](https://github.com/joshuanunn/micropython_mlx90621) - Micropython module to communicate with Melexis MLX90621 16 x 4 Pixel Thermal Imager
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
-- [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [Supreeeme/gedit-source-code-browser](https://github.com/Supreeeme/gedit-source-code-browser) - A source code class and function browser plugin for Gedit 40.
 - [maoschanz/gedit-plugin-markdown_preview](https://github.com/maoschanz/gedit-plugin-markdown_preview) - A gedit plugin previewing markdown (.md) documents
 - [pinout-xyz/picopins](https://github.com/pinout-xyz/picopins) - Command-line pinout diagram for the Raspberry Pi Pico
