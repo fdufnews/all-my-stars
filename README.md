@@ -125,6 +125,7 @@
 
 ## C++ 
 
+- [kmio42/moon-display](https://github.com/kmio42/moon-display) - 
 - [hery-torrado/KernelESP](https://github.com/hery-torrado/KernelESP) - ESP8266 UNIX-like control system with serial shell, web UI, automation, mail alerts and diagnostics
 - [povle/spark-synth](https://github.com/povle/spark-synth) - Spark - a portable open-source ESP32-based synth running the AMY synth engine
 - [shachi-lab/nanoBASIC_UNO](https://github.com/shachi-lab/nanoBASIC_UNO) - A minimal BASIC interpreter for Arduino UNO (ATmega328P).
