@@ -273,7 +273,7 @@
 ## JavaScript 
 
 - [only1thor/x4-bookmaker](https://github.com/only1thor/x4-bookmaker) - a simple markdown editor with epub export focused on an accurate preview for the xteink x4 reader (with crosspoint firmware)
-- [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) - A fast, GitHub-style Markdown editor and previewer with live preview, Mermaid diagrams, LaTeX math, syntax highlighting, PDF export, and multi-tab support. Runs in-browser, Docker, or as a desktop app
+- [ThisIs-Developer/Markdown-Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer) - A Markdown Editor That Lives in Your Browser, Desktop, and a Single URL. Fast GitHub-style Markdown editing with live preview, diagrams, LaTeX, syntax highlighting, PDF export, and multi-tab support a
 - [javl/image2cpp](https://github.com/javl/image2cpp) - 
 - [dgpokl/json-viz](https://github.com/dgpokl/json-viz) - Simple, easy to use, and attractive JSON visualization tool, originally created by Chris Nielsen
 - [mathew-kurian/CharacterMap](https://github.com/mathew-kurian/CharacterMap) - :tada: Online Character Map / Glyph / Icon / Font Viewer
