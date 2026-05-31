@@ -59,6 +59,7 @@
 - [operating-system](#operating-system)
 - [others](#others)
 - [php](#php)
+- [pixel-art](#pixel-art)
 - [productivity](#productivity)
 - [programming-language](#programming-language)
 - [project-management](#project-management)
@@ -247,6 +248,7 @@
 
 ## esp32 
 
+- [echo-lalia/MicroHydra](https://github.com/echo-lalia/MicroHydra) - MicroHydra is a simple, 'OS-like', MicroPython based app switcher designed for ESP32 based devices.
 - [Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver](https://github.com/Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver) - A micropython driver that runs on an ESP32 and receives data from a NEO-M8 GPS module
 - [danilogcrf2-oss/ESP32Synth](https://github.com/danilogcrf2-oss/ESP32Synth) - Polyphonic synthesizer with 80+ voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit).
 - [AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition](https://github.com/AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition) - The TFT_eSPI is the de-facto-standard when using TFT displays connected to a microcontroller of the ESP32 family. Unfortunately this library looks like abandoned as errors were not fixed by the author
@@ -462,6 +464,8 @@
 
 ## others 
 
+- [echo-lalia/Cardputer-Micropython-Examples](https://github.com/echo-lalia/Cardputer-Micropython-Examples) - This is just a collection of very basic demos for the M5Stack Cardputer (M5Stamp-S3) which were written in MicroPython.
+- [echo-lalia/st7789fbuf](https://github.com/echo-lalia/st7789fbuf) - Driver for ST7789 displays written in MicroPython, using FrameBuffer module
 - [kmio42/moon-display](https://github.com/kmio42/moon-display) - 
 - [AndreiVladescu/LibrePLC32](https://github.com/AndreiVladescu/LibrePLC32) - 
 - [elulis/micropython_ST7302](https://github.com/elulis/micropython_ST7302) - MicroPython driver for ST7302/ST7305 2.13/2.9 inch Reflective TFT, viper(faster) and bytecode version provided. No additional memory is required after init.
@@ -683,6 +687,10 @@
 ## php 
 
 - [diddy-boy/mini-pi-media-server](https://github.com/diddy-boy/mini-pi-media-server) - Mini Pi media server for a Raspberry pi.
+
+## pixel-art 
+
+- [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel art sketchbook for the M5Stack Cardputer ADV.
 
 ## productivity 
 
