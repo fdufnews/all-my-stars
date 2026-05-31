@@ -125,6 +125,7 @@
 
 ## C++ 
 
+- [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel art sketchbook for the M5Stack Cardputer ADV.
 - [kmio42/moon-display](https://github.com/kmio42/moon-display) - 
 - [hery-torrado/KernelESP](https://github.com/hery-torrado/KernelESP) - ESP8266 UNIX-like control system with serial shell, web UI, automation, mail alerts and diagnostics
 - [povle/spark-synth](https://github.com/povle/spark-synth) - Spark - a portable open-source ESP32-based synth running the AMY synth engine
@@ -334,6 +335,9 @@
 
 ## Python 
 
+- [echo-lalia/Cardputer-Micropython-Examples](https://github.com/echo-lalia/Cardputer-Micropython-Examples) - This is just a collection of very basic demos for the M5Stack Cardputer (M5Stamp-S3) which were written in MicroPython.
+- [echo-lalia/st7789fbuf](https://github.com/echo-lalia/st7789fbuf) - Driver for ST7789 displays written in MicroPython, using FrameBuffer module
+- [echo-lalia/MicroHydra](https://github.com/echo-lalia/MicroHydra) - MicroHydra is a simple, 'OS-like', MicroPython based app switcher designed for ESP32 based devices.
 - [elulis/micropython_ST7302](https://github.com/elulis/micropython_ST7302) - MicroPython driver for ST7302/ST7305 2.13/2.9 inch Reflective TFT, viper(faster) and bytecode version provided. No additional memory is required after init.
 - [boneskull/micropython-nmea](https://github.com/boneskull/micropython-nmea) - MicroPython library for parsing the NMEA 0183 protocol (GPS)
 - [inmcm/micropyGPS](https://github.com/inmcm/micropyGPS) - A Full Featured GPS NMEA-0183  sentence parser for use with Micropython and the PyBoard embedded platform
