@@ -464,6 +464,11 @@
 
 ## others 
 
+- [african-european-swallow/cardputer-micropython-OS-](https://github.com/african-european-swallow/cardputer-micropython-OS-) - A Micropython "OS" that can easily be modified.
+- [BeanPieChen/MicroPythonShell](https://github.com/BeanPieChen/MicroPythonShell) - Use MicroPython REPL in Cardputer ADV, with build in text editor.
+- [macobt-a11y/CYD-LED-matrix-control-interface-8x8-rgb](https://github.com/macobt-a11y/CYD-LED-matrix-control-interface-8x8-rgb) - 
+- [m5stack/uiflow-micropython](https://github.com/m5stack/uiflow-micropython) - uiflow micropython project
+- [TheRealHaoLiu/cardputer-adv](https://github.com/TheRealHaoLiu/cardputer-adv) - 
 - [echo-lalia/Cardputer-Micropython-Examples](https://github.com/echo-lalia/Cardputer-Micropython-Examples) - This is just a collection of very basic demos for the M5Stack Cardputer (M5Stamp-S3) which were written in MicroPython.
 - [echo-lalia/st7789fbuf](https://github.com/echo-lalia/st7789fbuf) - Driver for ST7789 displays written in MicroPython, using FrameBuffer module
 - [kmio42/moon-display](https://github.com/kmio42/moon-display) - 
