@@ -46,6 +46,8 @@
 
 ## C 
 
+- [BeanPieChen/MicroPythonShell](https://github.com/BeanPieChen/MicroPythonShell) - Use MicroPython REPL in Cardputer ADV, with build in text editor.
+- [m5stack/uiflow-micropython](https://github.com/m5stack/uiflow-micropython) - uiflow micropython project
 - [Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver](https://github.com/Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver) - A micropython driver that runs on an ESP32 and receives data from a NEO-M8 GPS module
 - [lafar6502/esp_nmea_parser](https://github.com/lafar6502/esp_nmea_parser) - testing the gps module
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X3 and X4 e-paper display readers
@@ -305,6 +307,7 @@
 
 ## Others 
 
+- [macobt-a11y/CYD-LED-matrix-control-interface-8x8-rgb](https://github.com/macobt-a11y/CYD-LED-matrix-control-interface-8x8-rgb) - 
 - [AndreiVladescu/LibrePLC32](https://github.com/AndreiVladescu/LibrePLC32) - 
 - [Yutani140x/saturnix-camera](https://github.com/Yutani140x/saturnix-camera) - Retro-futuristic open-source camera with custom hardware and film-like rendering
 - [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
@@ -335,6 +338,8 @@
 
 ## Python 
 
+- [african-european-swallow/cardputer-micropython-OS-](https://github.com/african-european-swallow/cardputer-micropython-OS-) - A Micropython "OS" that can easily be modified.
+- [TheRealHaoLiu/cardputer-adv](https://github.com/TheRealHaoLiu/cardputer-adv) - 
 - [echo-lalia/Cardputer-Micropython-Examples](https://github.com/echo-lalia/Cardputer-Micropython-Examples) - This is just a collection of very basic demos for the M5Stack Cardputer (M5Stamp-S3) which were written in MicroPython.
 - [echo-lalia/st7789fbuf](https://github.com/echo-lalia/st7789fbuf) - Driver for ST7789 displays written in MicroPython, using FrameBuffer module
 - [echo-lalia/MicroHydra](https://github.com/echo-lalia/MicroHydra) - MicroHydra is a simple, 'OS-like', MicroPython based app switcher designed for ESP32 based devices.
