@@ -127,6 +127,8 @@
 
 ## C++ 
 
+- [amiika/bytebed](https://github.com/amiika/bytebed) - Embedded Bytebeats for Cardputer
+- [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
 - [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel art sketchbook for the M5Stack Cardputer ADV.
 - [kmio42/moon-display](https://github.com/kmio42/moon-display) - 
 - [hery-torrado/KernelESP](https://github.com/hery-torrado/KernelESP) - ESP8266 UNIX-like control system with serial shell, web UI, automation, mail alerts and diagnostics
