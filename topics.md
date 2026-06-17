@@ -467,6 +467,8 @@
 
 ## others 
 
+- [amiika/bytebed](https://github.com/amiika/bytebed) - Embedded Bytebeats for Cardputer
+- [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
 - [african-european-swallow/cardputer-micropython-OS-](https://github.com/african-european-swallow/cardputer-micropython-OS-) - A Micropython "OS" that can easily be modified.
 - [BeanPieChen/MicroPythonShell](https://github.com/BeanPieChen/MicroPythonShell) - Use MicroPython REPL in Cardputer ADV, with build in text editor.
 - [macobt-a11y/CYD-LED-matrix-control-interface-8x8-rgb](https://github.com/macobt-a11y/CYD-LED-matrix-control-interface-8x8-rgb) - 
