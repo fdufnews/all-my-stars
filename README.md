@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [wusiu/WebRadio_WuSiU_Cardputer_Adv](https://github.com/wusiu/WebRadio_WuSiU_Cardputer_Adv) - WebRadio adapted for Caedputer ADV
 - [amiika/bytebed](https://github.com/amiika/bytebed) - Embedded Bytebeats for Cardputer
 - [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
 - [bradmcnally/bitmap16dx](https://github.com/bradmcnally/bitmap16dx) - A tiny pixel art sketchbook for the M5Stack Cardputer ADV.
