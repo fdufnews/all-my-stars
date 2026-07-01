@@ -86,6 +86,7 @@
 
 ## arduino 
 
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [shachi-lab/nanoBASIC_UNO](https://github.com/shachi-lab/nanoBASIC_UNO) - A minimal BASIC interpreter for Arduino UNO (ATmega328P).
 - [Schm1tz1/arduino-ms5xxx](https://github.com/Schm1tz1/arduino-ms5xxx) - Arduino Library with examples for using digital pressure sensors MS5607 (and MS56xx, MS57xx, MS58xx) based on AN520 by manufacturer.
 - [Glinnes/NMEAParser](https://github.com/Glinnes/NMEAParser) - A simple and compact NMEA parser for Arduino
@@ -227,6 +228,7 @@
 
 ## embedded 
 
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [shachi-lab/nanoBASIC_UNO](https://github.com/shachi-lab/nanoBASIC_UNO) - A minimal BASIC interpreter for Arduino UNO (ATmega328P).
 - [dotcypress/ula](https://github.com/dotcypress/ula) - μLA: Micro Logic Analyzer for RP2040
 - [peterhinch/micropython-samples](https://github.com/peterhinch/micropython-samples) - Assorted code ideas, unofficial MP FAQ, plus index to my other repositories.
@@ -251,6 +253,7 @@
 
 ## esp32 
 
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [echo-lalia/MicroHydra](https://github.com/echo-lalia/MicroHydra) - MicroHydra is a simple, 'OS-like', MicroPython based app switcher designed for ESP32 based devices.
 - [Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver](https://github.com/Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver) - A micropython driver that runs on an ESP32 and receives data from a NEO-M8 GPS module
 - [danilogcrf2-oss/ESP32Synth](https://github.com/danilogcrf2-oss/ESP32Synth) - Polyphonic synthesizer with up to 350 voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit).
@@ -364,6 +367,7 @@
 
 ## iot 
 
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [s00500/ESPUI](https://github.com/s00500/ESPUI) - A simple web user interface library for ESP32 and ESP8266
 - [slviajero/tinybasic](https://github.com/slviajero/tinybasic) - A BASIC interpreter for Arduino, ESP, RP2040, STM32, Infineon XMC and POSIX with IoT and microcontroller features.
@@ -743,6 +747,7 @@
 
 ## qt 
 
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [hyOzd/serialplot](https://github.com/hyOzd/serialplot) - Small and simple software for plotting data from serial port in realtime.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 
