@@ -86,6 +86,7 @@
 
 ## arduino 
 
+- [chongjiazhen/cardputer-puzzles](https://github.com/chongjiazhen/cardputer-puzzles) - 40 of Simon Tatham's puzzles on the M5Stack Cardputer ADV — on-device picker, Tab menu, preset & custom sizing.
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [shachi-lab/nanoBASIC_UNO](https://github.com/shachi-lab/nanoBASIC_UNO) - A minimal BASIC interpreter for Arduino UNO (ATmega328P).
 - [Schm1tz1/arduino-ms5xxx](https://github.com/Schm1tz1/arduino-ms5xxx) - Arduino Library with examples for using digital pressure sensors MS5607 (and MS56xx, MS57xx, MS58xx) based on AN520 by manufacturer.
@@ -471,6 +472,9 @@
 
 ## others 
 
+- [chongjiazhen/cardputer-synth](https://github.com/chongjiazhen/cardputer-synth) - Polyphonic synth firmware for the M5Stack Cardputer ADV (ESP32-S3) — resonant SVF filter, mod matrix, mic sampler, IMU expression, USB/BLE MIDI
+- [flamyez/adv_calc](https://github.com/flamyez/adv_calc) - Advanced Calculator for Cardputer ADV
+- [urtubia/miniacid](https://github.com/urtubia/miniacid) - An Acid style mini groovebox for the M5Stack Cardputer ADV
 - [wusiu/WebRadio_WuSiU_Cardputer_Adv](https://github.com/wusiu/WebRadio_WuSiU_Cardputer_Adv) - WebRadio adapted for Caedputer ADV
 - [amiika/bytebed](https://github.com/amiika/bytebed) - Embedded Bytebeats for Cardputer
 - [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
