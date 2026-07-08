@@ -744,6 +744,7 @@
 
 ## python3 
 
+- [octaprog7/light-nmea-micropython](https://github.com/octaprog7/light-nmea-micropython) - Fast, NMEA 0183 parser for Python and MicroPython.
 - [inmcm/micropyGPS](https://github.com/inmcm/micropyGPS) - A Full Featured GPS NMEA-0183  sentence parser for use with Micropython and the PyBoard embedded platform
 - [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
 - [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
