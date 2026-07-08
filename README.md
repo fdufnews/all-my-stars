@@ -346,6 +346,7 @@
 
 ## Python 
 
+- [octaprog7/light-nmea-micropython](https://github.com/octaprog7/light-nmea-micropython) - Fast, NMEA 0183 parser for Python and MicroPython.
 - [african-european-swallow/cardputer-micropython-OS-](https://github.com/african-european-swallow/cardputer-micropython-OS-) - A Micropython "OS" that can easily be modified.
 - [TheRealHaoLiu/cardputer-adv](https://github.com/TheRealHaoLiu/cardputer-adv) - 
 - [echo-lalia/Cardputer-Micropython-Examples](https://github.com/echo-lalia/Cardputer-Micropython-Examples) - This is just a collection of very basic demos for the M5Stack Cardputer (M5Stamp-S3) which were written in MicroPython.
