@@ -40,6 +40,7 @@
 - [homebrew](#homebrew)
 - [html](#html)
 - [http](#http)
+- [image-processing](#image-processing)
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
@@ -366,6 +367,10 @@
 
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 
+## image-processing 
+
+- [Yutani140x/saturnix-camera](https://github.com/Yutani140x/saturnix-camera) - Open-source camera with custom hardware and film-like rendering
+
 ## iot 
 
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
@@ -501,7 +506,6 @@
 - [lafar6502/esp_nmea_parser](https://github.com/lafar6502/esp_nmea_parser) - testing the gps module
 - [UravuLabs/MS5607](https://github.com/UravuLabs/MS5607) - Arduino Library for TE Connectivity Pressure Sensor MS5607
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X3 and X4 e-readers
-- [Yutani140x/saturnix-camera](https://github.com/Yutani140x/saturnix-camera) - Retro-futuristic open-source camera with custom hardware and film-like rendering
 - [El-EnderJ/NeoCalculator](https://github.com/El-EnderJ/NeoCalculator) - This project is a Graphing Scientific Calculator based on the ESP32 microcontroller, designed to compete with commercial models (Casio fx-991EX, TI-84) by means of a color TFT screen, natural display 
 - [lonesoulsurfer/Game_of_Life_Colour_Handheld](https://github.com/lonesoulsurfer/Game_of_Life_Colour_Handheld) - Conways Gamne of Life in a Handheld version
 - [victoire2049/esp32cam-rtsp](https://github.com/victoire2049/esp32cam-rtsp) - Simple RTSP (streaming image) server for the ESP32CAM. Easy configuration and monitoring through the web interface.
@@ -727,6 +731,7 @@
 ## python 
 
 - [inmcm/micropyGPS](https://github.com/inmcm/micropyGPS) - A Full Featured GPS NMEA-0183  sentence parser for use with Micropython and the PyBoard embedded platform
+- [Yutani140x/saturnix-camera](https://github.com/Yutani140x/saturnix-camera) - Open-source camera with custom hardware and film-like rendering
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
@@ -758,6 +763,7 @@
 
 ## raspberry-pi 
 
+- [Yutani140x/saturnix-camera](https://github.com/Yutani140x/saturnix-camera) - Open-source camera with custom hardware and film-like rendering
 - [lexus2k/lcdgfx](https://github.com/lexus2k/lcdgfx) - Driver for LCD displays running on Arduino/Avr/ESP32/Linux (including Rasperry) platforms
 - [Guitarman9119/Raspberry-Pi-Pico-](https://github.com/Guitarman9119/Raspberry-Pi-Pico-) - Tutorials / Projects and Devlog - Course Related to the Raspberry Pi Pico
 - [MattGrayYes/epic](https://github.com/MattGrayYes/epic) - DSCOVR:EPIC image viewer for Raspberry Pi with Pimoroni 2.1" Hyperpixel Round display.
