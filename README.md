@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [CelliesProjects/ESP32_VS1053_Stream](https://github.com/CelliesProjects/ESP32_VS1053_Stream) - A streaming library for Arduino esp32 with a vs1053 mp3/aac/ogg/flac decoder. Plays http, https and chunked streams. Stream metadata is parsed. Also plays ogg, mp3, flac and m4a files from sdcard.
 - [chongjiazhen/cardputer-synth](https://github.com/chongjiazhen/cardputer-synth) - Polyphonic synth firmware for the M5Stack Cardputer ADV (ESP32-S3) — resonant SVF filter, mod matrix, mic sampler, IMU expression, USB/BLE MIDI
 - [chongjiazhen/cardputer-puzzles](https://github.com/chongjiazhen/cardputer-puzzles) - 40 of Simon Tatham's puzzles on the M5Stack Cardputer ADV — on-device picker, Tab menu, preset & custom sizing.
@@ -157,7 +158,6 @@
 - [cpetrich/counterfeit_DS18B20](https://github.com/cpetrich/counterfeit_DS18B20) - How to tell original from fake DS18B20 temperature sensors.
 - [KoStard/ESP32S3-USB-Keyboard-To-BLE](https://github.com/KoStard/ESP32S3-USB-Keyboard-To-BLE) - Add BLE to your USB Keyboard
 - [atomic14/micropython-i2s-esp32-test](https://github.com/atomic14/micropython-i2s-esp32-test) - A simple example showing how to use MicroPython with I2S on the ESP32
-- [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [JChristensen/Timezone](https://github.com/JChristensen/Timezone) - Arduino library to facilitate time zone conversions and automatic daylight saving (summer) time adjustments.
 - [moononournation/IoT-Emoji-Sign](https://github.com/moononournation/IoT-Emoji-Sign) - 
 - [cotestatnt/async-esp-fs-webserver](https://github.com/cotestatnt/async-esp-fs-webserver) - ESP32/ESP8266 WebServer, WiFi manager and ACE web editor Arduino library. Based on ESPAsyncWebServer
