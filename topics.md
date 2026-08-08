@@ -210,6 +210,7 @@
 
 ## cpp 
 
+- [Rythlan/BrokenSignal-Next](https://github.com/Rythlan/BrokenSignal-Next) - BrokenSignal-Next: Audio player (MP3/M4A) and web radio for Cardputer ADV, now with settings, HTTPS streams, and PlatformIO.
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [ripred/Smooth](https://github.com/ripred/Smooth) - Keep smooth running averages without using arrays! Uses exponential moving averages and only 8-bytes no matter how many samples! No looping! No Arrays! Constant Compute Time! The sample size is adjust
 
@@ -255,12 +256,14 @@
 
 ## esp32 
 
+- [Rythlan/BrokenSignal-Next](https://github.com/Rythlan/BrokenSignal-Next) - BrokenSignal-Next: Audio player (MP3/M4A) and web radio for Cardputer ADV, now with settings, HTTPS streams, and PlatformIO.
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [CelliesProjects/ESP32_VS1053_Stream](https://github.com/CelliesProjects/ESP32_VS1053_Stream) - A streaming library for Arduino esp32 with a vs1053 mp3/aac/ogg/flac decoder. Plays http, https and chunked streams. Stream metadata is parsed. Also plays ogg, mp3, flac and m4a files from sdcard.
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [echo-lalia/MicroHydra](https://github.com/echo-lalia/MicroHydra) - MicroHydra is a simple, 'OS-like', MicroPython based app switcher designed for ESP32 based devices.
 - [Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver](https://github.com/Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver) - A micropython driver that runs on an ESP32 and receives data from a NEO-M8 GPS module
 - [danilogcrf2-oss/ESP32Synth](https://github.com/danilogcrf2-oss/ESP32Synth) - Polyphonic synthesizer with up to 350 voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit).
+- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware
 - [AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition](https://github.com/AndroidCrypto/ESP32_Tft_eSPI_to_LovyanGFX_transition) - The TFT_eSPI is the de-facto-standard when using TFT displays connected to a microcontroller of the ESP32 family. Unfortunately this library looks like abandoned as errors were not fixed by the author
 - [tve/esp32-backtrace](https://github.com/tve/esp32-backtrace) - Simple bash script to annotate an ESP32 exception backtrace with source code info
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
@@ -478,6 +481,11 @@
 
 ## others 
 
+- [gvrubio/GVM5BubbleLevel](https://github.com/gvrubio/GVM5BubbleLevel) - 
+- [ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer](https://github.com/ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer) - The Flipper zero on M5Stack Cardputer
+- [engneer-hamachan/area512](https://github.com/engneer-hamachan/area512) - 
+- [aroum/cardulator](https://github.com/aroum/cardulator) - Scientific REPL calculator & C-style scripting engine for M5Stack Cardputer. Includes 2D plotting, TinyExpr++, syntax highlighting, SI prefixes, formula wizards & NVS persistence.
+- [Zolibot/UARTerm](https://github.com/Zolibot/UARTerm) - A UART serial terminal and monitor for M5Cardputer (ESP32-S3)
 - [chongjiazhen/cardputer-synth](https://github.com/chongjiazhen/cardputer-synth) - Polyphonic synth firmware for the M5Stack Cardputer ADV (ESP32-S3) — resonant SVF filter, mod matrix, mic sampler, IMU expression, USB/BLE MIDI
 - [flamyez/adv_calc](https://github.com/flamyez/adv_calc) - Advanced Calculator for Cardputer ADV
 - [urtubia/miniacid](https://github.com/urtubia/miniacid) - An Acid style mini groovebox for the M5Stack Cardputer ADV
@@ -506,7 +514,6 @@
 - [PowerBroker2/NMEA_Parser](https://github.com/PowerBroker2/NMEA_Parser) - Arduino library to parse NMEA sentences
 - [lafar6502/esp_nmea_parser](https://github.com/lafar6502/esp_nmea_parser) - testing the gps module
 - [UravuLabs/MS5607](https://github.com/UravuLabs/MS5607) - Arduino Library for TE Connectivity Pressure Sensor MS5607
-- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X3 and X4 e-readers
 - [El-EnderJ/NeoCalculator](https://github.com/El-EnderJ/NeoCalculator) - This project is a Graphing Scientific Calculator based on the ESP32 microcontroller, designed to compete with commercial models (Casio fx-991EX, TI-84) by means of a color TFT screen, natural display 
 - [lonesoulsurfer/Game_of_Life_Colour_Handheld](https://github.com/lonesoulsurfer/Game_of_Life_Colour_Handheld) - Conways Gamne of Life in a Handheld version
 - [victoire2049/esp32cam-rtsp](https://github.com/victoire2049/esp32cam-rtsp) - Simple RTSP (streaming image) server for the ESP32CAM. Easy configuration and monitoring through the web interface.
