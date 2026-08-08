@@ -46,11 +46,14 @@
 
 ## C 
 
+- [gvrubio/GVM5BubbleLevel](https://github.com/gvrubio/GVM5BubbleLevel) - 
+- [ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer](https://github.com/ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer) - The Flipper zero on M5Stack Cardputer
+- [engneer-hamachan/area512](https://github.com/engneer-hamachan/area512) - 
 - [BeanPieChen/MicroPythonShell](https://github.com/BeanPieChen/MicroPythonShell) - Use MicroPython REPL in Cardputer ADV, with build in text editor.
 - [m5stack/uiflow-micropython](https://github.com/m5stack/uiflow-micropython) - uiflow micropython project
 - [Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver](https://github.com/Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver) - A micropython driver that runs on an ESP32 and receives data from a NEO-M8 GPS module
 - [lafar6502/esp_nmea_parser](https://github.com/lafar6502/esp_nmea_parser) - testing the gps module
-- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Firmware for the Xteink X3 and X4 e-readers
+- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
 - [valdanylchuk/breezydemo](https://github.com/valdanylchuk/breezydemo) - BreezyBox shell demo for esp32s3
 - [valdanylchuk/breezyapps](https://github.com/valdanylchuk/breezyapps) - ESP32 ELF apps for BreezyBox
@@ -127,6 +130,9 @@
 
 ## C++ 
 
+- [Rythlan/BrokenSignal-Next](https://github.com/Rythlan/BrokenSignal-Next) - BrokenSignal-Next: Audio player (MP3/M4A) and web radio for Cardputer ADV, now with settings, HTTPS streams, and PlatformIO.
+- [aroum/cardulator](https://github.com/aroum/cardulator) - Scientific REPL calculator & C-style scripting engine for M5Stack Cardputer. Includes 2D plotting, TinyExpr++, syntax highlighting, SI prefixes, formula wizards & NVS persistence.
+- [Zolibot/UARTerm](https://github.com/Zolibot/UARTerm) - A UART serial terminal and monitor for M5Cardputer (ESP32-S3)
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [CelliesProjects/ESP32_VS1053_Stream](https://github.com/CelliesProjects/ESP32_VS1053_Stream) - A streaming library for Arduino esp32 with a vs1053 mp3/aac/ogg/flac decoder. Plays http, https and chunked streams. Stream metadata is parsed. Also plays ogg, mp3, flac and m4a files from sdcard.
 - [chongjiazhen/cardputer-synth](https://github.com/chongjiazhen/cardputer-synth) - Polyphonic synth firmware for the M5Stack Cardputer ADV (ESP32-S3) — resonant SVF filter, mod matrix, mic sampler, IMU expression, USB/BLE MIDI
