@@ -421,7 +421,7 @@
 - [russhughes/gc9a01_mpy](https://github.com/russhughes/gc9a01_mpy) - Fast MicroPython driver for GC9A01 display modules written in C
 - [jczic/ESP32-MPY-Jama](https://github.com/jczic/ESP32-MPY-Jama) - v1.2 - UI tool for manage Espressif ESP32 microcontrollers with embedded MicroPython for MacOS, Windows and Linux: mini IDE, files manager, REPL, real time dashboards (sys/net), advanced features (gpi
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
-- [MattGrayYes/epic](https://github.com/MattGrayYes/epic) - DSCOVR:EPIC image viewer for Raspberry Pi with Pimoroni 2.1" Hyperpixel Round display.
+- [NatGrayYes/epic](https://github.com/NatGrayYes/epic) - DSCOVR:EPIC image viewer for Raspberry Pi with Pimoroni 2.1" Hyperpixel Round display.
 - [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open-source bike computer with GPS and ANT+ capabilities, based on the Raspberry Pi Zero (W, WH, 2 W) or the Compute Module Zero. It also includes offline maps and navigation.
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 - [micropython/micropython-lib](https://github.com/micropython/micropython-lib) - Core Python libraries ported to MicroPython
