@@ -774,7 +774,7 @@
 - [Yutani140x/saturnix-camera](https://github.com/Yutani140x/saturnix-camera) - Open-source camera with custom hardware and film-like rendering
 - [lexus2k/lcdgfx](https://github.com/lexus2k/lcdgfx) - Driver for LCD displays running on Arduino/Avr/ESP32/Linux (including Rasperry) platforms
 - [Guitarman9119/Raspberry-Pi-Pico-](https://github.com/Guitarman9119/Raspberry-Pi-Pico-) - Tutorials / Projects and Devlog - Course Related to the Raspberry Pi Pico
-- [MattGrayYes/epic](https://github.com/MattGrayYes/epic) - DSCOVR:EPIC image viewer for Raspberry Pi with Pimoroni 2.1" Hyperpixel Round display.
+- [NatGrayYes/epic](https://github.com/NatGrayYes/epic) - DSCOVR:EPIC image viewer for Raspberry Pi with Pimoroni 2.1" Hyperpixel Round display.
 - [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open-source bike computer with GPS and ANT+ capabilities, based on the Raspberry Pi Zero (W, WH, 2 W) or the Compute Module Zero. It also includes offline maps and navigation.
 - [veebch/heat-o-matic](https://github.com/veebch/heat-o-matic) - Proportional Integral Derivative controller using pi pico
 - [james1236/buzzer_music](https://github.com/james1236/buzzer_music) - RPI Pico / Micropython library to play music through one or more buzzers, can automatically replace chords with fast arpeggios to simulate polyphony with a single buzzer. Music can be easily taken fro
