@@ -258,7 +258,7 @@
 
 - [Rythlan/BrokenSignal-Next](https://github.com/Rythlan/BrokenSignal-Next) - BrokenSignal-Next: Audio player (MP3/M4A) and web radio for Cardputer ADV, now with settings, HTTPS streams, and PlatformIO.
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
-- [CelliesProjects/ESP32_VS1053_Stream](https://github.com/CelliesProjects/ESP32_VS1053_Stream) - A streaming library for Arduino esp32 with a vs1053 mp3/aac/ogg/flac decoder. Plays http, https and chunked streams. Stream metadata is parsed. Also plays ogg, mp3, flac and m4a files from sdcard.
+- [CelliesProjects/ESP32_VS1053_Stream](https://github.com/CelliesProjects/ESP32_VS1053_Stream) - An audio library for Arduino esp32 with a vs1053 mp3/aac/ogg/flac decoder. Plays http, https and chunked streams. Stream metadata is parsed. Also plays ogg, mp3, flac and m4a files from sdcard.
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [echo-lalia/MicroHydra](https://github.com/echo-lalia/MicroHydra) - MicroHydra is a simple, 'OS-like', MicroPython based app switcher designed for ESP32 based devices.
 - [Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver](https://github.com/Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver) - A micropython driver that runs on an ESP32 and receives data from a NEO-M8 GPS module
