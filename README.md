@@ -48,7 +48,7 @@
 
 - [gvrubio/GVM5BubbleLevel](https://github.com/gvrubio/GVM5BubbleLevel) - 
 - [ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer](https://github.com/ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer) - The Flipper zero on M5Stack Cardputer
-- [engneer-hamachan/area512](https://github.com/engneer-hamachan/area512) - 
+- [engneer-hamachan/area512](https://github.com/engneer-hamachan/area512) - A self-contained Ruby & Python development environment for the 512KB M5Stack Cardputer.
 - [BeanPieChen/MicroPythonShell](https://github.com/BeanPieChen/MicroPythonShell) - Use MicroPython REPL in Cardputer ADV, with build in text editor.
 - [m5stack/uiflow-micropython](https://github.com/m5stack/uiflow-micropython) - uiflow micropython project
 - [Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver](https://github.com/Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver) - A micropython driver that runs on an ESP32 and receives data from a NEO-M8 GPS module
