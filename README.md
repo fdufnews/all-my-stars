@@ -16,6 +16,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [HyPhy](#hyphy)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -46,6 +47,7 @@
 
 ## C 
 
+- [ESP32DE/I2S_parallel_example_drive_a_64x32_display](https://github.com/ESP32DE/I2S_parallel_example_drive_a_64x32_display) - I2S parallel example drive a 64x32 RGB display.
 - [gvrubio/GVM5BubbleLevel](https://github.com/gvrubio/GVM5BubbleLevel) - 
 - [ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer](https://github.com/ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer) - The Flipper zero on M5Stack Cardputer
 - [engneer-hamachan/area512](https://github.com/engneer-hamachan/area512) - A self-contained Ruby & Python development environment for the 512KB M5Stack Cardputer.
@@ -283,6 +285,10 @@
 ## Haskell 
 
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
+
+## HyPhy 
+
+- [alexfru/512_8](https://github.com/alexfru/512_8) - 8x8 bitmap font for your projects
 
 ## Java 
 
