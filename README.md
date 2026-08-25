@@ -51,6 +51,7 @@
 - [gvrubio/GVM5BubbleLevel](https://github.com/gvrubio/GVM5BubbleLevel) - 
 - [ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer](https://github.com/ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer) - The Flipper zero on M5Stack Cardputer
 - [engneer-hamachan/area512](https://github.com/engneer-hamachan/area512) - A self-contained Ruby & Python development environment for the 512KB M5Stack Cardputer.
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [BeanPieChen/MicroPythonShell](https://github.com/BeanPieChen/MicroPythonShell) - Use MicroPython REPL in Cardputer ADV, with build in text editor.
 - [m5stack/uiflow-micropython](https://github.com/m5stack/uiflow-micropython) - uiflow micropython project
 - [Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver](https://github.com/Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver) - A micropython driver that runs on an ESP32 and receives data from a NEO-M8 GPS module
@@ -141,7 +142,6 @@
 - [chongjiazhen/cardputer-puzzles](https://github.com/chongjiazhen/cardputer-puzzles) - 40 of Simon Tatham's puzzles on the M5Stack Cardputer ADV — on-device picker, Tab menu, preset & custom sizing.
 - [flamyez/adv_calc](https://github.com/flamyez/adv_calc) - Advanced Calculator for Cardputer ADV
 - [urtubia/miniacid](https://github.com/urtubia/miniacid) - An Acid style mini groovebox for the M5Stack Cardputer ADV
-- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [wusiu/WebRadio_WuSiU_Cardputer_Adv](https://github.com/wusiu/WebRadio_WuSiU_Cardputer_Adv) - WebRadio adapted for Caedputer ADV
 - [amiika/bytebed](https://github.com/amiika/bytebed) - Embedded Bytebeats for Cardputer
 - [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
