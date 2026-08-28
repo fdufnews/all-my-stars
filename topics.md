@@ -482,6 +482,7 @@
 
 ## others 
 
+- [Lab217MX/Kraken-Kit](https://github.com/Lab217MX/Kraken-Kit) - PCB personalizada que expande el proyecto [ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) con módulos integrados para NFC, Ethernet, Sub-GHz y 2.4 GHz, todo en un solo kit de hardware o
 - [ESP32DE/I2S_parallel_example_drive_a_64x32_display](https://github.com/ESP32DE/I2S_parallel_example_drive_a_64x32_display) - I2S parallel example drive a 64x32 RGB display.
 - [gvrubio/GVM5BubbleLevel](https://github.com/gvrubio/GVM5BubbleLevel) - 
 - [ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer](https://github.com/ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer) - The Flipper zero on M5Stack Cardputer
