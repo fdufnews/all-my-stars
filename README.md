@@ -51,6 +51,7 @@
 - [gvrubio/GVM5BubbleLevel](https://github.com/gvrubio/GVM5BubbleLevel) - 
 - [ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer](https://github.com/ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer) - The Flipper zero on M5Stack Cardputer
 - [engneer-hamachan/area512](https://github.com/engneer-hamachan/area512) - A self-contained Ruby & Python development environment for the 512KB M5Stack Cardputer.
+- [aroum/cardulator](https://github.com/aroum/cardulator) - Scientific REPL calculator & scripting engine for M5Stack Cardputer & LilyGO T-Deck Pro. Features 2D plotting, TinyExpr++, E-Paper, syntax highlighting, GNU Units & wizards.
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 - [BeanPieChen/MicroPythonShell](https://github.com/BeanPieChen/MicroPythonShell) - Use MicroPython REPL in Cardputer ADV, with build in text editor.
 - [m5stack/uiflow-micropython](https://github.com/m5stack/uiflow-micropython) - uiflow micropython project
@@ -135,7 +136,6 @@
 
 - [alunmorris/Offline-Wikipedia-ESP32](https://github.com/alunmorris/Offline-Wikipedia-ESP32) - Offline Wikipedia reader for the ESP32 CYD (320×240 touchscreen). Reads from microSD, full-text search, images.
 - [Rythlan/BrokenSignal-Next](https://github.com/Rythlan/BrokenSignal-Next) - BrokenSignal-Next: Audio player (MP3/M4A) and web radio for Cardputer ADV, now with settings, HTTPS streams, and PlatformIO.
-- [aroum/cardulator](https://github.com/aroum/cardulator) - Scientific REPL calculator & C-style scripting engine for M5Stack Cardputer. Includes 2D plotting, TinyExpr++, syntax highlighting, SI prefixes, formula wizards & NVS persistence.
 - [Zolibot/UARTerm](https://github.com/Zolibot/UARTerm) - A UART serial terminal and monitor for M5Cardputer (ESP32-S3)
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [CelliesProjects/ESP32_VS1053_Stream](https://github.com/CelliesProjects/ESP32_VS1053_Stream) - An audio library for Arduino esp32 with a vs1053 mp3/aac/ogg/flac decoder. Plays http, https and chunked streams. Stream metadata is parsed. Also plays ogg, mp3, flac and m4a files from sdcard.
