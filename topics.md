@@ -487,7 +487,7 @@
 - [ESP32DE/I2S_parallel_example_drive_a_64x32_display](https://github.com/ESP32DE/I2S_parallel_example_drive_a_64x32_display) - I2S parallel example drive a 64x32 RGB display.
 - [gvrubio/GVM5BubbleLevel](https://github.com/gvrubio/GVM5BubbleLevel) - 
 - [ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer](https://github.com/ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer) - The Flipper zero on M5Stack Cardputer
-- [aroum/cardulator](https://github.com/aroum/cardulator) - Scientific REPL calculator & C-style scripting engine for M5Stack Cardputer. Includes 2D plotting, TinyExpr++, syntax highlighting, SI prefixes, formula wizards & NVS persistence.
+- [aroum/cardulator](https://github.com/aroum/cardulator) - Scientific REPL calculator & scripting engine for M5Stack Cardputer & LilyGO T-Deck Pro. Features 2D plotting, TinyExpr++, E-Paper, syntax highlighting, GNU Units & wizards.
 - [Zolibot/UARTerm](https://github.com/Zolibot/UARTerm) - A UART serial terminal and monitor for M5Cardputer (ESP32-S3)
 - [chongjiazhen/cardputer-synth](https://github.com/chongjiazhen/cardputer-synth) - Polyphonic synth firmware for the M5Stack Cardputer ADV (ESP32-S3) — resonant SVF filter, mod matrix, mic sampler, IMU expression, USB/BLE MIDI
 - [flamyez/adv_calc](https://github.com/flamyez/adv_calc) - Advanced Calculator for Cardputer ADV
