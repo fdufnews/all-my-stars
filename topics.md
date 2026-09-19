@@ -371,7 +371,7 @@
 
 ## http 
 
-- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
+- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - Mirror of https://code.miguelgrinberg.com/miguelgrinberg/microdot
 
 ## image-processing 
 
@@ -751,7 +751,7 @@
 - [bellingeri/localPTZtime](https://github.com/bellingeri/localPTZtime) - Simple TimeZone and DST support for MicroPython
 - [jczic/ESP32-MPY-Jama](https://github.com/jczic/ESP32-MPY-Jama) - v1.2 - UI tool for manage Espressif ESP32 microcontrollers with embedded MicroPython for MacOS, Windows and Linux: mini IDE, files manager, REPL, real time dashboards (sys/net), advanced features (gpi
 - [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open-source bike computer with GPS and ANT+ capabilities, based on the Raspberry Pi Zero (W, WH, 2 W) or the Compute Module Zero (CM0). It also includes offline maps and navigation.
-- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
+- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - Mirror of https://code.miguelgrinberg.com/miguelgrinberg/microdot
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [PowerBroker2/pySerialTransfer](https://github.com/PowerBroker2/pySerialTransfer) - Python package to transfer data in a fast, reliable, and packetized form
 - [luka1199/geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
@@ -853,7 +853,7 @@
 
 ## webapp 
 
-- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
+- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - Mirror of https://code.miguelgrinberg.com/miguelgrinberg/microdot
 
 ## windows 
 
