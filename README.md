@@ -431,7 +431,7 @@
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [NatGrayYes/epic](https://github.com/NatGrayYes/epic) - DSCOVR:EPIC image viewer for Raspberry Pi with Pimoroni 2.1" Hyperpixel Round display.
 - [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open-source bike computer with GPS and ANT+ capabilities, based on the Raspberry Pi Zero (W, WH, 2 W) or the Compute Module Zero (CM0). It also includes offline maps and navigation.
-- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
+- [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - Mirror of https://code.miguelgrinberg.com/miguelgrinberg/microdot
 - [micropython/micropython-lib](https://github.com/micropython/micropython-lib) - Core Python libraries ported to MicroPython
 - [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 - [bpwagner/GamerGorl](https://github.com/bpwagner/GamerGorl) - GamerGorl video game system and code
