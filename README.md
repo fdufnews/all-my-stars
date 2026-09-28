@@ -134,6 +134,7 @@
 
 ## C++ 
 
+- [sau412/esp32_cyd_pda](https://github.com/sau412/esp32_cyd_pda) - ESP32 CYD Personal Digital Assistant
 - [alunmorris/Offline-Wikipedia-ESP32](https://github.com/alunmorris/Offline-Wikipedia-ESP32) - Offline Wikipedia reader for the ESP32 CYD (320×240 touchscreen). Reads from microSD, full-text search, images.
 - [Rythlan/BrokenSignal-Next](https://github.com/Rythlan/BrokenSignal-Next) - BrokenSignal-Next: Audio player (MP3/M4A) and web radio for Cardputer ADV, now with settings, HTTPS streams, and PlatformIO.
 - [Zolibot/UARTerm](https://github.com/Zolibot/UARTerm) - A UART serial terminal and monitor for M5Cardputer (ESP32-S3)
