@@ -482,6 +482,11 @@
 
 ## others 
 
+- [bruceblay/rill-drums](https://github.com/bruceblay/rill-drums) - A generative drum machine for the M5Stack StickS3. Sibling instrument to Rill.
+- [bruceblay/rill-synth](https://github.com/bruceblay/rill-synth) - A pocket generative music and visual instrument for M5Stack StickS3.
+- [bruceblay/rill-mallet](https://github.com/bruceblay/rill-mallet) - A pocket-sized generative instrument for the M5Stack StickS3. Rill's composer playing multisampled tuned percussion: balafon, glockenspiel, kalimba, marimba, piano, vibraphone, xylophone.
+- [bruceblay/rill-voice](https://github.com/bruceblay/rill-voice) - A generative vocal instrument for the M5Stack StickS3: synthesized singers on scat and vocables, with faces that sing along. A sibling to Rill.
+- [bruceblay/rill-world](https://github.com/bruceblay/rill-world) - A generative rain box for the M5Stack StickS3, a sibling instrument to Rill.
 - [sau412/esp32_cyd_pda](https://github.com/sau412/esp32_cyd_pda) - ESP32 CYD Personal Digital Assistant
 - [alunmorris/Offline-Wikipedia-ESP32](https://github.com/alunmorris/Offline-Wikipedia-ESP32) - Offline Wikipedia reader for the ESP32 CYD (320×240 touchscreen). Reads from microSD, full-text search, images.
 - [Lab217MX/Kraken-Kit](https://github.com/Lab217MX/Kraken-Kit) - PCB personalizada que expande el proyecto [ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) con módulos integrados para NFC, Ethernet, Sub-GHz y 2.4 GHz, todo en un solo kit de hardware o
