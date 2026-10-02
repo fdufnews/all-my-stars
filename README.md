@@ -47,6 +47,7 @@
 
 ## C 
 
+- [omwah/esp-vim](https://github.com/omwah/esp-vim) - Real Vim 9.2 running directly on the ESP32-P4 and ESP32-S3: an ESP-IDF port with a UART console, device help, and in-place session restart
 - [ESP32DE/I2S_parallel_example_drive_a_64x32_display](https://github.com/ESP32DE/I2S_parallel_example_drive_a_64x32_display) - I2S parallel example drive a 64x32 RGB display.
 - [gvrubio/GVM5BubbleLevel](https://github.com/gvrubio/GVM5BubbleLevel) - 
 - [ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer](https://github.com/ElicoftZ/Flipper-Zero-meets-M5Stack-Cardputer) - The Flipper zero on M5Stack Cardputer
@@ -134,6 +135,7 @@
 
 ## C++ 
 
+- [cyberwisk/M5Cardputer_WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio) - M5Cardputer_WebRadio
 - [bruceblay/rill-drums](https://github.com/bruceblay/rill-drums) - A generative drum machine for the M5Stack StickS3. Sibling instrument to Rill.
 - [bruceblay/rill-synth](https://github.com/bruceblay/rill-synth) - A pocket generative music and visual instrument for M5Stack StickS3.
 - [bruceblay/rill-mallet](https://github.com/bruceblay/rill-mallet) - A pocket-sized generative instrument for the M5Stack StickS3. Rill's composer playing multisampled tuned percussion: balafon, glockenspiel, kalimba, marimba, piano, vibraphone, xylophone.
