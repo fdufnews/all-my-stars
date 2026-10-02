@@ -257,6 +257,7 @@
 
 ## esp32 
 
+- [cyberwisk/M5Cardputer_WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio) - M5Cardputer_WebRadio
 - [Rythlan/BrokenSignal-Next](https://github.com/Rythlan/BrokenSignal-Next) - BrokenSignal-Next: Audio player (MP3/M4A) and web radio for Cardputer ADV, now with settings, HTTPS streams, and PlatformIO.
 - [engneer-hamachan/area512](https://github.com/engneer-hamachan/area512) - A self-contained Ruby & Python development environment for the 512KB M5Stack Cardputer.
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
@@ -482,6 +483,7 @@
 
 ## others 
 
+- [omwah/esp-vim](https://github.com/omwah/esp-vim) - Real Vim 9.2 running directly on the ESP32-P4 and ESP32-S3: an ESP-IDF port with a UART console, device help, and in-place session restart
 - [bruceblay/rill-drums](https://github.com/bruceblay/rill-drums) - A generative drum machine for the M5Stack StickS3. Sibling instrument to Rill.
 - [bruceblay/rill-synth](https://github.com/bruceblay/rill-synth) - A pocket generative music and visual instrument for M5Stack StickS3.
 - [bruceblay/rill-mallet](https://github.com/bruceblay/rill-mallet) - A pocket-sized generative instrument for the M5Stack StickS3. Rill's composer playing multisampled tuned percussion: balafon, glockenspiel, kalimba, marimba, piano, vibraphone, xylophone.
