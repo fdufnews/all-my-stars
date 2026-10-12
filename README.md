@@ -47,6 +47,7 @@
 
 ## C 
 
+- [mcer12/PixelFonts](https://github.com/mcer12/PixelFonts) - Pixel perfect AdafruitGFX & u8g2 fonts for the tiniest displays
 - [omwah/esp-vim](https://github.com/omwah/esp-vim) - Real Vim 9.2 running directly on the ESP32-P4 and ESP32-S3: an ESP-IDF port with a UART console, device help, and in-place session restart
 - [ESP32DE/I2S_parallel_example_drive_a_64x32_display](https://github.com/ESP32DE/I2S_parallel_example_drive_a_64x32_display) - I2S parallel example drive a 64x32 RGB display.
 - [gvrubio/GVM5BubbleLevel](https://github.com/gvrubio/GVM5BubbleLevel) - 
@@ -57,6 +58,7 @@
 - [BeanPieChen/MicroPythonShell](https://github.com/BeanPieChen/MicroPythonShell) - Use MicroPython REPL in Cardputer ADV, with build in text editor.
 - [m5stack/uiflow-micropython](https://github.com/m5stack/uiflow-micropython) - uiflow micropython project
 - [Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver](https://github.com/Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver) - A micropython driver that runs on an ESP32 and receives data from a NEO-M8 GPS module
+- [danilogcrf2-oss/ESP32Synth](https://github.com/danilogcrf2-oss/ESP32Synth) - Polyphonic synthesizer with up to 350 voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit).
 - [lafar6502/esp_nmea_parser](https://github.com/lafar6502/esp_nmea_parser) - testing the gps module
 - [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
@@ -160,7 +162,6 @@
 - [povle/spark-synth](https://github.com/povle/spark-synth) - Spark - a portable open-source ESP32-based synth running the AMY synth engine
 - [shachi-lab/nanoBASIC_UNO](https://github.com/shachi-lab/nanoBASIC_UNO) - A minimal BASIC interpreter for Arduino UNO (ATmega328P).
 - [penk/X4Term](https://github.com/penk/X4Term) - Pocket VT100 terminal for Xteink X4
-- [danilogcrf2-oss/ESP32Synth](https://github.com/danilogcrf2-oss/ESP32Synth) - Polyphonic synthesizer with up to 350 voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit).
 - [Schm1tz1/arduino-ms5xxx](https://github.com/Schm1tz1/arduino-ms5xxx) - Arduino Library with examples for using digital pressure sensors MS5607 (and MS56xx, MS57xx, MS58xx) based on AN520 by manufacturer.
 - [ttlappalainen/NMEA0183](https://github.com/ttlappalainen/NMEA0183) - Library for handling NMEA0183 messages
 - [hmz06967/OZGPS_NMEA](https://github.com/hmz06967/OZGPS_NMEA) - A library that parses NMEA gps record from Uart or any source ``"gps.encode(char c);"`` can parse sequentially with a single character.
