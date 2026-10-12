@@ -87,6 +87,7 @@
 
 ## arduino 
 
+- [mcer12/PixelFonts](https://github.com/mcer12/PixelFonts) - Pixel perfect AdafruitGFX & u8g2 fonts for the tiniest displays
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [chongjiazhen/cardputer-puzzles](https://github.com/chongjiazhen/cardputer-puzzles) - 40 of Simon Tatham's puzzles on the M5Stack Cardputer ADV — on-device picker, Tab menu, preset & custom sizing.
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
@@ -309,6 +310,7 @@
 
 ## font 
 
+- [mcer12/PixelFonts](https://github.com/mcer12/PixelFonts) - Pixel perfect AdafruitGFX & u8g2 fonts for the tiniest displays
 - [alexfru/512_8](https://github.com/alexfru/512_8) - 8x8 bitmap font for your projects
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [robhagemans/hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts) - turns out I like bitmap fonts
