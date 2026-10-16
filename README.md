@@ -368,6 +368,7 @@
 
 ## Python 
 
+- [MicroPythonOS/MicroPythonOS](https://github.com/MicroPythonOS/MicroPythonOS) - A complete operating system for microcontrollers like the ESP32, inspired by Android and iOS.
 - [Lab217MX/Kraken-Kit](https://github.com/Lab217MX/Kraken-Kit) - PCB personalizada que expande el proyecto [ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) con módulos integrados para NFC, Ethernet, Sub-GHz y 2.4 GHz, todo en un solo kit de hardware o
 - [octaprog7/light-nmea-micropython](https://github.com/octaprog7/light-nmea-micropython) - Fast, NMEA 0183 parser for Python and MicroPython.
 - [african-european-swallow/cardputer-micropython-OS-](https://github.com/african-european-swallow/cardputer-micropython-OS-) - A Micropython "OS" that can easily be modified.
