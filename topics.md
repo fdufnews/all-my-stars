@@ -479,6 +479,7 @@
 
 ## operating-system 
 
+- [MicroPythonOS/MicroPythonOS](https://github.com/MicroPythonOS/MicroPythonOS) - A complete operating system for microcontrollers like the ESP32, inspired by Android and iOS.
 - [heliosproj/HeliOS](https://github.com/heliosproj/HeliOS) - A community delivered, open source embedded operating system project.
 - [TechnoCosmic/zero](https://github.com/TechnoCosmic/zero) - Pre-emptive multitasking kernel for AVR architecture MCUs
 - [GeoSn0w/micrOS](https://github.com/GeoSn0w/micrOS) - An Arduino Mega Operating System With TFT TouchScreen Support, pretty GUI and other mumbo-jumbo I may come up with
