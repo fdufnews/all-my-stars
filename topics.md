@@ -486,6 +486,7 @@
 
 ## others 
 
+- [OpenStickCommunity/GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards
 - [omwah/esp-vim](https://github.com/omwah/esp-vim) - Real Vim 9.2 running directly on the ESP32-P4 and ESP32-S3: an ESP-IDF port with a UART console, device help, and in-place session restart
 - [bruceblay/rill-drums](https://github.com/bruceblay/rill-drums) - A generative drum machine for the M5Stack StickS3. Sibling instrument to Rill.
 - [bruceblay/rill-synth](https://github.com/bruceblay/rill-synth) - A pocket generative music and visual instrument for M5Stack StickS3.
