@@ -340,6 +340,7 @@
 
 ## Others 
 
+- [Prokuon/term512](https://github.com/Prokuon/term512) - CardputerAdv expansion kit for AREA512 firmware
 - [macobt-a11y/CYD-LED-matrix-control-interface-8x8-rgb](https://github.com/macobt-a11y/CYD-LED-matrix-control-interface-8x8-rgb) - 
 - [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [sivar2311/ESP32-PlatformIO-Flash-and-PSRAM-configurations](https://github.com/sivar2311/ESP32-PlatformIO-Flash-and-PSRAM-configurations) - ESP32-S3 PlatformIO Flash and PSRAM configurations
