@@ -227,7 +227,7 @@
 
 ## education 
 
-- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## embedded 
@@ -356,7 +356,6 @@
 ## hacktoberfest 
 
 - [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
-- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## haskell 
@@ -454,7 +453,7 @@
 - [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
-- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [maoschanz/gedit-plugin-markdown_preview](https://github.com/maoschanz/gedit-plugin-markdown_preview) - A gedit plugin previewing markdown (.md) documents
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -486,6 +485,8 @@
 
 ## others 
 
+- [unkyulee/micro-journal-mcu](https://github.com/unkyulee/micro-journal-mcu) - Micro Journal Firmware for MCU. ESP32, RP2040
+- [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
 - [Prokuon/term512](https://github.com/Prokuon/term512) - CardputerAdv expansion kit for AREA512 firmware
 - [OpenStickCommunity/GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards
 - [omwah/esp-vim](https://github.com/omwah/esp-vim) - Real Vim 9.2 running directly on the ESP32-P4 and ESP32-S3: an ESP-IDF port with a UART console, device help, and in-place session restart
