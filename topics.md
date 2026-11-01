@@ -485,6 +485,7 @@
 
 ## others 
 
+- [viniciushnf/M5StickS3-GPS-GNSS-Monitor](https://github.com/viniciushnf/M5StickS3-GPS-GNSS-Monitor) - GPS & GNSS Monitor firmware for M5StickS3 with real-time data, route statistics, configurable units, timezone, display settings, and persistent configuration storage.
 - [unkyulee/micro-journal-mcu](https://github.com/unkyulee/micro-journal-mcu) - Micro Journal Firmware for MCU. ESP32, RP2040
 - [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
 - [Prokuon/term512](https://github.com/Prokuon/term512) - CardputerAdv expansion kit for AREA512 firmware
