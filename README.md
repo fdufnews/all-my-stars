@@ -138,6 +138,7 @@
 
 ## C++ 
 
+- [viniciushnf/M5StickS3-GPS-GNSS-Monitor](https://github.com/viniciushnf/M5StickS3-GPS-GNSS-Monitor) - GPS & GNSS Monitor firmware for M5StickS3 with real-time data, route statistics, configurable units, timezone, display settings, and persistent configuration storage.
 - [OpenStickCommunity/GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards
 - [cyberwisk/M5Cardputer_WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio) - M5Cardputer_WebRadio
 - [bruceblay/rill-drums](https://github.com/bruceblay/rill-drums) - A generative drum machine for the M5Stack StickS3. Sibling instrument to Rill.
