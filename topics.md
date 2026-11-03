@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [android-app](#android-app)
 - [api](#api)
 - [arduino](#arduino)
 - [automation](#automation)
@@ -80,6 +81,10 @@
 - [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
+
+## android-app 
+
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..
 
 ## api 
 
