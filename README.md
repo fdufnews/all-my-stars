@@ -61,7 +61,6 @@
 - [Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver](https://github.com/Turbofan3360/ESP32-Micropython-Neo-M8-GPS-Driver) - A micropython driver that runs on an ESP32 and receives data from a NEO-M8 GPS module
 - [danilogcrf2-oss/ESP32Synth](https://github.com/danilogcrf2-oss/ESP32Synth) - Polyphonic synthesizer with up to 350 voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit).
 - [lafar6502/esp_nmea_parser](https://github.com/lafar6502/esp_nmea_parser) - testing the gps module
-- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware
 - [valdanylchuk/breezybox](https://github.com/valdanylchuk/breezybox) - mini shell for esp32
 - [valdanylchuk/breezydemo](https://github.com/valdanylchuk/breezydemo) - BreezyBox shell demo for esp32s3
 - [valdanylchuk/breezyapps](https://github.com/valdanylchuk/breezyapps) - ESP32 ELF apps for BreezyBox
@@ -173,6 +172,7 @@
 - [PowerBroker2/NMEA_Parser](https://github.com/PowerBroker2/NMEA_Parser) - Arduino library to parse NMEA sentences
 - [Glinnes/NMEAParser](https://github.com/Glinnes/NMEAParser) - A simple and compact NMEA parser for Arduino
 - [UravuLabs/MS5607](https://github.com/UravuLabs/MS5607) - Arduino Library for TE Connectivity Pressure Sensor MS5607
+- [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) - Open-source e-reader firmware
 - [El-EnderJ/NeoCalculator](https://github.com/El-EnderJ/NeoCalculator) - This project is a Graphing Scientific Calculator based on the ESP32 microcontroller, designed to compete with commercial models (Casio fx-991EX, TI-84) by means of a color TFT screen, natural display 
 - [lonesoulsurfer/Game_of_Life_Colour_Handheld](https://github.com/lonesoulsurfer/Game_of_Life_Colour_Handheld) - Conways Gamne of Life in a Handheld version
 - [victoire2049/esp32cam-rtsp](https://github.com/victoire2049/esp32cam-rtsp) - Simple RTSP (streaming image) server for the ESP32CAM. Easy configuration and monitoring through the web interface.
