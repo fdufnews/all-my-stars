@@ -490,6 +490,7 @@
 
 ## others 
 
+- [Kin1009/M5OS](https://github.com/Kin1009/M5OS) - A firmware for the M5StickS3 with app support (in .py) with builtin system APIs and UI kits.
 - [viniciushnf/M5StickS3-GPS-GNSS-Monitor](https://github.com/viniciushnf/M5StickS3-GPS-GNSS-Monitor) - GPS & GNSS Monitor firmware for M5StickS3 with real-time data, route statistics, configurable units, timezone, display settings, and persistent configuration storage.
 - [unkyulee/micro-journal-mcu](https://github.com/unkyulee/micro-journal-mcu) - Micro Journal Firmware for MCU. ESP32, RP2040
 - [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
