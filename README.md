@@ -373,6 +373,7 @@
 
 ## Python 
 
+- [Kin1009/M5OS](https://github.com/Kin1009/M5OS) - A firmware for the M5StickS3 with app support (in .py) with builtin system APIs and UI kits.
 - [MicroPythonOS/MicroPythonOS](https://github.com/MicroPythonOS/MicroPythonOS) - A complete operating system for microcontrollers like the ESP32, inspired by Android and iOS.
 - [Lab217MX/Kraken-Kit](https://github.com/Lab217MX/Kraken-Kit) - PCB personalizada que expande el proyecto [ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) con módulos integrados para NFC, Ethernet, Sub-GHz y 2.4 GHz, todo en un solo kit de hardware o
 - [octaprog7/light-nmea-micropython](https://github.com/octaprog7/light-nmea-micropython) - Fast, NMEA 0183 parser for Python and MicroPython.
