@@ -76,6 +76,7 @@
 - [tui](#tui)
 - [ui](#ui)
 - [vim](#vim)
+- [vscode](#vscode)
 - [webapp](#webapp)
 - [windows](#windows)
 - [youtube](#youtube)
@@ -490,6 +491,7 @@
 
 ## others 
 
+- [Koakno/KoaOS-for-the-Heltec-V4](https://github.com/Koakno/KoaOS-for-the-Heltec-V4) - An operating system for the Heltec V4
 - [Kin1009/M5OS](https://github.com/Kin1009/M5OS) - A firmware for the M5StickS3 with app support (in .py) with builtin system APIs and UI kits.
 - [viniciushnf/M5StickS3-GPS-GNSS-Monitor](https://github.com/viniciushnf/M5StickS3-GPS-GNSS-Monitor) - GPS & GNSS Monitor firmware for M5StickS3 with real-time data, route statistics, configurable units, timezone, display settings, and persistent configuration storage.
 - [unkyulee/micro-journal-mcu](https://github.com/unkyulee/micro-journal-mcu) - Micro Journal Firmware for MCU. ESP32, RP2040
@@ -871,6 +873,10 @@
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## vscode 
+
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 
 ## webapp 
 
