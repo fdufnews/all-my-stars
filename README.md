@@ -47,6 +47,7 @@
 
 ## C 
 
+- [Koakno/KoaOS-for-the-Heltec-V4](https://github.com/Koakno/KoaOS-for-the-Heltec-V4) - An operating system for the Heltec V4
 - [unkyulee/micro-journal-mcu](https://github.com/unkyulee/micro-journal-mcu) - Micro Journal Firmware for MCU. ESP32, RP2040
 - [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
 - [mcer12/PixelFonts](https://github.com/mcer12/PixelFonts) - Pixel perfect AdafruitGFX & u8g2 fonts for the tiniest displays
