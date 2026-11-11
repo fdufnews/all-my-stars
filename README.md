@@ -127,7 +127,6 @@
 - [jeelabs/esp-link](https://github.com/jeelabs/esp-link) - esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer
 - [olikraus/U8g2_Arduino](https://github.com/olikraus/U8g2_Arduino) - U8glib V2 library for Arduino
 - [gfcwfzkm/SMARTREXE_displayDriver](https://github.com/gfcwfzkm/SMARTREXE_displayDriver) - Display Driver for the ST7586 Controller used in the Smart Response XE
-- [connor-brooks/ecosim](https://github.com/connor-brooks/ecosim) - An interactive ecosystem and evolution simulator written in C and OpenGL, for GNU/Linux.
 - [lexus2k/ssd1306](https://github.com/lexus2k/ssd1306) - Driver for SSD1306, SSD1331, SSD1351, IL9163, ILI9341, ST7735, PCD8544, Nokia 5110 displays running on Arduino/ESP32/Linux (Rasperry) platforms
 - [GeoSn0w/micrOS](https://github.com/GeoSn0w/micrOS) - An Arduino Mega Operating System With TFT TouchScreen Support, pretty GUI and other mumbo-jumbo I may come up with
 - [loboris/MicroPython_ESP32_psRAM_LoBo](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo) - MicroPython for ESP32 with psRAM support
