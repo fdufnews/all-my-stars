@@ -26,6 +26,7 @@
 - [emulator](#emulator)
 - [esp32](#esp32)
 - [flask](#flask)
+- [flipperzero](#flipperzero)
 - [font](#font)
 - [game-engine](#game-engine)
 - [git](#git)
@@ -312,6 +313,13 @@
 
 - [rupin/PiZeroMagicMirror](https://github.com/rupin/PiZeroMagicMirror) - A Pi Zero Magic Mirror Application
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
+
+## flipperzero 
+
+- [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+- [Spooks4576/Ghost_ESP](https://github.com/Spooks4576/Ghost_ESP) - Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect
+- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
+- [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 
 ## font 
 
