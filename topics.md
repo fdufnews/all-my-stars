@@ -543,7 +543,7 @@
 - [lafar6502/esp_nmea_parser](https://github.com/lafar6502/esp_nmea_parser) - testing the gps module
 - [UravuLabs/MS5607](https://github.com/UravuLabs/MS5607) - Arduino Library for TE Connectivity Pressure Sensor MS5607
 - [El-EnderJ/NeoCalculator](https://github.com/El-EnderJ/NeoCalculator) - This project is a Graphing Scientific Calculator based on the ESP32 microcontroller, designed to compete with commercial models (Casio fx-991EX, TI-84) by means of a color TFT screen, natural display 
-- [lonesoulsurfer/Game_of_Life_Colour_Handheld](https://github.com/lonesoulsurfer/Game_of_Life_Colour_Handheld) - Conways Gamne of Life in a Handheld version
+- [lonesoulsurfer/Game_of_Life_Colour_Handheld](https://github.com/lonesoulsurfer/Game_of_Life_Colour_Handheld) - Handheld Conway's Game of Life on an RP2040 with a colour TFT. Colour and trail modes, rule explorer, 6 other automata.
 - [victoire2049/esp32cam-rtsp](https://github.com/victoire2049/esp32cam-rtsp) - Simple RTSP (streaming image) server for the ESP32CAM. Easy configuration and monitoring through the web interface.
 - [lukeswitz/CYD_wifi_monitor](https://github.com/lukeswitz/CYD_wifi_monitor) - Wi-Fi 2,4ghz Monitor for the CYD (ESP32 + TFT). Scans 2.4 GHz networks and shows channel congestion as bar graphs or SSID lists. Touchscreen lets you switch views instantly.
 - [st739/WiFind-pico](https://github.com/st739/WiFind-pico) - Utility code to connect a pico to a WiFi network
