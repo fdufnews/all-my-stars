@@ -54,12 +54,15 @@
 - [macos](#macos)
 - [malware](#malware)
 - [markdown](#markdown)
+- [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [monitoring](#monitoring)
 - [music](#music)
 - [neovim](#neovim)
 - [open-source](#open-source)
 - [operating-system](#operating-system)
 - [others](#others)
+- [pentesting](#pentesting)
 - [php](#php)
 - [pixel-art](#pixel-art)
 - [productivity](#productivity)
@@ -93,6 +96,7 @@
 
 ## arduino 
 
+- [numbpill3d/cardputer-adv-diviner](https://github.com/numbpill3d/cardputer-adv-diviner) - Daedric/Lain-skinned companion firmware for the M5Stack Cardputer ADV: a pocket synth, visual instrument, Gemini browser, and authorized Wi-Fi/BLE/LAN toolkit with 16 rites.
 - [mcer12/PixelFonts](https://github.com/mcer12/PixelFonts) - Pixel perfect AdafruitGFX & u8g2 fonts for the tiniest displays
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [chongjiazhen/cardputer-puzzles](https://github.com/chongjiazhen/cardputer-puzzles) - 40 of Simon Tatham's puzzles on the M5Stack Cardputer ADV — on-device picker, Tab menu, preset & custom sizing.
@@ -184,6 +188,7 @@
 
 ## cli 
 
+- [emirmrkaljevic/usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, generate an open Python/libusb driver. CLI + MCP server.
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
 - [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
@@ -421,6 +426,7 @@
 
 ## linux 
 
+- [emirmrkaljevic/usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, generate an open Python/libusb driver. CLI + MCP server.
 - [diddy-boy/mini-pi-media-server](https://github.com/diddy-boy/mini-pi-media-server) - Mini Pi media server for a Raspberry pi.
 - [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -465,6 +471,14 @@
 - [maoschanz/gedit-plugin-markdown_preview](https://github.com/maoschanz/gedit-plugin-markdown_preview) - A gedit plugin previewing markdown (.md) documents
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+
+## mcp 
+
+- [emirmrkaljevic/usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, generate an open Python/libusb driver. CLI + MCP server.
+
+## mcp-server 
+
+- [emirmrkaljevic/usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, generate an open Python/libusb driver. CLI + MCP server.
 
 ## monitoring 
 
@@ -742,6 +756,10 @@
 - [borgel/bolton_buttons](https://github.com/borgel/bolton_buttons) - Small devices to add keys to devices that have too few
 - [technoblogy/tiny-lisp-computer](https://github.com/technoblogy/tiny-lisp-computer) - A self-contained computer with its own display and keyboard, based on an ATmega328 or ATmega1284, that you can program in Lisp.
 
+## pentesting 
+
+- [numbpill3d/cardputer-adv-diviner](https://github.com/numbpill3d/cardputer-adv-diviner) - Daedric/Lain-skinned companion firmware for the M5Stack Cardputer ADV: a pocket synth, visual instrument, Gemini browser, and authorized Wi-Fi/BLE/LAN toolkit with 16 rites.
+
 ## php 
 
 - [diddy-boy/mini-pi-media-server](https://github.com/diddy-boy/mini-pi-media-server) - Mini Pi media server for a Raspberry pi.
@@ -766,6 +784,7 @@
 
 ## python 
 
+- [emirmrkaljevic/usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, generate an open Python/libusb driver. CLI + MCP server.
 - [inmcm/micropyGPS](https://github.com/inmcm/micropyGPS) - A Full Featured GPS NMEA-0183  sentence parser for use with Micropython and the PyBoard embedded platform
 - [Yutani140x/saturnix-camera](https://github.com/Yutani140x/saturnix-camera) - Open-source camera with custom hardware and film-like rendering
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
@@ -814,6 +833,7 @@
 
 ## reverse-engineering 
 
+- [emirmrkaljevic/usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, generate an open Python/libusb driver. CLI + MCP server.
 - [cpetrich/counterfeit_DS18B20](https://github.com/cpetrich/counterfeit_DS18B20) - How to tell original from fake DS18B20 temperature sensors.
 - [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 
