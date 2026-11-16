@@ -137,6 +137,7 @@
 
 ## C++ 
 
+- [numbpill3d/cardputer-adv-diviner](https://github.com/numbpill3d/cardputer-adv-diviner) - Daedric/Lain-skinned companion firmware for the M5Stack Cardputer ADV: a pocket synth, visual instrument, Gemini browser, and authorized Wi-Fi/BLE/LAN toolkit with 16 rites.
 - [viniciushnf/M5StickS3-GPS-GNSS-Monitor](https://github.com/viniciushnf/M5StickS3-GPS-GNSS-Monitor) - GPS & GNSS Monitor firmware for M5StickS3 with real-time data, route statistics, configurable units, timezone, display settings, and persistent configuration storage.
 - [OpenStickCommunity/GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards
 - [cyberwisk/M5Cardputer_WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio) - M5Cardputer_WebRadio
@@ -373,6 +374,7 @@
 
 ## Python 
 
+- [emirmrkaljevic/usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, generate an open Python/libusb driver. CLI + MCP server.
 - [Kin1009/M5OS](https://github.com/Kin1009/M5OS) - A firmware for the M5StickS3 with app support (in .py) with builtin system APIs and UI kits.
 - [MicroPythonOS/MicroPythonOS](https://github.com/MicroPythonOS/MicroPythonOS) - A complete operating system for microcontrollers like the ESP32, inspired by Android and iOS.
 - [Lab217MX/Kraken-Kit](https://github.com/Lab217MX/Kraken-Kit) - PCB personalizada que expande el proyecto [ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) con módulos integrados para NFC, Ethernet, Sub-GHz y 2.4 GHz, todo en un solo kit de hardware o
