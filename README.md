@@ -50,6 +50,7 @@
 - [Koakno/KoaOS-for-the-Heltec-V4](https://github.com/Koakno/KoaOS-for-the-Heltec-V4) - An operating system for the Heltec V4
 - [unkyulee/micro-journal-mcu](https://github.com/unkyulee/micro-journal-mcu) - Micro Journal Firmware for MCU. ESP32, RP2040
 - [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
+- [MicroPythonOS/MicroPythonOS](https://github.com/MicroPythonOS/MicroPythonOS) - A complete operating system for microcontrollers like the ESP32, inspired by Android and iOS.
 - [mcer12/PixelFonts](https://github.com/mcer12/PixelFonts) - Pixel perfect AdafruitGFX & u8g2 fonts for the tiniest displays
 - [omwah/esp-vim](https://github.com/omwah/esp-vim) - Real Vim 9.2 running directly on the ESP32-P4 and ESP32-S3: an ESP-IDF port with a UART console, device help, and in-place session restart
 - [ESP32DE/I2S_parallel_example_drive_a_64x32_display](https://github.com/ESP32DE/I2S_parallel_example_drive_a_64x32_display) - I2S parallel example drive a 64x32 RGB display.
@@ -376,7 +377,6 @@
 
 - [emirmrkaljevic/usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, generate an open Python/libusb driver. CLI + MCP server.
 - [Kin1009/M5OS](https://github.com/Kin1009/M5OS) - A firmware for the M5StickS3 with app support (in .py) with builtin system APIs and UI kits.
-- [MicroPythonOS/MicroPythonOS](https://github.com/MicroPythonOS/MicroPythonOS) - A complete operating system for microcontrollers like the ESP32, inspired by Android and iOS.
 - [Lab217MX/Kraken-Kit](https://github.com/Lab217MX/Kraken-Kit) - PCB personalizada que expande el proyecto [ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) con módulos integrados para NFC, Ethernet, Sub-GHz y 2.4 GHz, todo en un solo kit de hardware o
 - [octaprog7/light-nmea-micropython](https://github.com/octaprog7/light-nmea-micropython) - Fast, NMEA 0183 parser for Python and MicroPython.
 - [african-european-swallow/cardputer-micropython-OS-](https://github.com/african-european-swallow/cardputer-micropython-OS-) - A Micropython "OS" that can easily be modified.
