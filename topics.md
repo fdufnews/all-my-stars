@@ -96,7 +96,7 @@
 
 ## arduino 
 
-- [numbpill3d/cardputer-adv-diviner](https://github.com/numbpill3d/cardputer-adv-diviner) - Daedric/Lain-skinned companion firmware for the M5Stack Cardputer ADV: a pocket synth, visual instrument, Gemini browser, and authorized Wi-Fi/BLE/LAN toolkit with 16 rites.
+- [numbpill3d/cardputer-adv-diviner](https://github.com/numbpill3d/cardputer-adv-diviner) - Generative creative underground aesthetic companion firmware for the M5Stack Cardputer ADV: a pocket synth, visual instrument, Gemini browser, and authorized Wi-Fi/BLE/LAN toolkit with 16 rites.
 - [mcer12/PixelFonts](https://github.com/mcer12/PixelFonts) - Pixel perfect AdafruitGFX & u8g2 fonts for the tiniest displays
 - [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 - [chongjiazhen/cardputer-puzzles](https://github.com/chongjiazhen/cardputer-puzzles) - 40 of Simon Tatham's puzzles on the M5Stack Cardputer ADV — on-device picker, Tab menu, preset & custom sizing.
@@ -758,7 +758,7 @@
 
 ## pentesting 
 
-- [numbpill3d/cardputer-adv-diviner](https://github.com/numbpill3d/cardputer-adv-diviner) - Daedric/Lain-skinned companion firmware for the M5Stack Cardputer ADV: a pocket synth, visual instrument, Gemini browser, and authorized Wi-Fi/BLE/LAN toolkit with 16 rites.
+- [numbpill3d/cardputer-adv-diviner](https://github.com/numbpill3d/cardputer-adv-diviner) - Generative creative underground aesthetic companion firmware for the M5Stack Cardputer ADV: a pocket synth, visual instrument, Gemini browser, and authorized Wi-Fi/BLE/LAN toolkit with 16 rites.
 
 ## php 
 
