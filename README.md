@@ -137,7 +137,7 @@
 
 ## C++ 
 
-- [numbpill3d/cardputer-adv-diviner](https://github.com/numbpill3d/cardputer-adv-diviner) - Daedric/Lain-skinned companion firmware for the M5Stack Cardputer ADV: a pocket synth, visual instrument, Gemini browser, and authorized Wi-Fi/BLE/LAN toolkit with 16 rites.
+- [numbpill3d/cardputer-adv-diviner](https://github.com/numbpill3d/cardputer-adv-diviner) - Generative creative underground aesthetic companion firmware for the M5Stack Cardputer ADV: a pocket synth, visual instrument, Gemini browser, and authorized Wi-Fi/BLE/LAN toolkit with 16 rites.
 - [viniciushnf/M5StickS3-GPS-GNSS-Monitor](https://github.com/viniciushnf/M5StickS3-GPS-GNSS-Monitor) - GPS & GNSS Monitor firmware for M5StickS3 with real-time data, route statistics, configurable units, timezone, display settings, and persistent configuration storage.
 - [OpenStickCommunity/GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards
 - [cyberwisk/M5Cardputer_WebRadio](https://github.com/cyberwisk/M5Cardputer_WebRadio) - M5Cardputer_WebRadio
